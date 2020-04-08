@@ -1,5 +1,8 @@
 # NASA-GeneLab
- Astrobotany project: Finding patterns from space data using statistical method
+
+*Please see Main reports(NASA_GeneLab_proposal.pdf, NASA_GeneLab_MidReport) for the details of this project*
+
+Astrobotany project: Finding patterns from space data using statistical method
 
 So far, from first milestone of the project, objective of the project(name of the project) was defined with help from Choi et.al paper. Then, data exploration was done with BRIC19 data by using R. Few of concerns and possible suggestions with data was discussed. Possible statistical method such as unsupervised learning(e.g. clustering) and deep learning(e.g. NLP based neural networks) was suggested. After formal discussion with first milestone that I have done, it is decided that new data from NASA Gene lab GLDS-120 will be used to perform the analysis. Therefore, process that was done with first mileston, such as, data preprocessing and data exploration will be performed again before building the main model. This time Python will be used for the analysis.
 
