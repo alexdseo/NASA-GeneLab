@@ -1,0 +1,17 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,CHILD_GO_hits
+1,-11.355105235224055,GO:0051179,localization,M1,1,GO:0046907 intracellular transport
+1,-8.472603728649688,GO:0008152,metabolic process,M1,1,GO:0008652 cellular amino acid biosynthetic process
+1,-5.5327286281973445,GO:0050789,regulation of biological process,M1,1,GO:0048583 regulation of response to stimulus
+1,-5.466321806178964,GO:0032501,multicellular organismal process,M1,1,GO:0010015 root morphogenesis
+1,-3.9043261467735886,GO:0048519,negative regulation of biological process,M1,1,GO:0048585 negative regulation of response to stimulus
+1,-3.8600486414257142,GO:0071840,cellular component organization or biogenesis,M1,1,GO:0061024 membrane organization
+1,-3.771758614899781,GO:0009987,cellular process,M1,1,GO:0000911 cytokinesis by cell plate formation
+1,-3.5971866946819833,GO:0040007,growth,M1,1,GO:0048767 root hair elongation
+1,-3.4531370700993675,GO:0050896,response to stimulus,M1,1,GO:0009648 photoperiodism
+1,-3.3095928398243952,GO:0022414,reproductive process,M1,1,GO:0010228 vegetative to reproductive phase transition of meristem
+1,-3.2687005626438643,GO:0032502,developmental process,M1,1,GO:0048469 cell maturation
+1,-2.9137535199341302,GO:0048518,positive regulation of biological process,M1,1,GO:2000630 positive regulation of miRNA metabolic process
+1,-2.7212167132394387,GO:0023052,signaling,M1,1,GO:0009755 hormone-mediated signaling pathway
+1,-2.6067057036115426,GO:0065007,biological regulation,M1,1,GO:0055065 metal ion homeostasis
+1,-2.587609223435164,GO:0002376,immune system process,M1,1,GO:0009626 plant-type hypersensitive response
+1,-2.4333280108938506,GO:0019740,nitrogen utilization,M1,1,GO:0019740 nitrogen utilization

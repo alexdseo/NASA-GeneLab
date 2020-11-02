@@ -1,0 +1,15 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,CHILD_GO_hits
+1,-15.25966086119333,GO:0051179,localization,M1,1,GO:0016192 vesicle-mediated transport
+1,-6.801031807632187,GO:0008152,metabolic process,M1,1,GO:0006520 cellular amino acid metabolic process
+1,-6.778664579738008,GO:0050789,regulation of biological process,M1,1,GO:0048583 regulation of response to stimulus
+1,-5.737842742229089,GO:0071840,cellular component organization or biogenesis,M1,1,GO:0061024 membrane organization
+1,-4.962185528858836,GO:0032501,multicellular organismal process,M1,1,GO:0080147 root hair cell development
+1,-4.650676200299633,GO:0032502,developmental process,M1,1,GO:0048469 cell maturation
+1,-4.645012044513656,GO:0023052,signaling,M1,1,GO:0009755 hormone-mediated signaling pathway
+1,-4.417899138898076,GO:0040007,growth,M1,1,GO:0048767 root hair elongation
+1,-4.336401272811583,GO:0050896,response to stimulus,M1,1,GO:0032870 cellular response to hormone stimulus
+1,-3.0987389624661437,GO:0009987,cellular process,M1,1,GO:0000911 cytokinesis by cell plate formation
+1,-2.473963782129634,GO:0022414,reproductive process,M1,1,"GO:0048573 photoperiodism, flowering"
+1,-2.364626679600311,GO:0019740,nitrogen utilization,M1,1,GO:0019740 nitrogen utilization
+1,-2.3026234893976985,GO:0048519,negative regulation of biological process,M1,1,GO:1903321 negative regulation of protein modification by small protein conjugation or removal
+1,-2.214825507265251,GO:0065007,biological regulation,M1,1,GO:0055072 iron ion homeostasis

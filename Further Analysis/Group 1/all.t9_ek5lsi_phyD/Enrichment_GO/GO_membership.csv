@@ -1,0 +1,234 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-2,GO:0043085,positive regulation of catalytic activity,M1,1,0
+1,-2.1,GO:0009826,unidimensional cell growth,M1,1,0
+1,-2.9,GO:0090407,organophosphate biosynthetic process,M1,1,0
+1,-2.5,GO:0036293,response to decreased oxygen levels,M1,1,0
+1,-2.3,GO:0015718,monocarboxylic acid transport,M1,1,0
+1,-3.7,GO:0010054,trichoblast differentiation,M1,1,0
+1,-2.1,GO:0016050,vesicle organization,M1,1,0
+1,-2.2,GO:0071453,cellular response to oxygen levels,M1,1,0
+1,-2.3,GO:0006626,protein targeting to mitochondrion,M1,1,0
+1,-2.2,GO:0032101,regulation of response to external stimulus,M1,1,0
+1,-2.9,GO:0018231,peptidyl-S-diacylglycerol-L-cysteine biosynthetic process from peptidyl-cysteine,M1,1,0
+1,-7.2,GO:0072657,protein localization to membrane,M1,1,0
+1,-2.5,GO:0090698,post-embryonic plant morphogenesis,M1,1,0
+1,-2.1,GO:0060918,auxin transport,M1,1,0
+1,-2.3,GO:0070647,protein modification by small protein conjugation or removal,M1,1,0
+1,-2.7,GO:0009926,auxin polar transport,M1,1,0
+1,-2.1,GO:0006526,arginine biosynthetic process,M1,1,0
+1,-3.3,GO:0048469,cell maturation,M1,1,0
+1,-3.1,GO:0000338,protein deneddylation,M1,1,0
+1,-5.6,GO:0006605,protein targeting,M1,1,0
+1,-2.9,GO:0044282,small molecule catabolic process,M1,1,0
+1,-3.2,GO:0019439,aromatic compound catabolic process,M1,1,0
+1,-2.4,GO:0006997,nucleus organization,M1,1,0
+1,-7.2,ko04144,Endocytosis,M1,1,0
+1,-2.3,GO:0032511,late endosome to vacuole transport via multivesicular body sorting pathway,M1,1,0
+1,-2.8,GO:0007033,vacuole organization,M1,1,0
+1,-2.5,GO:0009799,specification of symmetry,M1,1,0
+1,-2.4,GO:0006839,mitochondrial transport,M1,1,0
+1,-3.1,GO:0009085,lysine biosynthetic process,M1,1,0
+1,-2.1,GO:0016108,tetraterpenoid metabolic process,M1,1,0
+1,-2.2,GO:0042814,monopolar cell growth,M1,1,0
+1,-2.2,ko00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",M1,1,0
+1,-2.6,GO:0008219,cell death,M1,1,0
+1,-2.2,GO:0009142,nucleoside triphosphate biosynthetic process,M1,1,0
+1,-2.1,GO:0009909,regulation of flower development,M1,1,0
+1,-3,GO:0040007,growth,M1,1,0
+1,-2,GO:0016054,organic acid catabolic process,M1,1,0
+1,-3,GO:0043648,dicarboxylic acid metabolic process,M1,1,0
+1,-2.7,GO:0048573,"photoperiodism, flowering",M1,1,0
+1,-2.6,GO:0009626,plant-type hypersensitive response,M1,1,0
+1,-2.3,GO:0042450,arginine biosynthetic process via ornithine,M1,1,0
+1,-2.6,GO:0045047,protein targeting to ER,M1,1,0
+1,-2.2,GO:0016572,histone phosphorylation,M1,1,0
+1,-7.8,GO:0006520,cellular amino acid metabolic process,M1,1,0
+1,-3,GO:1901361,organic cyclic compound catabolic process,M1,1,0
+1,-2.2,GO:0000462,"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",M1,1,0
+1,-6.9,GO:1901605,alpha-amino acid metabolic process,M1,1,0
+1,-2.6,GO:0006497,protein lipidation,M1,1,0
+1,-8.1,GO:0090150,establishment of protein localization to membrane,M1,1,0
+1,-2.5,GO:0010102,lateral root morphogenesis,M1,1,0
+1,-3.3,M00527,"Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine",M1,1,0
+1,-2.9,GO:0006338,chromatin remodeling,M1,1,0
+1,-2.2,ath00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",M1,1,0
+1,-2.1,GO:0016116,carotenoid metabolic process,M1,1,0
+1,-2.9,GO:0009894,regulation of catabolic process,M1,1,0
+1,-2.1,GO:0006897,endocytosis,M1,1,0
+1,-2.6,GO:0018193,peptidyl-amino acid modification,M1,1,0
+1,-3.4,GO:0006553,lysine metabolic process,M1,1,0
+1,-3.1,GO:0009066,aspartate family amino acid metabolic process,M1,1,0
+1,-3.1,ath00300,Lysine biosynthesis,M1,1,0
+1,-8,GO:0042886,amide transport,M1,1,0
+1,-2.3,GO:0015786,UDP-glucose transmembrane transport,M1,1,0
+1,-2.2,GO:0032012,regulation of ARF protein signal transduction,M1,1,0
+1,-2.5,GO:0015849,organic acid transport,M1,1,0
+1,-3.3,GO:0009089,lysine biosynthetic process via diaminopimelate,M1,1,0
+1,-3.1,ko00300,Lysine biosynthesis,M1,1,0
+1,-2.4,GO:0032870,cellular response to hormone stimulus,M1,1,0
+1,-3.3,GO:0048765,root hair cell differentiation,M1,1,0
+1,-3.8,GO:0044283,small molecule biosynthetic process,M1,1,0
+1,-5,ath01230,Biosynthesis of amino acids,M1,1,0
+1,-2.4,GO:0009639,response to red or far red light,M1,1,0
+1,-3.3,GO:0046394,carboxylic acid biosynthetic process,M1,1,0
+1,-8,GO:1901607,alpha-amino acid biosynthetic process,M1,1,0
+1,-3.6,GO:0090696,post-embryonic plant organ development,M1,1,0
+1,-3.3,GO:0010228,vegetative to reproductive phase transition of meristem,M1,1,0
+1,-3,GO:0031348,negative regulation of defense response,M1,1,0
+1,-8.1,GO:0015833,peptide transport,M1,1,0
+1,-2.1,GO:0048581,negative regulation of post-embryonic development,M1,1,0
+1,-2.5,GO:0071108,protein K48-linked deubiquitination,M1,1,0
+1,-3,GO:0048571,long-day photoperiodism,M1,1,0
+1,-2.3,GO:0061640,cytoskeleton-dependent cytokinesis,M1,1,0
+1,-4.1,GO:0009064,glutamine family amino acid metabolic process,M1,1,0
+1,-3.5,GO:0015931,nucleobase-containing compound transport,M1,1,0
+1,-2.1,GO:0080134,regulation of response to stress,M1,1,0
+1,-2.5,GO:0034050,host programmed cell death induced by symbiont,M1,1,0
+1,-8.2,GO:0008104,protein localization,M1,1,0
+1,-3.1,GO:0048193,Golgi vesicle transport,M1,1,0
+1,-2.7,GO:0016049,cell growth,M1,1,0
+1,-5.1,GO:0072594,establishment of protein localization to organelle,M1,1,0
+1,-3.2,GO:0006525,arginine metabolic process,M1,1,0
+1,-2.6,GO:0009910,negative regulation of flower development,M1,1,0
+1,-3.6,GO:0032506,cytokinetic process,M1,1,0
+1,-2.1,GO:0022406,membrane docking,M1,1,0
+1,-2.3,GO:0048574,"long-day photoperiodism, flowering",M1,1,0
+1,-3,GO:0016579,protein deubiquitination,M1,1,0
+1,-5,ko01230,Biosynthesis of amino acids,M1,1,0
+1,-11,GO:0046907,intracellular transport,M1,1,0
+1,-2.1,GO:0000097,sulfur amino acid biosynthetic process,M1,1,0
+1,-2.9,GO:0018230,peptidyl-L-cysteine S-palmitoylation,M1,1,0
+1,-4.9,GO:0070646,protein modification by small protein removal,M1,1,0
+1,-2.9,GO:0018198,peptidyl-cysteine modification,M1,1,0
+1,-2.8,GO:0010101,post-embryonic root morphogenesis,M1,1,0
+1,-2.9,GO:0009640,photomorphogenesis,M1,1,0
+1,-2.4,GO:0001666,response to hypoxia,M1,1,0
+1,-2.3,GO:0032989,cellular component morphogenesis,M1,1,0
+1,-5.8,GO:0006612,protein targeting to membrane,M1,1,0
+1,-2.2,GO:0009790,embryo development,M1,1,0
+1,-2.5,GO:0051438,regulation of ubiquitin-protein transferase activity,M1,1,0
+1,-10,GO:0016192,vesicle-mediated transport,M1,1,0
+1,-2.1,GO:0140056,organelle localization by membrane tethering,M1,1,0
+1,-3.9,GO:0061024,membrane organization,M1,1,0
+1,-2.8,GO:0008614,pyridoxine metabolic process,M1,1,0
+1,-5.5,GO:0010015,root morphogenesis,M1,1,0
+1,-2.2,GO:0006561,proline biosynthetic process,M1,1,0
+1,-2.9,GO:0060560,developmental growth involved in morphogenesis,M1,1,0
+1,-2.5,GO:0070482,response to oxygen levels,M1,1,0
+1,-3.3,GO:0016053,organic acid biosynthetic process,M1,1,0
+1,-2.1,GO:0000281,mitotic cytokinesis,M1,1,0
+1,-3.8,GO:0080147,root hair cell development,M1,1,0
+1,-2.2,GO:0090151,establishment of protein localization to mitochondrial membrane,M1,1,0
+1,-2.2,GO:0051051,negative regulation of transport,M1,1,0
+1,-3.3,ath03040,Spliceosome,M1,1,0
+1,-2.5,GO:0042822,pyridoxal phosphate metabolic process,M1,1,0
+1,-2.7,GO:0048768,root hair cell tip growth,M1,1,0
+1,-2.2,GO:0051182,coenzyme transport,M1,1,0
+1,-2.9,GO:2000630,positive regulation of miRNA metabolic process,M1,1,0
+1,-2.7,GO:0071365,cellular response to auxin stimulus,M1,1,0
+1,-3.9,GO:0090697,post-embryonic plant organ morphogenesis,M1,1,0
+1,-3.6,GO:0031396,regulation of protein ubiquitination,M1,1,0
+1,-3,GO:0032509,endosome transport via multivesicular body sorting pathway,M1,1,0
+1,-4.4,GO:0033365,protein localization to organelle,M1,1,0
+1,-2.9,GO:0042157,lipoprotein metabolic process,M1,1,0
+1,-2.1,GO:0072655,establishment of protein localization to mitochondrion,M1,1,0
+1,-3.3,ko03040,Spliceosome,M1,1,0
+1,-2.4,ko00360,Phenylalanine metabolism,M1,1,0
+1,-2.1,GO:0048579,"negative regulation of long-day photoperiodism, flowering",M1,1,0
+1,-3,GO:0051246,regulation of protein metabolic process,M1,1,0
+1,-3.8,GO:0006508,proteolysis,M1,1,0
+1,-3.1,GO:0015780,nucleotide-sugar transmembrane transport,M1,1,0
+1,-2.5,ko03018,RNA degradation,M1,1,0
+1,-2.4,GO:0019740,nitrogen utilization,M1,1,0
+1,-2.7,GO:0090069,regulation of ribosome biogenesis,M1,1,0
+1,-2.2,GO:0090627,plant epidermal cell differentiation,M1,1,0
+1,-2.1,ath00350,Tyrosine metabolism,M1,1,0
+1,-2.1,GO:0070585,protein localization to mitochondrion,M1,1,0
+1,-2.3,GO:0060548,negative regulation of cell death,M1,1,0
+1,-2.3,GO:0061951,establishment of protein localization to plasma membrane,M1,1,0
+1,-3,GO:0045324,late endosome to vacuole transport,M1,1,0
+1,-2.1,ko00350,Tyrosine metabolism,M1,1,0
+1,-2.5,GO:0009141,nucleoside triphosphate metabolic process,M1,1,0
+1,-2.3,GO:0051353,positive regulation of oxidoreductase activity,M1,1,0
+1,-2.7,GO:0010586,miRNA metabolic process,M1,1,0
+1,-3.9,GO:0048585,negative regulation of response to stimulus,M1,1,0
+1,-2.8,GO:0044270,cellular nitrogen compound catabolic process,M1,1,0
+1,-4,GO:1903320,regulation of protein modification by small protein conjugation or removal,M1,1,0
+1,-2,GO:0009416,response to light stimulus,M1,1,0
+1,-3,GO:0019637,organophosphate metabolic process,M1,1,0
+1,-9.6,GO:0015031,protein transport,M1,1,0
+1,-2.6,GO:0007034,vacuolar transport,M1,1,0
+1,-5.4,GO:1905392,plant organ morphogenesis,M1,1,0
+1,-2.8,GO:2000242,negative regulation of reproductive process,M1,1,0
+1,-2.4,GO:0000910,cytokinesis,M1,1,0
+1,-2.9,GO:0090481,pyrimidine nucleotide-sugar transmembrane transport,M1,1,0
+1,-2.4,ath00360,Phenylalanine metabolism,M1,1,0
+1,-5.5,GO:0048583,regulation of response to stimulus,M1,1,0
+1,-2.8,GO:0034655,nucleobase-containing compound catabolic process,M1,1,0
+1,-2.1,GO:0043069,negative regulation of programmed cell death,M1,1,0
+1,-2,GO:0046395,carboxylic acid catabolic process,M1,1,0
+1,-3.3,GO:0009067,aspartate family amino acid biosynthetic process,M1,1,0
+1,-3.6,GO:0043543,protein acylation,M1,1,0
+1,-2,GO:0009734,auxin-activated signaling pathway,M1,1,0
+1,-3.3,GO:0046451,diaminopimelate metabolic process,M1,1,0
+1,-2.6,GO:0009072,aromatic amino acid family metabolic process,M1,1,0
+1,-3.5,GO:0009648,photoperiodism,M1,1,0
+1,-2.3,GO:0034196,acylglycerol transport,M1,1,0
+1,-11,GO:0051649,establishment of localization in cell,M1,1,0
+1,-8.4,GO:0070727,cellular macromolecule localization,M1,1,0
+1,-2.6,GO:0055065,metal ion homeostasis,M1,1,0
+1,-2.4,GO:0007006,mitochondrial membrane organization,M1,1,0
+1,-2.5,GO:0048528,post-embryonic root development,M1,1,0
+1,-2.2,GO:0042816,vitamin B6 metabolic process,M1,1,0
+1,-2,GO:0044255,cellular lipid metabolic process,M1,1,0
+1,-3.3,GO:0048764,trichoblast maturation,M1,1,0
+1,-9,GO:0045184,establishment of protein localization,M1,1,0
+1,-2.3,GO:0032268,regulation of cellular protein metabolic process,M1,1,0
+1,-2.3,GO:0071456,cellular response to hypoxia,M1,1,0
+1,-8.5,GO:0008652,cellular amino acid biosynthetic process,M1,1,0
+1,-2.2,GO:0060149,negative regulation of posttranscriptional gene silencing,M1,1,0
+1,-2.6,GO:0072599,establishment of protein localization to endoplasmic reticulum,M1,1,0
+1,-3.7,GO:0016197,endosomal transport,M1,1,0
+1,-2.7,GO:0009073,aromatic amino acid family biosynthetic process,M1,1,0
+1,-2.1,GO:0009793,embryo development ending in seed dormancy,M1,1,0
+1,-4.4,GO:0048364,root development,M1,1,0
+1,-2.8,GO:0051646,mitochondrion localization,M1,1,0
+1,-10,GO:0006886,intracellular protein transport,M1,1,0
+1,-3.6,GO:1902410,mitotic cytokinetic process,M1,1,0
+1,-2.8,GO:0009855,determination of bilateral symmetry,M1,1,0
+1,-2.5,GO:0042823,pyridoxal phosphate biosynthetic process,M1,1,0
+1,-2.9,GO:0000902,cell morphogenesis,M1,1,0
+1,-2.5,GO:0046942,carboxylic acid transport,M1,1,0
+1,-3.3,ath_M00527,"Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine",M1,1,0
+1,-2.6,GO:0042158,lipoprotein biosynthetic process,M1,1,0
+1,-2.1,GO:0051049,regulation of transport,M1,1,0
+1,-2.3,GO:0006527,arginine catabolic process,M1,1,0
+1,-2.7,GO:0015711,organic anion transport,M1,1,0
+1,-7.2,ath04144,Endocytosis,M1,1,0
+1,-2,GO:0034504,protein localization to nucleus,M1,1,0
+1,-2.9,GO:2000628,regulation of miRNA metabolic process,M1,1,0
+1,-2.5,GO:0090558,plant epidermis development,M1,1,0
+1,-2.4,GO:0006515,protein quality control for misfolded or incompletely synthesized proteins,M1,1,0
+1,-2.9,GO:0071985,multivesicular body sorting pathway,M1,1,0
+1,-2.2,GO:0012501,programmed cell death,M1,1,0
+1,-2,GO:0051181,cofactor transport,M1,1,0
+1,-2.9,GO:0051245,negative regulation of cellular defense response,M1,1,0
+1,-3.3,GO:0010053,root epidermal cell differentiation,M1,1,0
+1,-2.8,GO:0048589,developmental growth,M1,1,0
+1,-3.8,GO:0000911,cytokinesis by cell plate formation,M1,1,0
+1,-2.5,GO:0042819,vitamin B6 biosynthetic process,M1,1,0
+1,-2,GO:0048468,cell development,M1,1,0
+1,-2,GO:0006401,RNA catabolic process,M1,1,0
+1,-4.3,GO:0022622,root system development,M1,1,0
+1,-2.2,GO:0033993,response to lipid,M1,1,0
+1,-3.1,GO:0046700,heterocycle catabolic process,M1,1,0
+1,-3.6,GO:0048767,root hair elongation,M1,1,0
+1,-2.2,GO:0036294,cellular response to decreased oxygen levels,M1,1,0
+1,-3.5,GO:0009084,glutamine family amino acid biosynthetic process,M1,1,0
+1,-3.3,GO:0017038,protein import,M1,1,0
+1,-2.5,ath03018,RNA degradation,M1,1,0
+1,-8.1,GO:0034613,cellular protein localization,M1,1,0
+1,-2.5,GO:2000028,"regulation of photoperiodism, flowering",M1,1,0
+1,-2.2,GO:0032011,ARF protein signal transduction,M1,1,0
+1,-2.7,GO:0009755,hormone-mediated signaling pathway,M1,1,0
+1,-3.2,GO:0018345,protein palmitoylation,M1,1,0

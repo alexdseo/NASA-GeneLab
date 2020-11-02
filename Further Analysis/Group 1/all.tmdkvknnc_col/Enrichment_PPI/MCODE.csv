@@ -1,0 +1,4 @@
+Cluster,Score,Type,Gene,Symbol,Network
+1,1.0,Clustered,829676,BSK1,hits_SUB10
+1,1.0,Clustered,834127,BSK8,hits_SUB10
+1,1.0,Seed,824570,BSK6,hits_SUB10

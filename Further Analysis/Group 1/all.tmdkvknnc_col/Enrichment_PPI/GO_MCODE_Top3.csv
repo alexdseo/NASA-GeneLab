@@ -1,0 +1,4 @@
+Network,Annotation
+hits,GO:0016192|vesicle-mediated transport|-19.1;GO:0048583|regulation of response to stimulus|-17.6;GO:0009755|hormone-mediated signaling pathway|-17.3
+hits_MCODE_ALL,GO:0048545|response to steroid hormone|-7.2;GO:0071383|cellular response to steroid hormone stimulus|-7.2;GO:0043401|steroid hormone mediated signaling pathway|-7.2
+hits_SUB10_MCODE_1,GO:0048545|response to steroid hormone|-7.2;GO:0071383|cellular response to steroid hormone stimulus|-7.2;GO:0043401|steroid hormone mediated signaling pathway|-7.2

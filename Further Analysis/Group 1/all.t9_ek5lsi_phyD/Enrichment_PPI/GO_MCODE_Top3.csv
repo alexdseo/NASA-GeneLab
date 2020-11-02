@@ -1,0 +1,5 @@
+Network,Annotation
+hits,GO:0009755|hormone-mediated signaling pathway|-13.9;GO:0048583|regulation of response to stimulus|-13.7;GO:0016192|vesicle-mediated transport|-12.8
+hits_MCODE_ALL,GO:0008614|pyridoxine metabolic process|-9.5;GO:0042823|pyridoxal phosphate biosynthetic process|-9.2;GO:0042822|pyridoxal phosphate metabolic process|-9.2
+hits_SUB5_MCODE_1,GO:0008614|pyridoxine metabolic process|-10.8;GO:0042819|vitamin B6 biosynthetic process|-10.5;GO:0042823|pyridoxal phosphate biosynthetic process|-10.5
+hits_SUB6_MCODE_2,GO:0009742|brassinosteroid mediated signaling pathway|-7.2;GO:0048545|response to steroid hormone|-7.2;GO:0071383|cellular response to steroid hormone stimulus|-7.2
