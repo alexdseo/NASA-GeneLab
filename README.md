@@ -1,6 +1,6 @@
 # NASA-GeneLab
 
-*Please see Main reports(NASA_GeneLab_MidReport) for the details of this project* \
+*Please see Main reports(NASA_GeneLab_MidReport) for the details of this project* 
 
 *Please see NASA_GeneLab_exp1.Rmd for the code regarding Midreport*
 
