@@ -1,10 +1,9 @@
 # NASA-GeneLab
 
-*Please see Main reports(NASA_GeneLab_proposal.pdf, NASA_GeneLab_MidReport) for the details of this project*
+*Please see Main reports(NASA_GeneLab_MidReport) for the details of this project*
+*Please see NASA_GeneLab_exp1.Rmd for the code regarding Midreport*
 
 Astrobotany project: Finding patterns from space data using statistical method
-
-So far, from first milestone of the project, objective of the project(name of the project) was defined with help from Choi et.al paper. Then, data exploration was done with BRIC19 data by using R. Few of concerns and possible suggestions with data was discussed. Possible statistical method such as unsupervised learning(e.g. clustering) and deep learning(e.g. NLP based neural networks) was suggested. After formal discussion with first milestone that I have done, it is decided that new data from NASA Gene lab GLDS-120 will be used to perform the analysis. Therefore, process that was done with first mileston, such as, data preprocessing and data exploration will be performed again before building the main model. This time Python will be used for the analysis.
 
 Study Description of GLDS-120:
 
@@ -19,3 +18,11 @@ When plants were germinated and then left in the dark on the ISS, the WS genotyp
 'Normalized_counts' data from GLDS-120 will be mainly used and 'Array_Genediff_pilot','RNAseq_Genediff_pilot' and 'RNAseq_Isoformsdiff_pilot' will be used as supplemantary data.
 
 Objective of this project will be remained same: Finding patterns from space data using statistical method
+
+After analyzing parttern via clustering method (Midreport) mainly using R, the project went on two directions.
+1) Carry on with the result from the clustering method and use bioinformatics tool for further analysis. You can find this analysis on:
+- [ShinyGO](https://github.com/alexdseo/NASA-GeneLab/tree/master/Bioinformatics%20Result)
+- [Metascape](https://github.com/alexdseo/NASA-GeneLab/tree/master/Further%20Analysis)
+
+2) Take a new approach with by restructuring the dataset and apply predictive modeling analysis using Python. You can find this analysis on:
+- [Restructuring tha Dataset](https://github.com/alexdseo/NASA-GeneLab/blob/master/Astrobotany.ipynb)
