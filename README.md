@@ -19,6 +19,8 @@ When plants were germinated and then left in the dark on the ISS, the WS genotyp
 
 Objective of this project will be remained same: Finding patterns from space data using statistical method
 
+***
+
 After analyzing parttern via clustering method (Midreport) mainly using R, the project went on two directions.
 1) Carry on with the result from the clustering method and use bioinformatics tool for further analysis. You can find this analysis on:
 - [ShinyGO](https://github.com/alexdseo/NASA-GeneLab/tree/master/Bioinformatics%20Result)
