@@ -1,9 +1,5 @@
 # NASA-GeneLab
 
-*Please see Main reports(NASA_GeneLab_MidReport) for the details of this project* 
-
-*Please see NASA_GeneLab_exp1.Rmd for the code regarding Midreport*
-
 Astrobotany project: Finding patterns from space data using statistical method
 
 Study Description of GLDS-120:
@@ -22,7 +18,10 @@ Objective of this project will be remained same: Finding patterns from space dat
 
 ***
 
-After analyzing parttern via clustering method (Midreport) mainly using R, the project went on two directions.
+After analyzing partterns on the data via clustering method (Midreport) mainly using R, the project went on two directions.
+- [Midreport](https://github.com/alexdseo/NASA-GeneLab/blob/master/NASA_GeneLab_MidReport.pdf)
+- [Code for Midreport](https://github.com/alexdseo/NASA-GeneLab/blob/master/NASA_GeneLab_exp1.Rmd)
+
 1) Carry on with the result from the clustering method and use bioinformatics tool for further analysis. You can find this analysis on:
 - [ShinyGO](https://github.com/alexdseo/NASA-GeneLab/tree/master/Bioinformatics%20Result)
 - [Metascape](https://github.com/alexdseo/NASA-GeneLab/tree/master/Further%20Analysis)
