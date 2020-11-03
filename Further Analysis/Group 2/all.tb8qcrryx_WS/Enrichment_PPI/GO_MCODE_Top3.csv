@@ -1,0 +1,8 @@
+Network,Annotation
+hits,GO:0071495|cellular response to endogenous stimulus|-7.0;GO:0009416|response to light stimulus|-6.5;ko04075|Plant hormone signal transduction|-6.1
+hits_MCODE_ALL,ath04075|Plant hormone signal transduction|-9.4;ko04075|Plant hormone signal transduction|-9.4;GO:0015994|chlorophyll metabolic process|-8.3
+hits_SUB1_MCODE_2,ko04075|Plant hormone signal transduction|-6.7;ath04075|Plant hormone signal transduction|-6.7;GO:0009733|response to auxin|-6.3
+hits_SUB2_MCODE_3,GO:0015994|chlorophyll metabolic process|-11.8;GO:0015996|chlorophyll catabolic process|-11.5;GO:0006778|porphyrin-containing compound metabolic process|-11.5
+hits_SUB3_MCODE_5,GO:0009611|response to wounding|-7.7;GO:2000022|regulation of jasmonic acid mediated signaling pathway|-7.4;GO:0009867|jasmonic acid mediated signaling pathway|-6.1
+hits_SUB1_MCODE_6,GO:0010017|red or far-red light signaling pathway|-7.7;GO:0071489|cellular response to red or far red light|-7.6;GO:0071482|cellular response to light stimulus|-6.8
+hits_SUB1_MCODE_7,GO:0032870|cellular response to hormone stimulus|-4.2;GO:0071495|cellular response to endogenous stimulus|-4.2

@@ -1,0 +1,4 @@
+Network,Annotation
+hits,GO:0071495|cellular response to endogenous stimulus|-8.9;GO:0071229|cellular response to acid chemical|-6.7;GO:0009416|response to light stimulus|-6.3
+hits_MCODE_ALL,GO:0071230|cellular response to amino acid stimulus|-14.9;GO:0043200|response to amino acid|-13.9;GO:0071417|cellular response to organonitrogen compound|-13.3
+hits_SUB2_MCODE_1,GO:0071230|cellular response to amino acid stimulus|-14.9;GO:0043200|response to amino acid|-13.9;GO:0071417|cellular response to organonitrogen compound|-13.3
