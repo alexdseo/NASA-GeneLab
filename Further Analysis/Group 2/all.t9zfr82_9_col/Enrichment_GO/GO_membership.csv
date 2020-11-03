@@ -1,0 +1,47 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-3.2,GO:0010206,photosystem II repair,M1,1,0
+1,-4.7,GO:0009765,"photosynthesis, light harvesting",M1,1,0
+1,-12,GO:0009451,RNA modification,M1,1,0
+1,-2.6,ko00196,Photosynthesis - antenna proteins,M1,1,0
+1,-2.6,ath00196,Photosynthesis - antenna proteins,M1,1,0
+1,-2.1,GO:0090056,regulation of chlorophyll metabolic process,M1,1,0
+1,-8.6,GO:0019684,"photosynthesis, light reaction",M1,1,0
+1,-2.2,GO:0006779,porphyrin-containing compound biosynthetic process,M1,1,0
+1,-2.5,GO:0031425,chloroplast RNA processing,M1,1,0
+1,-2.2,ko00945,"Stilbenoid, diarylheptanoid and gingerol biosynthesis",M1,1,0
+1,-7.9,ath00195,Photosynthesis,M1,1,0
+1,-2.1,GO:0071483,cellular response to blue light,M1,1,0
+1,-2.1,GO:0015851,nucleobase transport,M1,1,0
+1,-2.4,ath00903,Limonene and pinene degradation,M1,1,0
+1,-2.3,GO:0000710,meiotic mismatch repair,M1,1,0
+1,-2.7,GO:0051026,chiasma assembly,M1,1,0
+1,-3.9,GO:0015994,chlorophyll metabolic process,M1,1,0
+1,-2.9,GO:1900864,mitochondrial RNA modification,M1,1,0
+1,-2.8,GO:1900865,chloroplast RNA modification,M1,1,0
+1,-3.1,GO:0033013,tetrapyrrole metabolic process,M1,1,0
+1,-2.6,GO:0015995,chlorophyll biosynthetic process,M1,1,0
+1,-2,GO:0009699,phenylpropanoid biosynthetic process,M1,1,0
+1,-3.7,GO:0010207,photosystem II assembly,M1,1,0
+1,-2.5,ath00860,Porphyrin and chlorophyll metabolism,M1,1,0
+1,-2.5,GO:0010143,cutin biosynthetic process,M1,1,0
+1,-2.3,GO:0071490,cellular response to far red light,M1,1,0
+1,-2.6,GO:0010345,suberin biosynthetic process,M1,1,0
+1,-3.3,GO:0000959,mitochondrial RNA metabolic process,M1,1,0
+1,-3,ath00944,Flavone and flavonol biosynthesis,M1,1,0
+1,-2.2,GO:0048017,inositol lipid-mediated signaling,M1,1,0
+1,-7.6,GO:0015979,photosynthesis,M1,1,0
+1,-3.4,GO:0009416,response to light stimulus,M1,1,0
+1,-2.1,GO:0033014,tetrapyrrole biosynthetic process,M1,1,0
+1,-2,GO:0010218,response to far red light,M1,1,0
+1,-2.6,GO:1901401,regulation of tetrapyrrole metabolic process,M1,1,0
+1,-2.5,ko00860,Porphyrin and chlorophyll metabolism,M1,1,0
+1,-7.9,ko00195,Photosynthesis,M1,1,0
+1,-2.1,GO:0006091,generation of precursor metabolites and energy,M1,1,0
+1,-3,ko00944,Flavone and flavonol biosynthesis,M1,1,0
+1,-3.1,GO:0006778,porphyrin-containing compound metabolic process,M1,1,0
+1,-3,GO:0046864,isoprenoid transport,M1,1,0
+1,-2.2,ath00945,"Stilbenoid, diarylheptanoid and gingerol biosynthesis",M1,1,0
+1,-2,GO:0080156,mitochondrial mRNA modification,M1,1,0
+1,-3,GO:0046865,terpenoid transport,M1,1,0
+1,-2.5,GO:0009768,"photosynthesis, light harvesting in photosystem I",M1,1,0
+1,-2.4,ko00903,Limonene and pinene degradation,M1,1,0

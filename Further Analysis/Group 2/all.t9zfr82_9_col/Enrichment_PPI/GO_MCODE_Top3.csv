@@ -1,0 +1,4 @@
+Network,Annotation
+hits,GO:0071490|cellular response to far red light|-5.0;GO:0071495|cellular response to endogenous stimulus|-4.8;GO:0071230|cellular response to amino acid stimulus|-4.6
+hits_MCODE_ALL,GO:0071230|cellular response to amino acid stimulus|-11.9;GO:0043200|response to amino acid|-11.1;GO:0071417|cellular response to organonitrogen compound|-10.6
+hits_SUB3_MCODE_1,GO:0071230|cellular response to amino acid stimulus|-11.9;GO:0043200|response to amino acid|-11.1;GO:0071417|cellular response to organonitrogen compound|-10.6
