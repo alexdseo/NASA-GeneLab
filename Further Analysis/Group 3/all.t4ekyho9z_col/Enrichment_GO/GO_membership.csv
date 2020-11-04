@@ -1,0 +1,111 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-2.3,GO:0032200,telomere organization,M1,1,0
+1,-3.1,GO:0046856,phosphatidylinositol dephosphorylation,M1,1,0
+1,-6.4,GO:0009658,chloroplast organization,M1,1,0
+1,-2.9,GO:0010948,negative regulation of cell cycle process,M1,1,0
+1,-2.4,GO:1900864,mitochondrial RNA modification,M1,1,0
+1,-5,GO:0045786,negative regulation of cell cycle,M1,1,0
+1,-2.3,GO:0090615,mitochondrial mRNA processing,M1,1,0
+1,-4,GO:0031570,DNA integrity checkpoint,M1,1,0
+1,-2.1,GO:0010520,regulation of reciprocal meiotic recombination,M1,1,0
+1,-2.5,GO:0009956,radial pattern formation,M1,1,0
+1,-2.8,GO:0010087,phloem or xylem histogenesis,M1,1,0
+1,-2.3,GO:0043200,response to amino acid,M1,1,0
+1,-4.9,GO:0000959,mitochondrial RNA metabolic process,M1,1,0
+1,-2.1,GO:1901663,quinone biosynthetic process,M1,1,0
+1,-2,GO:0042181,ketone biosynthetic process,M1,1,0
+1,-2.5,GO:0019751,polyol metabolic process,M1,1,0
+1,-2.9,GO:0046838,phosphorylated carbohydrate dephosphorylation,M1,1,0
+1,-2.2,GO:0006458,'de novo' protein folding,M1,1,0
+1,-2.1,GO:0046149,pigment catabolic process,M1,1,0
+1,-2.9,GO:0044774,mitotic DNA integrity checkpoint,M1,1,0
+1,-6.3,GO:0009657,plastid organization,M1,1,0
+1,-2.1,GO:0010239,chloroplast mRNA processing,M1,1,0
+1,-4.9,GO:0019684,"photosynthesis, light reaction",M1,1,0
+1,-2.3,GO:0071214,cellular response to abiotic stimulus,M1,1,0
+1,-2.3,GO:0080156,mitochondrial mRNA modification,M1,1,0
+1,-2.4,GO:1900871,chloroplast mRNA modification,M1,1,0
+1,-2.1,GO:0090057,root radial pattern formation,M1,1,0
+1,-7.2,GO:0006259,DNA metabolic process,M1,1,0
+1,-2.3,GO:0009767,photosynthetic electron transport chain,M1,1,0
+1,-3.5,GO:0000963,mitochondrial RNA processing,M1,1,0
+1,-2.2,GO:0009790,embryo development,M1,1,0
+1,-2.2,GO:0031425,chloroplast RNA processing,M1,1,0
+1,-8.7,GO:0006281,DNA repair,M1,1,0
+1,-2.2,GO:0010972,negative regulation of G2/M transition of mitotic cell cycle,M1,1,0
+1,-2.8,GO:0051321,meiotic cell cycle,M1,1,0
+1,-2,GO:0071482,cellular response to light stimulus,M1,1,0
+1,-2.7,GO:0006816,calcium ion transport,M1,1,0
+1,-3.1,GO:0071230,cellular response to amino acid stimulus,M1,1,0
+1,-2.3,GO:0104004,cellular response to environmental stimulus,M1,1,0
+1,-2.5,ko00195,Photosynthesis,M1,1,0
+1,-3.4,GO:0045930,negative regulation of mitotic cell cycle,M1,1,0
+1,-2,GO:0006282,regulation of DNA repair,M1,1,0
+1,-2.6,GO:0044773,mitotic DNA damage checkpoint,M1,1,0
+1,-2.5,GO:0045143,homologous chromosome segregation,M1,1,0
+1,-2.2,GO:0044818,mitotic G2/M transition checkpoint,M1,1,0
+1,-2.4,GO:0034625,"fatty acid elongation, monounsaturated fatty acid",M1,1,0
+1,-2.8,GO:0016556,mRNA modification,M1,1,0
+1,-2.9,GO:0007129,synapsis,M1,1,0
+1,-3,GO:0080165,callose deposition in phloem sieve plate,M1,1,0
+1,-2.1,GO:0010165,response to X-ray,M1,1,0
+1,-2.1,GO:0051784,negative regulation of nuclear division,M1,1,0
+1,-2.7,GO:0071478,cellular response to radiation,M1,1,0
+1,-2.4,GO:0110029,negative regulation of meiosis I,M1,1,0
+1,-2.7,GO:0000075,cell cycle checkpoint,M1,1,0
+1,-2.4,GO:0034626,"fatty acid elongation, polyunsaturated fatty acid",M1,1,0
+1,-2.4,GO:0019368,"fatty acid elongation, unsaturated fatty acid",M1,1,0
+1,-3.3,GO:0071545,inositol phosphate catabolic process,M1,1,0
+1,-3.1,GO:0071417,cellular response to organonitrogen compound,M1,1,0
+1,-2.1,GO:0051447,negative regulation of meiotic cell cycle,M1,1,0
+1,-3.7,GO:0035825,homologous recombination,M1,1,0
+1,-2.2,GO:0000076,DNA replication checkpoint,M1,1,0
+1,-2.5,GO:0009793,embryo development ending in seed dormancy,M1,1,0
+1,-4.3,GO:0010088,phloem development,M1,1,0
+1,-2.4,GO:0019367,"fatty acid elongation, saturated fatty acid",M1,1,0
+1,-2.1,GO:0044839,cell cycle G2/M phase transition,M1,1,0
+1,-2.1,GO:0045835,negative regulation of meiotic nuclear division,M1,1,0
+1,-5.3,GO:0009451,RNA modification,M1,1,0
+1,-2.1,GO:1901661,quinone metabolic process,M1,1,0
+1,-2.1,GO:0033314,mitotic DNA replication checkpoint,M1,1,0
+1,-2.5,GO:0140053,mitochondrial gene expression,M1,1,0
+1,-7,GO:0000724,double-strand break repair via homologous recombination,M1,1,0
+1,-2.1,GO:0007163,establishment or maintenance of cell polarity,M1,1,0
+1,-4.8,GO:0010212,response to ionizing radiation,M1,1,0
+1,-2.7,GO:0006303,double-strand break repair via nonhomologous end joining,M1,1,0
+1,-2.8,GO:2001289,lipid X metabolic process,M1,1,0
+1,-7.1,GO:0000725,recombinational repair,M1,1,0
+1,-2.1,GO:0031573,intra-S DNA damage checkpoint,M1,1,0
+1,-3.7,GO:0007131,reciprocal meiotic recombination,M1,1,0
+1,-2.4,GO:0007166,cell surface receptor signaling pathway,M1,1,0
+1,-10,GO:0006310,DNA recombination,M1,1,0
+1,-9.1,GO:0006302,double-strand break repair,M1,1,0
+1,-2.4,GO:0140013,meiotic nuclear division,M1,1,0
+1,-2.8,GO:0006040,amino sugar metabolic process,M1,1,0
+1,-2.8,GO:0036297,interstrand cross-link repair,M1,1,0
+1,-2.1,GO:1903046,meiotic cell cycle process,M1,1,0
+1,-2,GO:0000373,Group II intron splicing,M1,1,0
+1,-2.3,GO:0000723,telomere maintenance,M1,1,0
+1,-2.8,GO:0046839,phospholipid dephosphorylation,M1,1,0
+1,-2,GO:0070192,chromosome organization involved in meiotic cell cycle,M1,1,0
+1,-2.2,GO:1902750,negative regulation of cell cycle G2/M phase transition,M1,1,0
+1,-3,GO:0043647,inositol phosphate metabolic process,M1,1,0
+1,-2.2,GO:0007093,mitotic cell cycle checkpoint,M1,1,0
+1,-3.3,GO:0000726,non-recombinational repair,M1,1,0
+1,-3.3,GO:0007127,meiosis I,M1,1,0
+1,-5.4,GO:0015979,photosynthesis,M1,1,0
+1,-2.2,GO:0015996,chlorophyll catabolic process,M1,1,0
+1,-2.1,GO:0090603,sieve element differentiation,M1,1,0
+1,-3.3,GO:0046855,inositol phosphate dephosphorylation,M1,1,0
+1,-2.4,GO:0045128,negative regulation of reciprocal meiotic recombination,M1,1,0
+1,-4,GO:0000077,DNA damage checkpoint,M1,1,0
+1,-2.4,GO:0009834,plant-type secondary cell wall biogenesis,M1,1,0
+1,-2.2,GO:0009768,"photosynthesis, light harvesting in photosystem I",M1,1,0
+1,-8.9,GO:0006974,cellular response to DNA damage stimulus,M1,1,0
+1,-2.1,GO:1901699,cellular response to nitrogen compound,M1,1,0
+1,-2.5,ath00195,Photosynthesis,M1,1,0
+1,-3.1,GO:1900865,chloroplast RNA modification,M1,1,0
+1,-3.4,GO:0061982,meiosis I cell cycle process,M1,1,0
+1,-2.3,GO:1903338,regulation of cell wall organization or biogenesis,M1,1,0
+1,-3,GO:0043335,protein unfolding,M1,1,0
+1,-2.1,GO:2000652,regulation of secondary cell wall biogenesis,M1,1,0

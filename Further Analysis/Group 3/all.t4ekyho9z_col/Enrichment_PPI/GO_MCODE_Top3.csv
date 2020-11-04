@@ -1,0 +1,6 @@
+Network,Annotation
+hits,GO:0009888|tissue development|-6.2;GO:0030154|cell differentiation|-5.5;GO:0048827|phyllome development|-5.5
+hits_MCODE_ALL,GO:0050793|regulation of developmental process|-3.9;GO:0009735|response to cytokinin|-3.7;GO:0022603|regulation of anatomical structure morphogenesis|-3.1
+hits_SUB2_MCODE_1,GO:0009755|hormone-mediated signaling pathway|-3.2;GO:0032870|cellular response to hormone stimulus|-3.0;GO:0071495|cellular response to endogenous stimulus|-2.9
+hits_SUB1_MCODE_2,GO:0048827|phyllome development|-4.9;GO:0050793|regulation of developmental process|-4.4
+hits_SUB13_MCODE_5,GO:0006281|DNA repair|-5.3;GO:0006974|cellular response to DNA damage stimulus|-5.1;GO:0006259|DNA metabolic process|-4.5

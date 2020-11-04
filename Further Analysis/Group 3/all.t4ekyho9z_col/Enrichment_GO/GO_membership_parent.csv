@@ -1,0 +1,12 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,CHILD_GO_hits
+1,-10.354934825082017,GO:0008152,metabolic process,M1,1,GO:0006310 DNA recombination
+1,-9.053609514259978,GO:0050896,response to stimulus,M1,1,GO:0006302 double-strand break repair
+1,-6.409876392619873,GO:0071840,cellular component organization or biogenesis,M1,1,GO:0009658 chloroplast organization
+1,-5.033668197202691,GO:0048519,negative regulation of biological process,M1,1,GO:0045786 negative regulation of cell cycle
+1,-4.312414677206391,GO:0032502,developmental process,M1,1,GO:0010088 phloem development
+1,-3.7244916500420766,GO:0022414,reproductive process,M1,1,GO:0007131 reciprocal meiotic recombination
+1,-3.0048828012387823,GO:0051179,localization,M1,1,GO:0080165 callose deposition in phloem sieve plate
+1,-3.0048828012387823,GO:0009987,cellular process,M1,1,GO:0043335 protein unfolding
+1,-2.537577229423905,GO:0032501,multicellular organismal process,M1,1,GO:0009956 radial pattern formation
+1,-2.4090070446284284,GO:0023052,signaling,M1,1,GO:0007166 cell surface receptor signaling pathway
+1,-2.3304754233701432,GO:0050789,regulation of biological process,M1,1,GO:1903338 regulation of cell wall organization or biogenesis
