@@ -1,0 +1,7 @@
+Network,Annotation
+hits,GO:0048523|negative regulation of cellular process|-8.5;GO:0030154|cell differentiation|-6.9;GO:0045935|positive regulation of nucleobase-containing compound metabolic process|-6.6
+hits_MCODE_ALL,"GO:0045962|positive regulation of development, heterochronic|-7.1;GO:0006259|DNA metabolic process|-6.7;GO:0007131|reciprocal meiotic recombination|-6.2"
+hits_SUB1_MCODE_1,GO:0048827|phyllome development|-3.6;GO:0030154|cell differentiation|-3.4
+hits_SUB1_MCODE_2,ko04075|Plant hormone signal transduction|-5.0;ath04075|Plant hormone signal transduction|-5.0;GO:0009733|response to auxin|-4.6
+hits_SUB6_MCODE_3,GO:0007131|reciprocal meiotic recombination|-10.0;GO:0035825|homologous recombination|-10.0;GO:0007127|meiosis I|-9.6
+hits_SUB13_MCODE_6,GO:0006281|DNA repair|-5.3;GO:0006974|cellular response to DNA damage stimulus|-5.1;GO:0006259|DNA metabolic process|-4.5

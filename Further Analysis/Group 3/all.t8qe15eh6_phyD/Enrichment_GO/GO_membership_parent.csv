@@ -1,0 +1,11 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,CHILD_GO_hits
+1,-11.099620404233521,GO:0008152,metabolic process,M1,1,GO:0006259 DNA metabolic process
+1,-10.69961189030841,GO:0050896,response to stimulus,M1,1,GO:0006974 cellular response to DNA damage stimulus
+1,-8.68349636320238,GO:0048519,negative regulation of biological process,M1,1,GO:0045786 negative regulation of cell cycle
+1,-5.951538149417063,GO:0022414,reproductive process,M1,1,GO:0051321 meiotic cell cycle
+1,-5.42270920339702,GO:0009987,cellular process,M1,1,GO:0022402 cell cycle process
+1,-5.353617804436647,GO:0071840,cellular component organization or biogenesis,M1,1,GO:0000280 nuclear division
+1,-4.406224966076706,GO:0050789,regulation of biological process,M1,1,GO:0051726 regulation of cell cycle
+1,-4.290004321706177,GO:0032502,developmental process,M1,1,GO:0010088 phloem development
+1,-2.994588696963197,GO:0051179,localization,M1,1,GO:0080165 callose deposition in phloem sieve plate
+1,-2.0579375761757523,GO:0065007,biological regulation,M1,1,GO:0009691 cytokinin biosynthetic process
