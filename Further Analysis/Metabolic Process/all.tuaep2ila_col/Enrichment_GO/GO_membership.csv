@@ -1,0 +1,315 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-9.5,ko00020,Citrate cycle (TCA cycle),M1,1,0
+1,-5.1,GO:0072350,tricarboxylic acid metabolic process,M1,1,0
+1,-2.8,GO:0070925,organelle assembly,M1,1,0
+1,-2.1,GO:0071333,cellular response to glucose stimulus,M1,1,0
+1,-5,ath00520,Amino sugar and nucleotide sugar metabolism,M1,1,0
+1,-3.2,GO:0009926,auxin polar transport,M1,1,0
+1,-2.4,GO:0009966,regulation of signal transduction,M1,1,0
+1,-5.4,GO:0008652,cellular amino acid biosynthetic process,M1,1,0
+1,-5.9,GO:0036294,cellular response to decreased oxygen levels,M1,1,0
+1,-6.3,ko01210,2-Oxocarboxylic acid metabolism,M1,1,0
+1,-12,ath01200,Carbon metabolism,M1,1,0
+1,-3.5,GO:0046217,indole phytoalexin metabolic process,M1,1,0
+1,-2.4,GO:0031396,regulation of protein ubiquitination,M1,1,0
+1,-5.6,GO:0071456,cellular response to hypoxia,M1,1,0
+1,-2.4,M00170,"C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type",M1,1,0
+1,-2.4,GO:0042350,GDP-L-fucose biosynthetic process,M1,1,0
+1,-2.3,ath_M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA",M1,1,0
+1,-11,ath03040,Spliceosome,M1,1,0
+1,-2.6,GO:0009099,valine biosynthetic process,M1,1,0
+1,-2.2,GO:1903320,regulation of protein modification by small protein conjugation or removal,M1,1,0
+1,-5.4,GO:0006101,citrate metabolic process,M1,1,0
+1,-4.7,ath00270,Cysteine and methionine metabolism,M1,1,0
+1,-6.3,GO:0071616,acyl-CoA biosynthetic process,M1,1,0
+1,-2.6,GO:0030308,negative regulation of cell growth,M1,1,0
+1,-2,GO:1901137,carbohydrate derivative biosynthetic process,M1,1,0
+1,-3.9,ath_M00010,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate",M1,1,0
+1,-4.5,GO:0034032,purine nucleoside bisphosphate metabolic process,M1,1,0
+1,-3.3,GO:0006575,cellular modified amino acid metabolic process,M1,1,0
+1,-2.2,ko04145,Phagosome,M1,1,0
+1,-2.9,M00012,Glyoxylate cycle,M1,1,0
+1,-4.4,GO:0045292,"mRNA cis splicing, via spliceosome",M1,1,0
+1,-3,ko01040,Biosynthesis of unsaturated fatty acids,M1,1,0
+1,-6,GO:0006397,mRNA processing,M1,1,0
+1,-3,GO:1903322,positive regulation of protein modification by small protein conjugation or removal,M1,1,0
+1,-2.3,M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA",M1,1,0
+1,-9.5,ath00020,Citrate cycle (TCA cycle),M1,1,0
+1,-2.1,GO:0055114,oxidation-reduction process,M1,1,0
+1,-2.6,GO:0019395,fatty acid oxidation,M1,1,0
+1,-2.2,GO:0033319,UDP-D-xylose metabolic process,M1,1,0
+1,-2.3,GO:0072330,monocarboxylic acid biosynthetic process,M1,1,0
+1,-6.6,GO:0070482,response to oxygen levels,M1,1,0
+1,-2.8,GO:0009409,response to cold,M1,1,0
+1,-4.8,GO:0009225,nucleotide-sugar metabolic process,M1,1,0
+1,-11,ko03040,Spliceosome,M1,1,0
+1,-4.3,GO:0042886,amide transport,M1,1,0
+1,-14,GO:0010038,response to metal ion,M1,1,0
+1,-5.6,GO:0071826,ribonucleoprotein complex subunit organization,M1,1,0
+1,-9.5,GO:0006084,acetyl-CoA metabolic process,M1,1,0
+1,-2,GO:0009092,homoserine metabolic process,M1,1,0
+1,-2.9,GO:0006605,protein targeting,M1,1,0
+1,-3.8,GO:0006753,nucleoside phosphate metabolic process,M1,1,0
+1,-3,GO:0009070,serine family amino acid biosynthetic process,M1,1,0
+1,-4.9,ath00010,Glycolysis / Gluconeogenesis,M1,1,0
+1,-2.6,GO:0001505,regulation of neurotransmitter levels,M1,1,0
+1,-2.9,GO:0009062,fatty acid catabolic process,M1,1,0
+1,-2.9,GO:0048585,negative regulation of response to stimulus,M1,1,0
+1,-5,GO:0044283,small molecule biosynthetic process,M1,1,0
+1,-6.4,GO:0001666,response to hypoxia,M1,1,0
+1,-2,GO:0000038,very long-chain fatty acid metabolic process,M1,1,0
+1,-5.5,ko00480,Glutathione metabolism,M1,1,0
+1,-2.9,ath_M00012,Glyoxylate cycle,M1,1,0
+1,-2.6,GO:0031348,negative regulation of defense response,M1,1,0
+1,-2.8,GO:0019521,D-gluconate metabolic process,M1,1,0
+1,-3,GO:0048364,root development,M1,1,0
+1,-3.4,GO:0006665,sphingolipid metabolic process,M1,1,0
+1,-2.4,ath_M00021,"Cysteine biosynthesis, serine => cysteine",M1,1,0
+1,-6.1,GO:0022618,ribonucleoprotein complex assembly,M1,1,0
+1,-2,GO:0009617,response to bacterium,M1,1,0
+1,-2.2,GO:0009097,isoleucine biosynthetic process,M1,1,0
+1,-2.8,GO:0010394,homogalacturonan metabolic process,M1,1,0
+1,-2.7,ath00260,"Glycine, serine and threonine metabolism",M1,1,0
+1,-4.9,GO:0070972,protein localization to endoplasmic reticulum,M1,1,0
+1,-12,ko01200,Carbon metabolism,M1,1,0
+1,-6.2,ko00620,Pyruvate metabolism,M1,1,0
+1,-2.2,ath_M00050,"Guanine ribonucleotide biosynthesis IMP => GDP,GTP",M1,1,0
+1,-2.2,GO:0006549,isoleucine metabolic process,M1,1,0
+1,-2,GO:0006222,UMP biosynthetic process,M1,1,0
+1,-5.4,GO:0006099,tricarboxylic acid cycle,M1,1,0
+1,-2.9,GO:0043038,amino acid activation,M1,1,0
+1,-2.9,GO:0043039,tRNA aminoacylation,M1,1,0
+1,-2,M00019,"Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine",M1,1,0
+1,-3.9,GO:0034033,purine nucleoside bisphosphate biosynthetic process,M1,1,0
+1,-8.5,ath01230,Biosynthesis of amino acids,M1,1,0
+1,-3.1,GO:0009403,toxin biosynthetic process,M1,1,0
+1,-5,ko00520,Amino sugar and nucleotide sugar metabolism,M1,1,0
+1,-3.7,GO:0090407,organophosphate biosynthetic process,M1,1,0
+1,-2.9,GO:0042133,neurotransmitter metabolic process,M1,1,0
+1,-2.8,GO:0046177,D-gluconate catabolic process,M1,1,0
+1,-4,GO:0006086,acetyl-CoA biosynthetic process from pyruvate,M1,1,0
+1,-3.2,GO:0031398,positive regulation of protein ubiquitination,M1,1,0
+1,-3.2,GO:0072594,establishment of protein localization to organelle,M1,1,0
+1,-3.8,GO:0008104,protein localization,M1,1,0
+1,-2.9,GO:0042435,indole-containing compound biosynthetic process,M1,1,0
+1,-3.9,GO:0015833,peptide transport,M1,1,0
+1,-2.7,ko00260,"Glycine, serine and threonine metabolism",M1,1,0
+1,-2.3,GO:0046513,ceramide biosynthetic process,M1,1,0
+1,-4.6,ko00920,Sulfur metabolism,M1,1,0
+1,-8.5,ko01230,Biosynthesis of amino acids,M1,1,0
+1,-2.4,GO:0051186,cofactor metabolic process,M1,1,0
+1,-2.9,ko01212,Fatty acid metabolism,M1,1,0
+1,-2.8,GO:0033993,response to lipid,M1,1,0
+1,-2.2,GO:0050667,homocysteine metabolic process,M1,1,0
+1,-3.9,M00010,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate",M1,1,0
+1,-2,GO:0009156,ribonucleoside monophosphate biosynthetic process,M1,1,0
+1,-2,ath_M00019,"Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine",M1,1,0
+1,-3.7,GO:0045184,establishment of protein localization,M1,1,0
+1,-2.2,GO:1901698,response to nitrogen compound,M1,1,0
+1,-2.2,GO:0010222,stem vascular tissue pattern formation,M1,1,0
+1,-2.9,GO:0009165,nucleotide biosynthetic process,M1,1,0
+1,-4.3,GO:0009651,response to salt stress,M1,1,0
+1,-3.3,GO:0000097,sulfur amino acid biosynthetic process,M1,1,0
+1,-2.3,GO:0016050,vesicle organization,M1,1,0
+1,-3,GO:0006534,cysteine metabolic process,M1,1,0
+1,-6.2,GO:0000375,"RNA splicing, via transesterification reactions",M1,1,0
+1,-2.7,ath03015,mRNA surveillance pathway,M1,1,0
+1,-2,GO:0009174,pyrimidine ribonucleoside monophosphate biosynthetic process,M1,1,0
+1,-3.2,GO:0050684,regulation of mRNA processing,M1,1,0
+1,-3.8,GO:0006163,purine nucleotide metabolic process,M1,1,0
+1,-2.2,ath04145,Phagosome,M1,1,0
+1,-2.4,GO:0006573,valine metabolic process,M1,1,0
+1,-3.5,GO:0072522,purine-containing compound biosynthetic process,M1,1,0
+1,-2.2,GO:0006621,protein retention in ER lumen,M1,1,0
+1,-2.1,GO:0006631,fatty acid metabolic process,M1,1,0
+1,-2,GO:0035437,maintenance of protein localization in endoplasmic reticulum,M1,1,0
+1,-5.2,GO:1901607,alpha-amino acid biosynthetic process,M1,1,0
+1,-2.5,GO:0045047,protein targeting to ER,M1,1,0
+1,-3.2,GO:0009408,response to heat,M1,1,0
+1,-2.1,GO:0009636,response to toxic substance,M1,1,0
+1,-2.2,GO:0002376,immune system process,M1,1,0
+1,-4.3,GO:0046390,ribose phosphate biosynthetic process,M1,1,0
+1,-2.1,GO:0010411,xyloglucan metabolic process,M1,1,0
+1,-2.3,GO:0023051,regulation of signaling,M1,1,0
+1,-6.4,GO:0006637,acyl-CoA metabolic process,M1,1,0
+1,-2.1,GO:0010243,response to organonitrogen compound,M1,1,0
+1,-2.4,GO:0046368,GDP-L-fucose metabolic process,M1,1,0
+1,-3.2,GO:0052546,cell wall pectin metabolic process,M1,1,0
+1,-4.6,GO:0051649,establishment of localization in cell,M1,1,0
+1,-2.4,ath03060,Protein export,M1,1,0
+1,-5.1,GO:0008380,RNA splicing,M1,1,0
+1,-3.3,GO:0046685,response to arsenic-containing substance,M1,1,0
+1,-2.1,ko00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",M1,1,0
+1,-6.5,GO:0000398,"mRNA splicing, via spliceosome",M1,1,0
+1,-2.2,GO:0007031,peroxisome organization,M1,1,0
+1,-2.3,GO:0009991,response to extracellular stimulus,M1,1,0
+1,-6.6,GO:0044272,sulfur compound biosynthetic process,M1,1,0
+1,-4.1,GO:0016054,organic acid catabolic process,M1,1,0
+1,-3.1,GO:0043648,dicarboxylic acid metabolic process,M1,1,0
+1,-2.2,GO:0033320,UDP-D-xylose biosynthetic process,M1,1,0
+1,-3.1,GO:0070727,cellular macromolecule localization,M1,1,0
+1,-6.6,GO:0036293,response to decreased oxygen levels,M1,1,0
+1,-3.9,GO:0009914,hormone transport,M1,1,0
+1,-4.5,ko00250,"Alanine, aspartate and glutamate metabolism",M1,1,0
+1,-2.4,GO:0006103,2-oxoglutarate metabolic process,M1,1,0
+1,-3.5,GO:0000096,sulfur amino acid metabolic process,M1,1,0
+1,-2.9,GO:0009067,aspartate family amino acid biosynthetic process,M1,1,0
+1,-3,GO:0043933,protein-containing complex subunit organization,M1,1,0
+1,-4.5,ath00250,"Alanine, aspartate and glutamate metabolism",M1,1,0
+1,-2.7,GO:0009640,photomorphogenesis,M1,1,0
+1,-6.6,GO:0055086,nucleobase-containing small molecule metabolic process,M1,1,0
+1,-2,GO:0008610,lipid biosynthetic process,M1,1,0
+1,-3.6,GO:0009117,nucleotide metabolic process,M1,1,0
+1,-2.3,GO:1901606,alpha-amino acid catabolic process,M1,1,0
+1,-4,GO:0015031,protein transport,M1,1,0
+1,-2.5,GO:0010646,regulation of cell communication,M1,1,0
+1,-2.7,GO:0033962,cytoplasmic mRNA processing body assembly,M1,1,0
+1,-5.8,GO:0019693,ribose phosphate metabolic process,M1,1,0
+1,-4.9,ko00010,Glycolysis / Gluconeogenesis,M1,1,0
+1,-2.7,GO:0006553,lysine metabolic process,M1,1,0
+1,-3.5,GO:0052314,phytoalexin metabolic process,M1,1,0
+1,-2.7,GO:0006891,intra-Golgi vesicle-mediated transport,M1,1,0
+1,-3.1,ko00220,Arginine biosynthesis,M1,1,0
+1,-3.5,GO:0009700,indole phytoalexin biosynthetic process,M1,1,0
+1,-4,ko00640,Propanoate metabolism,M1,1,0
+1,-6.5,GO:0016053,organic acid biosynthetic process,M1,1,0
+1,-5.5,ath00480,Glutathione metabolism,M1,1,0
+1,-2,GO:0071395,cellular response to jasmonic acid stimulus,M1,1,0
+1,-4.1,GO:0009150,purine ribonucleotide metabolic process,M1,1,0
+1,-3.7,GO:0006164,purine nucleotide biosynthetic process,M1,1,0
+1,-4.1,ath00630,Glyoxylate and dicarboxylate metabolism,M1,1,0
+1,-2.9,GO:0006886,intracellular protein transport,M1,1,0
+1,-2.2,GO:0006896,Golgi to vacuole transport,M1,1,0
+1,-3.5,GO:0072521,purine-containing compound metabolic process,M1,1,0
+1,-3.3,ath00280,"Valine, leucine and isoleucine degradation",M1,1,0
+1,-5.6,GO:0016192,vesicle-mediated transport,M1,1,0
+1,-2.2,GO:0021700,developmental maturation,M1,1,0
+1,-3.1,GO:0045333,cellular respiration,M1,1,0
+1,-4.5,GO:0009306,protein secretion,M1,1,0
+1,-3.1,ath00220,Arginine biosynthesis,M1,1,0
+1,-3.4,GO:0044205,'de novo' UMP biosynthetic process,M1,1,0
+1,-4.7,ko03050,Proteasome,M1,1,0
+1,-2.1,GO:0072665,protein localization to vacuole,M1,1,0
+1,-2.4,ko03060,Protein export,M1,1,0
+1,-2.7,GO:0071365,cellular response to auxin stimulus,M1,1,0
+1,-2.8,GO:0042351,'de novo' GDP-L-fucose biosynthetic process,M1,1,0
+1,-4.5,GO:0033865,nucleoside bisphosphate metabolic process,M1,1,0
+1,-3,M00171,"C4-dicarboxylic acid cycle, NAD - malic enzyme type",M1,1,0
+1,-2.5,GO:0034440,lipid oxidation,M1,1,0
+1,-2.7,GO:0010015,root morphogenesis,M1,1,0
+1,-2.9,GO:0042273,ribosomal large subunit biogenesis,M1,1,0
+1,-4.8,GO:0032787,monocarboxylic acid metabolic process,M1,1,0
+1,-3.3,ko00280,"Valine, leucine and isoleucine degradation",M1,1,0
+1,-4.1,GO:0097305,response to alcohol,M1,1,0
+1,-2.4,GO:1901361,organic cyclic compound catabolic process,M1,1,0
+1,-4.5,GO:0002790,peptide secretion,M1,1,0
+1,-2.4,GO:0034605,cellular response to heat,M1,1,0
+1,-3,ath_M00171,"C4-dicarboxylic acid cycle, NAD - malic enzyme type",M1,1,0
+1,-2.8,GO:0015980,energy derivation by oxidation of organic compounds,M1,1,0
+1,-3.9,GO:0009069,serine family amino acid metabolic process,M1,1,0
+1,-3.3,GO:0060918,auxin transport,M1,1,0
+1,-7.8,GO:0006888,ER to Golgi vesicle-mediated transport,M1,1,0
+1,-2,GO:0044255,cellular lipid metabolic process,M1,1,0
+1,-2.4,ath_M00170,"C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type",M1,1,0
+1,-2.2,GO:0042255,ribosome assembly,M1,1,0
+1,-2.6,GO:0006465,signal peptide processing,M1,1,0
+1,-2.2,M00050,"Guanine ribonucleotide biosynthesis IMP => GDP,GTP",M1,1,0
+1,-2,GO:0051443,positive regulation of ubiquitin-protein transferase activity,M1,1,0
+1,-3.7,GO:0052317,camalexin metabolic process,M1,1,0
+1,-6.3,GO:0035384,thioester biosynthetic process,M1,1,0
+1,-2.5,GO:0009414,response to water deprivation,M1,1,0
+1,-5,GO:0009066,aspartate family amino acid metabolic process,M1,1,0
+1,-4,ath00640,Propanoate metabolism,M1,1,0
+1,-3.5,GO:0019748,secondary metabolic process,M1,1,0
+1,-5.1,GO:0046907,intracellular transport,M1,1,0
+1,-2.5,GO:0042136,neurotransmitter biosynthetic process,M1,1,0
+1,-3.5,GO:0052315,phytoalexin biosynthetic process,M1,1,0
+1,-6.4,GO:0035383,thioester metabolic process,M1,1,0
+1,-5.4,ath_M00307,"Pyruvate oxidation, pyruvate => acetyl-CoA",M1,1,0
+1,-2.8,GO:0046176,aldonic acid catabolic process,M1,1,0
+1,-4.4,GO:0009226,nucleotide-sugar biosynthetic process,M1,1,0
+1,-6.7,GO:0006790,sulfur compound metabolic process,M1,1,0
+1,-2.7,ko03015,mRNA surveillance pathway,M1,1,0
+1,-3,GO:0072329,monocarboxylic acid catabolic process,M1,1,0
+1,-4.1,GO:0033365,protein localization to organelle,M1,1,0
+1,-2.1,GO:0072666,establishment of protein localization to vacuole,M1,1,0
+1,-3.5,GO:0065003,protein-containing complex assembly,M1,1,0
+1,-6.2,ath00620,Pyruvate metabolism,M1,1,0
+1,-3.1,GO:0006418,tRNA aminoacylation for protein translation,M1,1,0
+1,-2.8,GO:0019520,aldonic acid metabolic process,M1,1,0
+1,-3.7,GO:0010120,camalexin biosynthetic process,M1,1,0
+1,-3.7,GO:0009266,response to temperature stimulus,M1,1,0
+1,-2.9,GO:0019344,cysteine biosynthetic process,M1,1,0
+1,-2.5,GO:0009620,response to fungus,M1,1,0
+1,-2.2,GO:0048583,regulation of response to stimulus,M1,1,0
+1,-3.9,GO:0006979,response to oxidative stress,M1,1,0
+1,-4.4,GO:0000380,"alternative mRNA splicing, via spliceosome",M1,1,0
+1,-7.2,GO:0048193,Golgi vesicle transport,M1,1,0
+1,-3.5,GO:0009060,aerobic respiration,M1,1,0
+1,-2.5,GO:0006457,protein folding,M1,1,0
+1,-6.5,GO:0046394,carboxylic acid biosynthetic process,M1,1,0
+1,-2.5,GO:0031667,response to nutrient levels,M1,1,0
+1,-2.3,GO:1903311,regulation of mRNA metabolic process,M1,1,0
+1,-2.9,ath01212,Fatty acid metabolism,M1,1,0
+1,-4.6,ath00920,Sulfur metabolism,M1,1,0
+1,-2.9,GO:0006102,isocitrate metabolic process,M1,1,0
+1,-2.3,GO:0071495,cellular response to endogenous stimulus,M1,1,0
+1,-10,GO:1901605,alpha-amino acid metabolic process,M1,1,0
+1,-3.9,GO:1901135,carbohydrate derivative metabolic process,M1,1,0
+1,-2.4,GO:0010200,response to chitin,M1,1,0
+1,-2,GO:0006900,vesicle budding from membrane,M1,1,0
+1,-2.2,GO:0045087,innate immune response,M1,1,0
+1,-4.1,ko00630,Glyoxylate and dicarboxylate metabolism,M1,1,0
+1,-4.5,GO:0033875,ribonucleoside bisphosphate metabolic process,M1,1,0
+1,-2,GO:0046049,UMP metabolic process,M1,1,0
+1,-12,GO:0006520,cellular amino acid metabolic process,M1,1,0
+1,-5.9,GO:0071453,cellular response to oxygen levels,M1,1,0
+1,-4.9,GO:0044282,small molecule catabolic process,M1,1,0
+1,-4.2,GO:0009404,toxin metabolic process,M1,1,0
+1,-3.3,GO:0034063,stress granule assembly,M1,1,0
+1,-7.6,GO:0017144,drug metabolic process,M1,1,0
+1,-2.5,GO:0046700,heterocycle catabolic process,M1,1,0
+1,-4,GO:0009737,response to abscisic acid,M1,1,0
+1,-2.7,GO:0009415,response to water,M1,1,0
+1,-3.8,GO:0006970,response to osmotic stress,M1,1,0
+1,-2.2,GO:0006531,aspartate metabolic process,M1,1,0
+1,-2.7,GO:0032870,cellular response to hormone stimulus,M1,1,0
+1,-3.4,GO:0042430,indole-containing compound metabolic process,M1,1,0
+1,-4.7,ath03050,Proteasome,M1,1,0
+1,-2.2,GO:0044270,cellular nitrogen compound catabolic process,M1,1,0
+1,-2.3,GO:1905392,plant organ morphogenesis,M1,1,0
+1,-2.1,GO:0006090,pyruvate metabolic process,M1,1,0
+1,-4,GO:0048024,"regulation of mRNA splicing, via spliceosome",M1,1,0
+1,-6.7,GO:0006085,acetyl-CoA biosynthetic process,M1,1,0
+1,-5.1,GO:0043484,regulation of RNA splicing,M1,1,0
+1,-4.8,GO:0016071,mRNA metabolic process,M1,1,0
+1,-4.1,GO:0016999,antibiotic metabolic process,M1,1,0
+1,-2.8,GO:0030148,sphingolipid biosynthetic process,M1,1,0
+1,-15,GO:0046686,response to cadmium ion,M1,1,0
+1,-6.2,GO:0000377,"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile",M1,1,0
+1,-2.4,M00021,"Cysteine biosynthesis, serine => cysteine",M1,1,0
+1,-3.1,GO:0009064,glutamine family amino acid metabolic process,M1,1,0
+1,-3.9,GO:0034030,ribonucleoside bisphosphate biosynthetic process,M1,1,0
+1,-2.5,GO:0072599,establishment of protein localization to endoplasmic reticulum,M1,1,0
+1,-3.8,GO:0034622,cellular protein-containing complex assembly,M1,1,0
+1,-4.7,ko00270,Cysteine and methionine metabolism,M1,1,0
+1,-2.6,GO:0006623,protein targeting to vacuole,M1,1,0
+1,-2.4,GO:0009755,hormone-mediated signaling pathway,M1,1,0
+1,-4.7,GO:0000381,"regulation of alternative mRNA splicing, via spliceosome",M1,1,0
+1,-2.2,GO:0019346,transsulfuration,M1,1,0
+1,-6.3,ath01210,2-Oxocarboxylic acid metabolism,M1,1,0
+1,-2.3,GO:0080036,regulation of cytokinin-activated signaling pathway,M1,1,0
+1,-4.6,GO:0009259,ribonucleotide metabolic process,M1,1,0
+1,-3.6,GO:0009152,purine ribonucleotide biosynthetic process,M1,1,0
+1,-3.9,GO:0033866,nucleoside bisphosphate biosynthetic process,M1,1,0
+1,-4.1,GO:0009260,ribonucleotide biosynthetic process,M1,1,0
+1,-3,ath01040,Biosynthesis of unsaturated fatty acids,M1,1,0
+1,-2.1,GO:0009161,ribonucleoside monophosphate metabolic process,M1,1,0
+1,-4.1,GO:0046395,carboxylic acid catabolic process,M1,1,0
+1,-2.8,GO:1901293,nucleoside phosphate biosynthetic process,M1,1,0
+1,-2.9,GO:0019637,organophosphate metabolic process,M1,1,0
+1,-2.9,GO:0034613,cellular protein localization,M1,1,0
+1,-2.1,ath00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",M1,1,0
+1,-5.4,M00307,"Pyruvate oxidation, pyruvate => acetyl-CoA",M1,1,0
+1,-3.1,GO:0010499,proteasomal ubiquitin-independent protein catabolic process,M1,1,0
+1,-3,GO:0022622,root system development,M1,1,0

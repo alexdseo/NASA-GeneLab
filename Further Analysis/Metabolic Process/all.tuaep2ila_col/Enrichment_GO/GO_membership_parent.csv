@@ -1,0 +1,16 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,CHILD_GO_hits
+1,-14.906230785402853,GO:0050896,response to stimulus,M1,1,GO:0046686 response to cadmium ion
+1,-12.45376498007529,GO:0008152,metabolic process,M1,1,GO:0006520 cellular amino acid metabolic process
+1,-7.840729270522126,GO:0051179,localization,M1,1,GO:0006888 ER to Golgi vesicle-mediated transport
+1,-6.0780265005948575,GO:0071840,cellular component organization or biogenesis,M1,1,GO:0022618 ribonucleoprotein complex assembly
+1,-5.136838274255519,GO:0050789,regulation of biological process,M1,1,GO:0043484 regulation of RNA splicing
+1,-3.16311059861401,GO:0048518,positive regulation of biological process,M1,1,GO:0031398 positive regulation of protein ubiquitination
+1,-3.0495972209656066,GO:0032501,multicellular organismal process,M1,1,GO:0048364 root development
+1,-2.9116583781954977,GO:0065007,biological regulation,M1,1,GO:0042133 neurotransmitter metabolic process
+1,-2.8690928367179502,GO:0048519,negative regulation of biological process,M1,1,GO:0048585 negative regulation of response to stimulus
+1,-2.5980658518650217,GO:0040007,growth,M1,1,GO:0030308 negative regulation of cell growth
+1,-2.518711343491094,GO:0051704,multi-organism process,M1,1,GO:0009620 response to fungus
+1,-2.467263477606899,GO:0009987,cellular process,M1,1,GO:0006457 protein folding
+1,-2.4475656872787677,GO:0023052,signaling,M1,1,GO:0009966 regulation of signal transduction
+1,-2.197872058263729,GO:0032502,developmental process,M1,1,GO:0021700 developmental maturation
+1,-2.174422321386338,GO:0002376,immune system process,M1,1,GO:0045087 innate immune response
