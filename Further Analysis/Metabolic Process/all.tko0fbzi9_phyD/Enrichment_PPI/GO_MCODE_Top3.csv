@@ -1,0 +1,8 @@
+Network,Annotation
+hits,GO:0016192|vesicle-mediated transport|-12.7;GO:0048583|regulation of response to stimulus|-10.7;GO:0009755|hormone-mediated signaling pathway|-10.2
+hits_MCODE_ALL,ath04075|Plant hormone signal transduction|-9.0;ko04075|Plant hormone signal transduction|-9.0;GO:0009755|hormone-mediated signaling pathway|-5.8
+hits_SUB1_MCODE_2,GO:0009733|response to auxin|-8.7;ath04075|Plant hormone signal transduction|-6.7;ko04075|Plant hormone signal transduction|-6.7
+hits_SUB1_MCODE_3,GO:0032509|endosome transport via multivesicular body sorting pathway|-8.0;GO:0071985|multivesicular body sorting pathway|-8.0;GO:0045324|late endosome to vacuole transport|-7.6
+hits_SUB1_MCODE_4,GO:0009736|cytokinin-activated signaling pathway|-9.9;GO:0071368|cellular response to cytokinin stimulus|-9.8;GO:0009735|response to cytokinin|-9.0
+hits_SUB5_MCODE_8,GO:0009833|plant-type primary cell wall biogenesis|-8.6;GO:0030244|cellulose biosynthetic process|-7.5;GO:0030243|cellulose metabolic process|-7.4
+hits_SUB6_MCODE_9,ko03015|mRNA surveillance pathway|-6.7;ath03015|mRNA surveillance pathway|-6.7

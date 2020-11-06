@@ -1,0 +1,14 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,CHILD_GO_hits
+1,-9.137220376847791,GO:0051179,localization,M1,1,GO:0016192 vesicle-mediated transport
+1,-8.768577396179342,GO:0050896,response to stimulus,M1,1,GO:0046686 response to cadmium ion
+1,-8.361384616757999,GO:0008152,metabolic process,M1,1,GO:0006520 cellular amino acid metabolic process
+1,-4.774240817525463,GO:0050789,regulation of biological process,M1,1,GO:0048583 regulation of response to stimulus
+1,-4.024832799011091,GO:0071840,cellular component organization or biogenesis,M1,1,GO:0022618 ribonucleoprotein complex assembly
+1,-3.559534323770757,GO:0023052,signaling,M1,1,GO:0009755 hormone-mediated signaling pathway
+1,-3.4080776865009175,GO:0032501,multicellular organismal process,M1,1,GO:0009640 photomorphogenesis
+1,-2.716816643045037,GO:0065007,biological regulation,M1,1,GO:0033500 carbohydrate homeostasis
+1,-2.6200737318351495,GO:0048519,negative regulation of biological process,M1,1,GO:0048585 negative regulation of response to stimulus
+1,-2.570939214737151,GO:0009987,cellular process,M1,1,GO:0006457 protein folding
+1,-2.5499112734263494,GO:0051704,multi-organism process,M1,1,GO:0009294 DNA mediated transformation
+1,-2.538082729316873,GO:0032502,developmental process,M1,1,GO:0007568 aging
+1,-2.185236691201312,GO:0002376,immune system process,M1,1,"GO:0009817 defense response to fungus, incompatible interaction"
