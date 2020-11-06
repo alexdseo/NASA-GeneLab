@@ -1,0 +1,8 @@
+Network,Annotation
+hits,ath03050|Proteasome|-24.7;ko03050|Proteasome|-24.7;ko03040|Spliceosome|-19.3
+hits_MCODE_ALL,GO:0016071|mRNA metabolic process|-18.7;ath03040|Spliceosome|-18.0;ko03040|Spliceosome|-18.0
+hits_SUB1_MCODE_1,"GO:0000381|regulation of alternative mRNA splicing, via spliceosome|-13.5;GO:0045292|mRNA cis splicing, via spliceosome|-13.4;GO:0048024|regulation of mRNA splicing, via spliceosome|-13.2"
+hits_SUB1_MCODE_3,ko04075|Plant hormone signal transduction|-7.4;ath04075|Plant hormone signal transduction|-7.4;GO:0009733|response to auxin|-7.0
+hits_SUB1_MCODE_4,"GO:0000398|mRNA splicing, via spliceosome|-7.8;GO:0000377|RNA splicing, via transesterification reactions with bulged adenosine as nucleophile|-7.6;GO:0000375|RNA splicing, via transesterification reactions|-7.6"
+hits_SUB1_MCODE_5,ath03040|Spliceosome|-8.0;ko03040|Spliceosome|-8.0;GO:0022618|ribonucleoprotein complex assembly|-5.5
+hits_SUB10_MCODE_6,GO:0016554|cytidine to uridine editing|-8.9;GO:0016553|base conversion or substitution editing|-8.6;GO:0080156|mitochondrial mRNA modification|-8.5
