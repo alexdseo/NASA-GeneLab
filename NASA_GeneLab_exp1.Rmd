@@ -148,7 +148,7 @@ length(col0_phyD[which(km4$cluster==4),1])
 ```
 
 ```{r}
-phyD_c1<-col0_phyD[which(km4$cluster==1),]
+phyD_c1<-col0_phyD[which(km4$cluster==2),]
 #PCA
 col0_phyD1.pca<-princomp(phyD_c1[,-1])
 summary(col0_phyD1.pca)
@@ -528,7 +528,7 @@ length(WS[which(km4$cluster==4),1])
 
 
 ```{r}
-WS_c1<-WS[which(km4$cluster==1),]
+WS_c1<-WS[which(km4$cluster==3),]
 #PCA
 WS_1.pca<-princomp(WS_c1[,-1])
 summary(WS_1.pca)
