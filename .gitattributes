@@ -1,0 +1,2 @@
+#Don't detect html as a language
+*.html linguist-detectable=false
