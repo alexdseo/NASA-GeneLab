@@ -1,4 +1,3 @@
-#Don't detect html as a language, but detect svg and css
+#Don't detect html as a language, but detect css
 *.html linguist-detectable=false
-*.svg linguist-detectable=true
 *.css linguist-detectable=true
