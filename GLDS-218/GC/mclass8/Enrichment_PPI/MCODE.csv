@@ -1,0 +1,9 @@
+Cluster,Score,Type,Gene,Symbol,Network
+1,1.5,Clustered,821026,IAA31,WS_c1_which_mclass____8___1__SUB1
+1,1.5,Clustered,840413,ARF20,WS_c1_which_mclass____8___1__SUB1
+1,1.5,Clustered,835848,IAA33,WS_c1_which_mclass____8___1__SUB1
+1,1.5,Seed,814648,IAA32,WS_c1_which_mclass____8___1__SUB1
+2,1.25,Clustered,818708,AT2G41090,WS_c1_which_mclass____8___1__SUB1
+2,1.25,Clustered,831224,AGL15,WS_c1_which_mclass____8___1__SUB1
+2,1.25,Clustered,825047,SHP1,WS_c1_which_mclass____8___1__SUB1
+2,1.25,Clustered,828556,AGL24,WS_c1_which_mclass____8___1__SUB1

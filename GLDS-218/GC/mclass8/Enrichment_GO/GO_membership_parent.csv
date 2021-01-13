@@ -1,0 +1,14 @@
+_MEMBER_WS_c1_which_mclass____8___1_,_LogP_WS_c1_which_mclass____8___1_,GO,Description,_PATTERN_,_RANK_,CHILD_GO_WS_c1_which_mclass____8___1_
+1,-5.245846727340086,GO:0032502,developmental process,M1,1,GO:0010089 xylem development
+1,-4.824772998110716,GO:0008152,metabolic process,M1,1,GO:0009451 RNA modification
+1,-4.139578199963628,GO:0048518,positive regulation of biological process,M1,1,GO:1901348 positive regulation of secondary cell wall biogenesis
+1,-3.4967524177014675,GO:0022414,reproductive process,M1,1,GO:0007129 synapsis
+1,-3.406533427178635,GO:0023052,signaling,M1,1,GO:0045168 cell-cell signaling involved in cell fate commitment
+1,-3.2688807735950007,GO:0071840,cellular component organization or biogenesis,M1,1,GO:2000652 regulation of secondary cell wall biogenesis
+1,-2.9486532300415567,GO:0050789,regulation of biological process,M1,1,GO:1903338 regulation of cell wall organization or biogenesis
+1,-2.59300634814865,GO:0050896,response to stimulus,M1,1,GO:0010106 cellular response to iron ion starvation
+1,-2.324480313986016,GO:0009987,cellular process,M1,1,GO:0071669 plant-type cell wall organization or biogenesis
+1,-2.2947855915942696,GO:0051704,multi-organism process,M1,1,GO:0098543 detection of other organism
+1,-2.111803865601385,GO:0032501,multicellular organismal process,M1,1,GO:0010374 stomatal complex development
+1,-2.021463221454131,GO:0048519,negative regulation of biological process,M1,1,"GO:2000143 negative regulation of DNA-templated transcription, initiation"
+1,-2.0134714577820025,GO:0002376,immune system process,M1,1,GO:0010112 regulation of systemic acquired resistance
