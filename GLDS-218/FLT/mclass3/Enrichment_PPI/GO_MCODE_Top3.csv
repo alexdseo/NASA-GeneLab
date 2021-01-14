@@ -1,0 +1,4 @@
+Network,Annotation
+WS_c1_which_mclass____3___1_,GO:0009908|flower development|-14.0;GO:0090567|reproductive shoot system development|-13.7;GO:0048437|floral organ development|-11.9
+WS_c1_which_mclass____3___1__MCODE_ALL,GO:0010628|positive regulation of gene expression|-8.2;GO:0045944|positive regulation of transcription by RNA polymerase II|-8.1;GO:0006357|regulation of transcription by RNA polymerase II|-7.8
+WS_c1_which_mclass____3___1__SUB1_MCODE_1,GO:0045944|positive regulation of transcription by RNA polymerase II|-12.0;GO:0006357|regulation of transcription by RNA polymerase II|-10.1;GO:0006366|transcription by RNA polymerase II|-9.8
