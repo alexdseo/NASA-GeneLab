@@ -1,0 +1,14 @@
+Cluster,Score,Type,Gene,Symbol,Network
+1,1.5,Clustered,828640,AT4G25370,WS_c1_which_mclass____4___1__SUB6
+1,1.5,Clustered,842985,CLPP3,WS_c1_which_mclass____4___1__SUB6
+1,1.5,Clustered,837719,CLPP6,WS_c1_which_mclass____4___1__SUB6
+1,1.5,Seed,826814,AT4G12060,WS_c1_which_mclass____4___1__SUB6
+2,1.0,Clustered,827940,XT2,WS_c1_which_mclass____4___1__SUB7
+2,1.0,Clustered,843779,XXT5,WS_c1_which_mclass____4___1__SUB7
+2,1.0,Seed,825446,XT1,WS_c1_which_mclass____4___1__SUB7
+3,1.0,Clustered,834868,OBE2,WS_c1_which_mclass____4___1__SUB8
+3,1.0,Clustered,838039,TTA1,WS_c1_which_mclass____4___1__SUB8
+3,1.0,Seed,825525,TTA2,WS_c1_which_mclass____4___1__SUB8
+4,1.0,Clustered,824655,CXIP1,WS_c1_which_mclass____4___1__SUB9
+4,1.0,Clustered,831622,AT5G17560,WS_c1_which_mclass____4___1__SUB9
+4,1.0,Seed,818407,CXIP2,WS_c1_which_mclass____4___1__SUB9

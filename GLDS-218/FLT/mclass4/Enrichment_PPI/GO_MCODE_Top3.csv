@@ -1,0 +1,5 @@
+Network,Annotation
+WS_c1_which_mclass____4___1_,ath03050|Proteasome|-24.3;ko03050|Proteasome|-24.3;GO:0032870|cellular response to hormone stimulus|-14.2
+WS_c1_which_mclass____4___1__MCODE_ALL,GO:0009969|xyloglucan biosynthetic process|-6.9;GO:0090421|embryonic meristem initiation|-6.6;GO:0010014|meristem initiation|-5.9
+WS_c1_which_mclass____4___1__SUB7_MCODE_2,GO:0009969|xyloglucan biosynthetic process|-9.2;GO:0010411|xyloglucan metabolic process|-7.6;GO:0048767|root hair elongation|-7.3
+WS_c1_which_mclass____4___1__SUB8_MCODE_3,GO:0090421|embryonic meristem initiation|-8.9;GO:0010014|meristem initiation|-8.2;GO:0009933|meristem structural organization|-7.2

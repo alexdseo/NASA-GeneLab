@@ -1,0 +1,18 @@
+_MEMBER_WS_c1_which_mclass____4___1_,_LogP_WS_c1_which_mclass____4___1_,GO,Description,_PATTERN_,_RANK_,CHILD_GO_WS_c1_which_mclass____4___1_
+1,-13.981169275928538,GO:0008152,metabolic process,M1,1,GO:0006520 cellular amino acid metabolic process
+1,-10.499594174158942,GO:0071840,cellular component organization or biogenesis,M1,1,GO:0009657 plastid organization
+1,-8.592108913816572,GO:0032501,multicellular organismal process,M1,1,GO:0009790 embryo development
+1,-7.53272654647787,GO:0022414,reproductive process,M1,1,GO:0009793 embryo development ending in seed dormancy
+1,-7.426127890297287,GO:0051179,localization,M1,1,GO:0046907 intracellular transport
+1,-6.321266402008652,GO:0050896,response to stimulus,M1,1,GO:0010038 response to metal ion
+1,-4.493343444124869,GO:0051704,multi-organism process,M1,1,GO:0009615 response to virus
+1,-4.004235161078586,GO:0002376,immune system process,M1,1,GO:0002376 immune system process
+1,-3.741711104624392,GO:0048519,negative regulation of biological process,M1,1,GO:0031053 primary miRNA processing
+1,-3.169704441714531,GO:0050789,regulation of biological process,M1,1,GO:0035303 regulation of dephosphorylation
+1,-2.913472939235889,GO:0040007,growth,M1,1,GO:0016049 cell growth
+1,-2.8859975236122586,GO:0032502,developmental process,M1,1,GO:1902182 shoot apical meristem development
+1,-2.7588907797024618,GO:0048511,rhythmic process,M1,1,GO:0042752 regulation of circadian rhythm
+1,-2.3312057347781483,GO:0023052,signaling,M1,1,GO:0051056 regulation of small GTPase mediated signal transduction
+1,-2.266868369978422,GO:0065007,biological regulation,M1,1,GO:0055081 anion homeostasis
+1,-2.2052475505347804,GO:0009987,cellular process,M1,1,GO:0051301 cell division
+1,-2.1909379149642807,GO:0048518,positive regulation of biological process,M1,1,GO:1903313 positive regulation of mRNA metabolic process
