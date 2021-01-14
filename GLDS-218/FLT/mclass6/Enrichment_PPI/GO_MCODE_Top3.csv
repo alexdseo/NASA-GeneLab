@@ -1,0 +1,6 @@
+Network,Annotation
+WS_c1_which_mclass____6___1_,GO:0046686|response to cadmium ion|-37.4;GO:0010038|response to metal ion|-30.7;ath03010|Ribosome|-29.7
+WS_c1_which_mclass____6___1__MCODE_ALL,GO:0042044|fluid transport|-8.2;GO:0006833|water transport|-8.2;GO:0045038|protein import into chloroplast thylakoid membrane|-8.1
+WS_c1_which_mclass____6___1__SUB1_MCODE_2,GO:0006833|water transport|-11.3;GO:0042044|fluid transport|-11.3
+WS_c1_which_mclass____6___1__SUB1_MCODE_3,GO:0045038|protein import into chloroplast thylakoid membrane|-10.8;GO:0072596|establishment of protein localization to chloroplast|-7.8;GO:0045036|protein targeting to chloroplast|-7.8
+WS_c1_which_mclass____6___1__SUB1_MCODE_4,GO:0009833|plant-type primary cell wall biogenesis|-8.6;GO:0030244|cellulose biosynthetic process|-7.5;GO:0030243|cellulose metabolic process|-7.4

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<graph label="WS_c1_which_mclass____6___1__MCODE_ALL" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML" >
+  <att name="documentVersion" value="1.1"/>
+  <att name="networkMetadata">
+    <rdf:RDF>
+      <rdf:Description rdf:about="http://www.cytoscape.org/">
+        <dc:type>Protein-Protein Interaction</dc:type>
+        <dc:description>N/A</dc:description>
+        <dc:identifier>N/A</dc:identifier>
+        <dc:date>2021-01-11 11:19:46</dc:date>
+        <dc:title>Cytoscape Network</dc:title>
+        <dc:source>http://www.cytoscape.org/</dc:source>
+        <dc:format>Cytoscape-XGMML</dc:format>
+      </rdf:Description>
+    </rdf:RDF>
+  </att>
+  <att type="string" name="backgroundColor" value="#ffffff"/>
+  <att type="real" name="GRAPH_VIEW_ZOOM" value="1.0"/>
+  <att type="real" name="GRAPH_VIEW_CENTER_X" value="300.0"/>
+  <att type="real" name="GRAPH_VIEW_CENTER_Y" value="300.0"/>
+  <node label="UBQ3" id="1">
+    <att type="string" name="canonicalName" value="UBQ3"/>
+    <att type="string" name="Gene" value="831899"/>
+    <att type="string" name="Symbol" value="UBQ3"/>
+    <att type="integer" name="MCODE_CLUSTER_ID" value="1"/>
+    <att type="real" name="MCODE_SCORE" value="2.0"/>
+    <att type="string" name="MCODE_TYPE" value="Clustered"/>
+    <att type="integer" name="DEGREE" value="4"/>
+    <graphics type="CIRCLE" x="237.57211421184576" y="183.902296374942"/>
+  </node>
+  <node label="GRF2" id="2">
+    <att type="string" name="canonicalName" value="GRF2"/>
+    <att type="string" name="Gene" value="844165"/>
+    <att type="string" name="Symbol" value="GRF2"/>
+    <att type="integer" name="MCODE_CLUSTER_ID" value="1"/>
+    <att type="real" name="MCODE_SCORE" value="2.0"/>
+    <att type="string" name="MCODE_TYPE" value="Seed"/>
+    <att type="integer" name="DEGREE" value="4"/>
+    <graphics type="CIRCLE" x="273.54152268960974" y="367.26151371937385"/>
+  </node>
+  <node label="GRF1" id="3">
+    <att type="string" name="canonicalName" value="GRF1"/>
+    <att type="string" name="Gene" value="826479"/>
+    <att type="string" name="Symbol" value="GRF1"/>
+    <att type="integer" name="MCODE_CLUSTER_ID" value="1"/>
+    <att type="real" name="MCODE_SCORE" value="2.0"/>
+    <att type="string" name="MCODE_TYPE" value="Clustered"/>
+    <att type="integer" name="DEGREE" value="4"/>
+    <graphics type="CIRCLE" x="361.47701182290035" y="381.70063808937766"/>
+  </node>
+  <node label="GRF10" id="4">
+    <att type="string" name="canonicalName" value="GRF10"/>
+    <att type="string" name="Gene" value="838837"/>
+    <att type="string" name="Symbol" value="GRF10"/>
+    <att type="integer" name="MCODE_CLUSTER_ID" value="1"/>
+    <att type="real" name="MCODE_SCORE" value="2.0"/>
+    <att type="string" name="MCODE_TYPE" value="Clustered"/>
+    <att type="integer" name="DEGREE" value="4"/>
+    <graphics type="CIRCLE" x="378.4702471184896" y="410.12258018883233"/>
+  </node>
+  <node label="GRF3" id="5">
+    <att type="string" name="canonicalName" value="GRF3"/>
+    <att type="string" name="Gene" value="833836"/>
+    <att type="string" name="Symbol" value="GRF3"/>
+    <att type="integer" name="MCODE_CLUSTER_ID" value="1"/>
+    <att type="real" name="MCODE_SCORE" value="2.0"/>
+    <att type="string" name="MCODE_TYPE" value="Clustered"/>
+    <att type="integer" name="DEGREE" value="4"/>
+    <graphics type="CIRCLE" x="218.25852922232073" y="245.13690096709732"/>
+  </node>
+  <node label="PIP1C" id="6">
+    <att type="string" name="canonicalName" value="PIP1C"/>
+    <att type="string" name="Gene" value="839235"/>
+    <att type="string" name="Symbol" value="PIP1C"/>
+    <att type="integer" name="MCODE_CLUSTER_ID" value="2"/>
+    <att type="real" name="MCODE_SCORE" value="1.5"/>
+    <att type="string" name="MCODE_TYPE" value="Clustered"/>
+    <att type="integer" name="DEGREE" value="3"/>
+    <graphics type="CIRCLE" x="289.0977043062836" y="417.96266292353977"/>
+  </node>
+  <node label="PIP3" id="7">
+    <att type="string" name="canonicalName" value="PIP3"/>
+    <att type="string" name="Gene" value="829662"/>
+    <att type="string" name="Symbol" value="PIP3"/>
+    <att type="integer" name="MCODE_CLUSTER_ID" value="2"/>
+    <att type="real" name="MCODE_SCORE" value="1.5"/>
+    <att type="string" name="MCODE_TYPE" value="Clustered"/>
+    <att type="integer" name="DEGREE" value="3"/>
+    <graphics type="CIRCLE" x="353.74508636470057" y="275.7303304040962"/>
+  </node>
+  <node label="PIP1;5" id="8">
+    <att type="string" name="canonicalName" value="PIP1;5"/>
+    <att type="string" name="Gene" value="828439"/>
+    <att type="string" name="Symbol" value="PIP1;5"/>
+    <att type="integer" name="MCODE_CLUSTER_ID" value="2"/>
+    <att type="real" name="MCODE_SCORE" value="1.5"/>
+    <att type="string" name="MCODE_TYPE" value="Clustered"/>
+    <att type="integer" name="DEGREE" value="3"/>
+    <graphics type="CIRCLE" x="448.91698569628534" y="380.21454999624785"/>
+  </node>
+  <node label="PIP2E" id="9">
+    <att type="string" name="canonicalName" value="PIP2E"/>
+    <att type="string" name="Gene" value="818487"/>
+    <att type="string" name="Symbol" value="PIP2E"/>
+    <att type="integer" name="MCODE_CLUSTER_ID" value="2"/>
+    <att type="real" name="MCODE_SCORE" value="1.5"/>
+    <att type="string" name="MCODE_TYPE" value="Seed"/>
+    <att type="integer" name="DEGREE" value="3"/>
+    <graphics type="CIRCLE" x="343.55247610497565" y="178.22822426110338"/>
+  </node>
+  <node label="CAO" id="10">
+    <att type="string" name="canonicalName" value="CAO"/>
+    <att type="string" name="Gene" value="819358"/>
+    <att type="string" name="Symbol" value="CAO"/>
+    <att type="integer" name="MCODE_CLUSTER_ID" value="3"/>
+    <att type="real" name="MCODE_SCORE" value="1.0"/>
+    <att type="string" name="MCODE_TYPE" value="Seed"/>
+    <att type="integer" name="DEGREE" value="2"/>
+    <graphics type="CIRCLE" x="308.22103805032083" y="227.63437468003855"/>
+  </node>
+  <node label="ALB3" id="11">
+    <att type="string" name="canonicalName" value="ALB3"/>
+    <att type="string" name="Gene" value="817429"/>
+    <att type="string" name="Symbol" value="ALB3"/>
+    <att type="integer" name="MCODE_CLUSTER_ID" value="3"/>
+    <att type="real" name="MCODE_SCORE" value="1.0"/>
+    <att type="string" name="MCODE_TYPE" value="Clustered"/>
+    <att type="integer" name="DEGREE" value="2"/>
+    <graphics type="CIRCLE" x="407.7851905600938" y="167.78022987190352"/>
+  </node>
+  <node label="CPSRP54" id="12">
+    <att type="string" name="canonicalName" value="CPSRP54"/>
+    <att type="string" name="Gene" value="830273"/>
+    <att type="string" name="Symbol" value="CPSRP54"/>
+    <att type="integer" name="MCODE_CLUSTER_ID" value="3"/>
+    <att type="real" name="MCODE_SCORE" value="1.0"/>
+    <att type="string" name="MCODE_TYPE" value="Clustered"/>
+    <att type="integer" name="DEGREE" value="2"/>
+    <graphics type="CIRCLE" x="436.046843608739" y="437.6290774323892"/>
+  </node>
+  <node label="CSI1" id="13">
+    <att type="string" name="canonicalName" value="CSI1"/>
+    <att type="string" name="Gene" value="816747"/>
+    <att type="string" name="Symbol" value="CSI1"/>
+    <att type="integer" name="MCODE_CLUSTER_ID" value="4"/>
+    <att type="real" name="MCODE_SCORE" value="1.0"/>
+    <att type="string" name="MCODE_TYPE" value="Clustered"/>
+    <att type="integer" name="DEGREE" value="2"/>
+    <graphics type="CIRCLE" x="441.1808561472506" y="362.958647320134"/>
+  </node>
+  <node label="CESA1" id="14">
+    <att type="string" name="canonicalName" value="CESA1"/>
+    <att type="string" name="Gene" value="829376"/>
+    <att type="string" name="Symbol" value="CESA1"/>
+    <att type="integer" name="MCODE_CLUSTER_ID" value="4"/>
+    <att type="real" name="MCODE_SCORE" value="1.0"/>
+    <att type="string" name="MCODE_TYPE" value="Seed"/>
+    <att type="integer" name="DEGREE" value="2"/>
+    <graphics type="CIRCLE" x="288.17523418049734" y="326.16538236885845"/>
+  </node>
+  <node label="CESA6" id="15">
+    <att type="string" name="canonicalName" value="CESA6"/>
+    <att type="string" name="Gene" value="836595"/>
+    <att type="string" name="Symbol" value="CESA6"/>
+    <att type="integer" name="MCODE_CLUSTER_ID" value="4"/>
+    <att type="real" name="MCODE_SCORE" value="1.0"/>
+    <att type="string" name="MCODE_TYPE" value="Clustered"/>
+    <att type="integer" name="DEGREE" value="2"/>
+    <graphics type="CIRCLE" x="188.77496402674498" y="220.06069904654257"/>
+  </node>
+  <edge label="816747 (pp) 829376" source="13" target="14">
+    <att type="string" name="canonicalName" value="816747 (pp) 829376"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="816747 (pp) 836595" source="13" target="15">
+    <att type="string" name="canonicalName" value="816747 (pp) 836595"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="817429 (pp) 819358" source="11" target="10">
+    <att type="string" name="canonicalName" value="817429 (pp) 819358"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="817429 (pp) 830273" source="11" target="12">
+    <att type="string" name="canonicalName" value="817429 (pp) 830273"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="818487 (pp) 828439" source="9" target="8">
+    <att type="string" name="canonicalName" value="818487 (pp) 828439"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="818487 (pp) 829662" source="9" target="7">
+    <att type="string" name="canonicalName" value="818487 (pp) 829662"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="818487 (pp) 839235" source="9" target="6">
+    <att type="string" name="canonicalName" value="818487 (pp) 839235"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="819358 (pp) 830273" source="10" target="12">
+    <att type="string" name="canonicalName" value="819358 (pp) 830273"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="826479 (pp) 831899" source="3" target="1">
+    <att type="string" name="canonicalName" value="826479 (pp) 831899"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="826479 (pp) 833836" source="3" target="5">
+    <att type="string" name="canonicalName" value="826479 (pp) 833836"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="826479 (pp) 838837" source="3" target="4">
+    <att type="string" name="canonicalName" value="826479 (pp) 838837"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="826479 (pp) 844165" source="3" target="2">
+    <att type="string" name="canonicalName" value="826479 (pp) 844165"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="828439 (pp) 829662" source="8" target="7">
+    <att type="string" name="canonicalName" value="828439 (pp) 829662"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="828439 (pp) 839235" source="8" target="6">
+    <att type="string" name="canonicalName" value="828439 (pp) 839235"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="829376 (pp) 836595" source="14" target="15">
+    <att type="string" name="canonicalName" value="829376 (pp) 836595"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="829662 (pp) 839235" source="7" target="6">
+    <att type="string" name="canonicalName" value="829662 (pp) 839235"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="831899 (pp) 833836" source="1" target="5">
+    <att type="string" name="canonicalName" value="831899 (pp) 833836"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="831899 (pp) 838837" source="1" target="4">
+    <att type="string" name="canonicalName" value="831899 (pp) 838837"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="831899 (pp) 844165" source="1" target="2">
+    <att type="string" name="canonicalName" value="831899 (pp) 844165"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="833836 (pp) 838837" source="5" target="4">
+    <att type="string" name="canonicalName" value="833836 (pp) 838837"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="833836 (pp) 844165" source="5" target="2">
+    <att type="string" name="canonicalName" value="833836 (pp) 844165"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+  <edge label="838837 (pp) 844165" source="4" target="2">
+    <att type="string" name="canonicalName" value="838837 (pp) 844165"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="0"/>
+  </edge>
+</graph>

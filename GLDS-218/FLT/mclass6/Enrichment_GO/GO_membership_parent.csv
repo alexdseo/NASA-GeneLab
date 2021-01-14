@@ -1,0 +1,14 @@
+_MEMBER_WS_c1_which_mclass____6___1_,_LogP_WS_c1_which_mclass____6___1_,GO,Description,_PATTERN_,_RANK_,CHILD_GO_WS_c1_which_mclass____6___1_
+1,-50.39766941964925,GO:0050896,response to stimulus,M1,1,GO:0046686 response to cadmium ion
+1,-24.707489610398333,GO:0008152,metabolic process,M1,1,GO:0051186 cofactor metabolic process
+1,-13.966437831529028,GO:0071840,cellular component organization or biogenesis,M1,1,GO:0009657 plastid organization
+1,-9.247623688225739,GO:0009987,cellular process,M1,1,GO:0006457 protein folding
+1,-7.984377136624751,GO:0051179,localization,M1,1,GO:1902600 proton transmembrane transport
+1,-6.076245163686687,GO:0050789,regulation of biological process,M1,1,GO:0010109 regulation of photosynthesis
+1,-4.409826553564282,GO:0051704,multi-organism process,M1,1,GO:0009617 response to bacterium
+1,-3.3345975851965197,GO:0048511,rhythmic process,M1,1,GO:0007623 circadian rhythm
+1,-3.15810889170523,GO:0065007,biological regulation,M1,1,GO:0042133 neurotransmitter metabolic process
+1,-3.0508316831337914,GO:0048519,negative regulation of biological process,M1,1,GO:0032272 negative regulation of protein polymerization
+1,-2.8324170178576775,GO:0043473,pigmentation,M1,1,GO:0043480 pigment accumulation in tissues
+1,-2.5492953305838184,GO:0048518,positive regulation of biological process,M1,1,GO:1902326 positive regulation of chlorophyll biosynthetic process
+1,-2.1369705551508074,GO:0023052,signaling,M1,1,GO:0010315 auxin efflux

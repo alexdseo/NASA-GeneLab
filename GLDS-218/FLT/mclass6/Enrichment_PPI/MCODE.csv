@@ -1,0 +1,16 @@
+Cluster,Score,Type,Gene,Symbol,Network
+1,2.0,Clustered,831899,UBQ3,WS_c1_which_mclass____6___1__SUB1
+1,2.0,Seed,844165,GRF2,WS_c1_which_mclass____6___1__SUB1
+1,2.0,Clustered,838837,GRF10,WS_c1_which_mclass____6___1__SUB1
+1,2.0,Clustered,833836,GRF3,WS_c1_which_mclass____6___1__SUB1
+1,2.0,Clustered,826479,GRF1,WS_c1_which_mclass____6___1__SUB1
+2,1.5,Clustered,828439,PIP1;5,WS_c1_which_mclass____6___1__SUB1
+2,1.5,Clustered,829662,PIP3,WS_c1_which_mclass____6___1__SUB1
+2,1.5,Clustered,839235,PIP1C,WS_c1_which_mclass____6___1__SUB1
+2,1.5,Seed,818487,PIP2E,WS_c1_which_mclass____6___1__SUB1
+3,1.0,Clustered,817429,ALB3,WS_c1_which_mclass____6___1__SUB1
+3,1.0,Seed,819358,CAO,WS_c1_which_mclass____6___1__SUB1
+3,1.0,Clustered,830273,CPSRP54,WS_c1_which_mclass____6___1__SUB1
+4,1.0,Clustered,816747,CSI1,WS_c1_which_mclass____6___1__SUB1
+4,1.0,Seed,829376,CESA1,WS_c1_which_mclass____6___1__SUB1
+4,1.0,Clustered,836595,CESA6,WS_c1_which_mclass____6___1__SUB1

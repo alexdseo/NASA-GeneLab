@@ -1,0 +1,474 @@
+_MEMBER_WS_c1_which_mclass____6___1_,_LogP_WS_c1_which_mclass____6___1_,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-19,GO:0033014,tetrapyrrole biosynthetic process,M1,1,0
+1,-2.5,GO:0009767,photosynthetic electron transport chain,M1,1,0
+1,-2.4,ath00670,One carbon pool by folate,M1,1,0
+1,-4.8,GO:0006986,response to unfolded protein,M1,1,0
+1,-7.1,GO:1901293,nucleoside phosphate biosynthetic process,M1,1,0
+1,-3.3,GO:0006970,response to osmotic stress,M1,1,0
+1,-2.8,GO:0006011,UDP-glucose metabolic process,M1,1,0
+1,-7.1,GO:0009141,nucleoside triphosphate metabolic process,M1,1,0
+1,-2.6,GO:1901606,alpha-amino acid catabolic process,M1,1,0
+1,-3.4,GO:0015985,"energy coupled proton transport, down electrochemical gradient",M1,1,0
+1,-11,ko04145,Phagosome,M1,1,0
+1,-6.4,GO:0001666,response to hypoxia,M1,1,0
+1,-6.5,GO:0006782,protoporphyrinogen IX biosynthetic process,M1,1,0
+1,-2.7,ko00630,Glyoxylate and dicarboxylate metabolism,M1,1,0
+1,-3.6,GO:0044255,cellular lipid metabolic process,M1,1,0
+1,-2.1,GO:0009695,jasmonic acid biosynthetic process,M1,1,0
+1,-2.3,GO:0042362,fat-soluble vitamin biosynthetic process,M1,1,0
+1,-2.9,M00172,"C4-dicarboxylic acid cycle, NADP - malic enzyme type",M1,1,0
+1,-2.3,GO:0006775,fat-soluble vitamin metabolic process,M1,1,0
+1,-2.7,GO:0006081,cellular aldehyde metabolic process,M1,1,0
+1,-2.3,GO:0019761,glucosinolate biosynthetic process,M1,1,0
+1,-10,GO:0009658,chloroplast organization,M1,1,0
+1,-2.5,M00372,"Abscisic acid biosynthesis, beta-carotene => abscisic acid",M1,1,0
+1,-7.8,GO:0006753,nucleoside phosphate metabolic process,M1,1,0
+1,-3.3,GO:0019319,hexose biosynthetic process,M1,1,0
+1,-5.5,GO:0071826,ribonucleoprotein complex subunit organization,M1,1,0
+1,-2.1,GO:0016052,carbohydrate catabolic process,M1,1,0
+1,-3,GO:0051273,beta-glucan metabolic process,M1,1,0
+1,-2.1,M00527,"Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine",M1,1,0
+1,-3,ko01212,Fatty acid metabolism,M1,1,0
+1,-3.6,GO:0005976,polysaccharide metabolic process,M1,1,0
+1,-4,GO:0071806,protein transmembrane transport,M1,1,0
+1,-4.2,ko00360,Phenylalanine metabolism,M1,1,0
+1,-12,GO:0046394,carboxylic acid biosynthetic process,M1,1,0
+1,-4,ath00270,Cysteine and methionine metabolism,M1,1,0
+1,-8.8,ko00860,Porphyrin and chlorophyll metabolism,M1,1,0
+1,-2.8,GO:0001505,regulation of neurotransmitter levels,M1,1,0
+1,-6.1,ko00190,Oxidative phosphorylation,M1,1,0
+1,-2.1,GO:0009089,lysine biosynthetic process via diaminopimelate,M1,1,0
+1,-2.7,ath00630,Glyoxylate and dicarboxylate metabolism,M1,1,0
+1,-3.5,GO:0034637,cellular carbohydrate biosynthetic process,M1,1,0
+1,-7.6,GO:0009611,response to wounding,M1,1,0
+1,-2.6,GO:0009135,purine nucleoside diphosphate metabolic process,M1,1,0
+1,-4.4,GO:0006733,oxidoreduction coenzyme metabolic process,M1,1,0
+1,-3.3,GO:0048511,rhythmic process,M1,1,0
+1,-2,GO:0017148,negative regulation of translation,M1,1,0
+1,-3.9,ko00906,Carotenoid biosynthesis,M1,1,0
+1,-10,GO:0009416,response to light stimulus,M1,1,0
+1,-2.6,GO:0009833,plant-type primary cell wall biogenesis,M1,1,0
+1,-3.1,ath_M00049,"Adenine ribonucleotide biosynthesis, IMP => ADP,ATP",M1,1,0
+1,-9.6,GO:0006790,sulfur compound metabolic process,M1,1,0
+1,-2.7,ath03013,RNA transport,M1,1,0
+1,-6.9,GO:0044262,cellular carbohydrate metabolic process,M1,1,0
+1,-6.2,GO:0016123,xanthophyll biosynthetic process,M1,1,0
+1,-19,GO:0009266,response to temperature stimulus,M1,1,0
+1,-3.2,GO:0071482,cellular response to light stimulus,M1,1,0
+1,-3.9,ko00020,Citrate cycle (TCA cycle),M1,1,0
+1,-5.6,GO:0072598,protein localization to chloroplast,M1,1,0
+1,-3.2,GO:0008299,isoprenoid biosynthetic process,M1,1,0
+1,-4,GO:0034032,purine nucleoside bisphosphate metabolic process,M1,1,0
+1,-3.6,GO:0044550,secondary metabolite biosynthetic process,M1,1,0
+1,-6,GO:0071453,cellular response to oxygen levels,M1,1,0
+1,-3.2,GO:0042133,neurotransmitter metabolic process,M1,1,0
+1,-4.2,GO:0009631,cold acclimation,M1,1,0
+1,-9.2,GO:0006457,protein folding,M1,1,0
+1,-2.8,ko00920,Sulfur metabolism,M1,1,0
+1,-2.2,GO:0009063,cellular amino acid catabolic process,M1,1,0
+1,-2.8,GO:0006766,vitamin metabolic process,M1,1,0
+1,-4.1,M00137,"Flavanone biosynthesis, phenylalanine => naringenin",M1,1,0
+1,-4.2,GO:0045037,protein import into chloroplast stroma,M1,1,0
+1,-5.3,GO:0035384,thioester biosynthetic process,M1,1,0
+1,-2.3,GO:0110102,chloroplast ribulose bisphosphate carboxylase complex assembly,M1,1,0
+1,-2.6,ath_M00034,Methionine salvage pathway,M1,1,0
+1,-25,GO:0051186,cofactor metabolic process,M1,1,0
+1,-2.6,GO:0009082,branched-chain amino acid biosynthetic process,M1,1,0
+1,-2.3,GO:0016144,S-glycoside biosynthetic process,M1,1,0
+1,-5.6,GO:0071456,cellular response to hypoxia,M1,1,0
+1,-2,GO:0009166,nucleotide catabolic process,M1,1,0
+1,-2.5,GO:0043476,pigment accumulation,M1,1,0
+1,-2.1,GO:0006183,GTP biosynthetic process,M1,1,0
+1,-8.8,GO:0009414,response to water deprivation,M1,1,0
+1,-6.8,GO:0009142,nucleoside triphosphate biosynthetic process,M1,1,0
+1,-2.5,GO:2001293,malonyl-CoA metabolic process,M1,1,0
+1,-3.9,ath00906,Carotenoid biosynthesis,M1,1,0
+1,-10,GO:0006732,coenzyme metabolic process,M1,1,0
+1,-4.2,ath00360,Phenylalanine metabolism,M1,1,0
+1,-2.4,ko00670,One carbon pool by folate,M1,1,0
+1,-3,ath01212,Fatty acid metabolism,M1,1,0
+1,-3.6,ath_M00003,"Gluconeogenesis, oxaloacetate => fructose-6P",M1,1,0
+1,-3.1,GO:0032272,negative regulation of protein polymerization,M1,1,0
+1,-5.1,GO:0006418,tRNA aminoacylation for protein translation,M1,1,0
+1,-6.6,GO:0009206,purine ribonucleoside triphosphate biosynthetic process,M1,1,0
+1,-2.3,ko00261,Monobactam biosynthesis,M1,1,0
+1,-2.8,GO:0043480,pigment accumulation in tissues,M1,1,0
+1,-2.9,GO:0046128,purine ribonucleoside metabolic process,M1,1,0
+1,-5.8,GO:0009642,response to light intensity,M1,1,0
+1,-2.1,GO:0010304,PSII associated light-harvesting complex II catabolic process,M1,1,0
+1,-2.8,GO:0051187,cofactor catabolic process,M1,1,0
+1,-3.3,ko00970,Aminoacyl-tRNA biosynthesis,M1,1,0
+1,-3.3,GO:0044247,cellular polysaccharide catabolic process,M1,1,0
+1,-2.5,M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate",M1,1,0
+1,-2.8,GO:0009269,response to desiccation,M1,1,0
+1,-19,GO:0046148,pigment biosynthetic process,M1,1,0
+1,-2.2,ath03060,Protein export,M1,1,0
+1,-8.8,GO:0072330,monocarboxylic acid biosynthetic process,M1,1,0
+1,-9,GO:0042255,ribosome assembly,M1,1,0
+1,-2.6,GO:0019362,pyridine nucleotide metabolic process,M1,1,0
+1,-4.1,GO:0065002,intracellular protein transmembrane transport,M1,1,0
+1,-3.2,GO:0051274,beta-glucan biosynthetic process,M1,1,0
+1,-2.4,GO:0051644,plastid localization,M1,1,0
+1,-4.1,GO:0005977,glycogen metabolic process,M1,1,0
+1,-2.6,GO:0046031,ADP metabolic process,M1,1,0
+1,-9.6,ko01200,Carbon metabolism,M1,1,0
+1,-2.7,GO:0009070,serine family amino acid biosynthetic process,M1,1,0
+1,-4.1,ath_M00137,"Flavanone biosynthesis, phenylalanine => naringenin",M1,1,0
+1,-3.3,GO:0072593,reactive oxygen species metabolic process,M1,1,0
+1,-2.5,GO:1901661,quinone metabolic process,M1,1,0
+1,-2.8,ath_M00169,"CAM (Crassulacean acid metabolism), light",M1,1,0
+1,-2.3,GO:0034764,positive regulation of transmembrane transport,M1,1,0
+1,-5.4,ath01210,2-Oxocarboxylic acid metabolism,M1,1,0
+1,-5.1,GO:0042744,hydrogen peroxide catabolic process,M1,1,0
+1,-6.9,GO:0034220,ion transmembrane transport,M1,1,0
+1,-2.4,ko00250,"Alanine, aspartate and glutamate metabolism",M1,1,0
+1,-3.9,ko00260,"Glycine, serine and threonine metabolism",M1,1,0
+1,-2.7,GO:2001057,reactive nitrogen species metabolic process,M1,1,0
+1,-7,GO:0009144,purine nucleoside triphosphate metabolic process,M1,1,0
+1,-2.1,GO:0090066,regulation of anatomical structure size,M1,1,0
+1,-9,GO:0016108,tetraterpenoid metabolic process,M1,1,0
+1,-2.7,GO:0006636,unsaturated fatty acid biosynthetic process,M1,1,0
+1,-3.3,GO:0017038,protein import,M1,1,0
+1,-2.1,GO:0060918,auxin transport,M1,1,0
+1,-3.5,GO:0009637,response to blue light,M1,1,0
+1,-5,GO:0009123,nucleoside monophosphate metabolic process,M1,1,0
+1,-2,GO:1901292,nucleoside phosphate catabolic process,M1,1,0
+1,-6.2,GO:0000302,response to reactive oxygen species,M1,1,0
+1,-2,ath_M00165,Reductive pentose phosphate cycle (Calvin cycle),M1,1,0
+1,-5.2,GO:0019637,organophosphate metabolic process,M1,1,0
+1,-6.5,GO:0009199,ribonucleoside triphosphate metabolic process,M1,1,0
+1,-6.3,ko00480,Glutathione metabolism,M1,1,0
+1,-5.4,GO:0008610,lipid biosynthetic process,M1,1,0
+1,-5.9,GO:0009201,ribonucleoside triphosphate biosynthetic process,M1,1,0
+1,-2.3,GO:0009741,response to brassinosteroid,M1,1,0
+1,-2.9,GO:0035966,response to topologically incorrect protein,M1,1,0
+1,-2.5,GO:0019363,pyridine nucleotide biosynthetic process,M1,1,0
+1,-6.3,GO:0042273,ribosomal large subunit biogenesis,M1,1,0
+1,-9.9,GO:0055086,nucleobase-containing small molecule metabolic process,M1,1,0
+1,-2.7,GO:0009753,response to jasmonic acid,M1,1,0
+1,-2.9,GO:0071478,cellular response to radiation,M1,1,0
+1,-3.4,GO:0033866,nucleoside bisphosphate biosynthetic process,M1,1,0
+1,-16,GO:0042440,pigment metabolic process,M1,1,0
+1,-2.5,ath_M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate",M1,1,0
+1,-8.4,GO:0009415,response to water,M1,1,0
+1,-2.9,ath00966,Glucosinolate biosynthesis,M1,1,0
+1,-4.3,GO:0030091,protein repair,M1,1,0
+1,-2.4,ko00030,Pentose phosphate pathway,M1,1,0
+1,-2.5,GO:0046051,UTP metabolic process,M1,1,0
+1,-3.4,GO:0010027,thylakoid membrane organization,M1,1,0
+1,-2.4,GO:0010286,heat acclimation,M1,1,0
+1,-4.4,GO:0098660,inorganic ion transmembrane transport,M1,1,0
+1,-2.4,GO:0042180,cellular ketone metabolic process,M1,1,0
+1,-12,GO:0009409,response to cold,M1,1,0
+1,-4.7,GO:0035383,thioester metabolic process,M1,1,0
+1,-9,GO:0016116,carotenoid metabolic process,M1,1,0
+1,-3.3,GO:0009651,response to salt stress,M1,1,0
+1,-2.4,GO:0016114,terpenoid biosynthetic process,M1,1,0
+1,-3.2,GO:0009064,glutamine family amino acid metabolic process,M1,1,0
+1,-4.2,GO:1901137,carbohydrate derivative biosynthetic process,M1,1,0
+1,-6.3,ko00620,Pyruvate metabolism,M1,1,0
+1,-3.5,ath00710,Carbon fixation in photosynthetic organisms,M1,1,0
+1,-2.5,GO:0030388,"fructose 1,6-bisphosphate metabolic process",M1,1,0
+1,-6.1,ath00190,Oxidative phosphorylation,M1,1,0
+1,-6.3,ath00620,Pyruvate metabolism,M1,1,0
+1,-3.8,GO:0080177,plastoglobule organization,M1,1,0
+1,-13,GO:0006979,response to oxidative stress,M1,1,0
+1,-8.5,ko01230,Biosynthesis of amino acids,M1,1,0
+1,-4.7,GO:0009250,glucan biosynthetic process,M1,1,0
+1,-8.8,GO:0002181,cytoplasmic translation,M1,1,0
+1,-2.1,GO:0032535,regulation of cellular component size,M1,1,0
+1,-7.2,GO:0009260,ribonucleotide biosynthetic process,M1,1,0
+1,-2.5,GO:0042866,pyruvate biosynthetic process,M1,1,0
+1,-5.4,GO:1901135,carbohydrate derivative metabolic process,M1,1,0
+1,-2.5,GO:0031407,oxylipin metabolic process,M1,1,0
+1,-2.7,GO:0042278,purine nucleoside metabolic process,M1,1,0
+1,-2.4,GO:0010189,vitamin E biosynthetic process,M1,1,0
+1,-2.7,M00549,"Nucleotide sugar biosynthesis, glucose => UDP-glucose",M1,1,0
+1,-3.3,ath00970,Aminoacyl-tRNA biosynthesis,M1,1,0
+1,-5.3,GO:0071616,acyl-CoA biosynthetic process,M1,1,0
+1,-2.5,GO:0006102,isocitrate metabolic process,M1,1,0
+1,-2,ath00300,Lysine biosynthesis,M1,1,0
+1,-2.5,GO:0043467,regulation of generation of precursor metabolites and energy,M1,1,0
+1,-2.5,ath_M00083,"Fatty acid biosynthesis, elongation",M1,1,0
+1,-2.8,GO:0031408,oxylipin biosynthetic process,M1,1,0
+1,-2,GO:0009085,lysine biosynthetic process,M1,1,0
+1,-4.3,GO:0046364,monosaccharide biosynthetic process,M1,1,0
+1,-2.9,GO:1902904,negative regulation of supramolecular fiber organization,M1,1,0
+1,-2.4,GO:0009612,response to mechanical stimulus,M1,1,0
+1,-4,GO:0033865,nucleoside bisphosphate metabolic process,M1,1,0
+1,-2.7,GO:0042451,purine nucleoside biosynthetic process,M1,1,0
+1,-2.4,GO:0042126,nitrate metabolic process,M1,1,0
+1,-9.7,GO:0044272,sulfur compound biosynthetic process,M1,1,0
+1,-2,GO:0009098,leucine biosynthetic process,M1,1,0
+1,-3.6,GO:0042493,response to drug,M1,1,0
+1,-2.5,GO:1901657,glycosyl compound metabolic process,M1,1,0
+1,-3.9,GO:0042742,defense response to bacterium,M1,1,0
+1,-2.7,GO:0014070,response to organic cyclic compound,M1,1,0
+1,-2.1,GO:0019747,regulation of isoprenoid metabolic process,M1,1,0
+1,-3.9,GO:1901463,regulation of tetrapyrrole biosynthetic process,M1,1,0
+1,-5.8,GO:0006783,heme biosynthetic process,M1,1,0
+1,-5.2,GO:0006754,ATP biosynthetic process,M1,1,0
+1,-3.6,M00003,"Gluconeogenesis, oxaloacetate => fructose-6P",M1,1,0
+1,-2,ko00300,Lysine biosynthesis,M1,1,0
+1,-2.5,GO:0090391,granum assembly,M1,1,0
+1,-2.6,GO:0006096,glycolytic process,M1,1,0
+1,-3.9,M00350,"Capsaicin biosynthesis, L-Phenylalanine => Capsaicin",M1,1,0
+1,-14,GO:0009657,plastid organization,M1,1,0
+1,-3.3,ath00500,Starch and sucrose metabolism,M1,1,0
+1,-6.5,GO:0046501,protoporphyrinogen IX metabolic process,M1,1,0
+1,-2.2,GO:0035967,cellular response to topologically incorrect protein,M1,1,0
+1,-4.8,ko00010,Glycolysis / Gluconeogenesis,M1,1,0
+1,-8.5,ath01230,Biosynthesis of amino acids,M1,1,0
+1,-2.1,GO:0046451,diaminopimelate metabolic process,M1,1,0
+1,-2.3,ath00261,Monobactam biosynthesis,M1,1,0
+1,-4.1,GO:0006112,energy reserve metabolic process,M1,1,0
+1,-5.9,GO:0072596,establishment of protein localization to chloroplast,M1,1,0
+1,-2.4,GO:0009914,hormone transport,M1,1,0
+1,-4.8,ath00010,Glycolysis / Gluconeogenesis,M1,1,0
+1,-2.9,ath_M00172,"C4-dicarboxylic acid cycle, NADP - malic enzyme type",M1,1,0
+1,-2.1,GO:0046395,carboxylic acid catabolic process,M1,1,0
+1,-6.9,ko00053,Ascorbate and aldarate metabolism,M1,1,0
+1,-2.1,GO:0006575,cellular modified amino acid metabolic process,M1,1,0
+1,-8,GO:1902600,proton transmembrane transport,M1,1,0
+1,-8.5,GO:0016109,tetraterpenoid biosynthetic process,M1,1,0
+1,-4.9,GO:0043038,amino acid activation,M1,1,0
+1,-2.8,GO:0043481,anthocyanin accumulation in tissues in response to UV light,M1,1,0
+1,-2.5,GO:0006228,UTP biosynthetic process,M1,1,0
+1,-5.9,GO:0045036,protein targeting to chloroplast,M1,1,0
+1,-3.2,GO:0042181,ketone biosynthetic process,M1,1,0
+1,-4.7,GO:0006637,acyl-CoA metabolic process,M1,1,0
+1,-2.4,ath00250,"Alanine, aspartate and glutamate metabolism",M1,1,0
+1,-2.3,GO:1903825,organic acid transmembrane transport,M1,1,0
+1,-2,M00165,Reductive pentose phosphate cycle (Calvin cycle),M1,1,0
+1,-4.9,GO:0046939,nucleotide phosphorylation,M1,1,0
+1,-3.5,GO:0098656,anion transmembrane transport,M1,1,0
+1,-3.3,GO:0007623,circadian rhythm,M1,1,0
+1,-2.4,GO:0009185,ribonucleoside diphosphate metabolic process,M1,1,0
+1,-17,GO:0015994,chlorophyll metabolic process,M1,1,0
+1,-3.6,GO:0009668,plastid membrane organization,M1,1,0
+1,-7.7,GO:0032787,monocarboxylic acid metabolic process,M1,1,0
+1,-5.9,GO:0046034,ATP metabolic process,M1,1,0
+1,-2.5,GO:0009902,chloroplast relocation,M1,1,0
+1,-8.1,GO:0009152,purine ribonucleotide biosynthetic process,M1,1,0
+1,-7.1,ath_M00039,"Monolignol biosynthesis, phenylalanine/tyrosine  => monolignol",M1,1,0
+1,-2.2,GO:0034762,regulation of transmembrane transport,M1,1,0
+1,-2.9,GO:0009808,lignin metabolic process,M1,1,0
+1,-3.3,GO:0090056,regulation of chlorophyll metabolic process,M1,1,0
+1,-4.2,GO:0009124,nucleoside monophosphate biosynthetic process,M1,1,0
+1,-3.4,GO:1990641,response to iron ion starvation,M1,1,0
+1,-5.9,GO:0022618,ribonucleoprotein complex assembly,M1,1,0
+1,-2.5,GO:1901663,quinone biosynthetic process,M1,1,0
+1,-7.2,GO:0009205,purine ribonucleoside triphosphate metabolic process,M1,1,0
+1,-2.5,GO:0045038,protein import into chloroplast thylakoid membrane,M1,1,0
+1,-3.1,GO:0070925,organelle assembly,M1,1,0
+1,-2.8,ath00920,Sulfur metabolism,M1,1,0
+1,-5.6,GO:1901607,alpha-amino acid biosynthetic process,M1,1,0
+1,-2.3,GO:0031333,negative regulation of protein complex assembly,M1,1,0
+1,-3.2,GO:2001295,malonyl-CoA biosynthetic process,M1,1,0
+1,-3,GO:0006720,isoprenoid metabolic process,M1,1,0
+1,-3.2,GO:0019419,sulfate reduction,M1,1,0
+1,-3.4,GO:0015986,ATP synthesis coupled proton transport,M1,1,0
+1,-3.3,GO:0000103,sulfate assimilation,M1,1,0
+1,-4.6,GO:0005982,starch metabolic process,M1,1,0
+1,-4,ko00270,Cysteine and methionine metabolism,M1,1,0
+1,-2.5,GO:0032922,circadian regulation of gene expression,M1,1,0
+1,-2.3,GO:0019758,glycosinolate biosynthetic process,M1,1,0
+1,-3.3,GO:0051193,regulation of cofactor metabolic process,M1,1,0
+1,-3.3,GO:0009067,aspartate family amino acid biosynthetic process,M1,1,0
+1,-4.1,GO:0016999,antibiotic metabolic process,M1,1,0
+1,-6.1,GO:0010206,photosystem II repair,M1,1,0
+1,-7.2,GO:0019684,"photosynthesis, light reaction",M1,1,0
+1,-6,GO:0036294,cellular response to decreased oxygen levels,M1,1,0
+1,-3.4,GO:0042274,ribosomal small subunit biogenesis,M1,1,0
+1,-2.4,GO:0006721,terpenoid metabolic process,M1,1,0
+1,-4,GO:0033875,ribonucleoside bisphosphate metabolic process,M1,1,0
+1,-6.2,GO:0006633,fatty acid biosynthetic process,M1,1,0
+1,-2.3,GO:0006812,cation transport,M1,1,0
+1,-3.9,ath00260,"Glycine, serine and threonine metabolism",M1,1,0
+1,-6.5,GO:0016122,xanthophyll metabolic process,M1,1,0
+1,-4.4,GO:0009617,response to bacterium,M1,1,0
+1,-3.6,GO:0034620,cellular response to unfolded protein,M1,1,0
+1,-8.7,GO:0044042,glucan metabolic process,M1,1,0
+1,-8.8,ath00860,Porphyrin and chlorophyll metabolism,M1,1,0
+1,-2.3,GO:0010196,nonphotochemical quenching,M1,1,0
+1,-2.7,GO:0002183,cytoplasmic translational initiation,M1,1,0
+1,-2.3,ath00941,Flavonoid biosynthesis,M1,1,0
+1,-3,GO:0009698,phenylpropanoid metabolic process,M1,1,0
+1,-8,GO:0009117,nucleotide metabolic process,M1,1,0
+1,-2.8,GO:0006744,ubiquinone biosynthetic process,M1,1,0
+1,-2.5,ath_M00372,"Abscisic acid biosynthesis, beta-carotene => abscisic acid",M1,1,0
+1,-6.6,GO:0034599,cellular response to oxidative stress,M1,1,0
+1,-5,GO:0009167,purine ribonucleoside monophosphate metabolic process,M1,1,0
+1,-3.4,GO:1901659,glycosyl compound biosynthetic process,M1,1,0
+1,-2.5,M00083,"Fatty acid biosynthesis, elongation",M1,1,0
+1,-2.6,GO:0009251,glucan catabolic process,M1,1,0
+1,-6.9,GO:0034622,cellular protein-containing complex assembly,M1,1,0
+1,-7.5,GO:0046390,ribose phosphate biosynthetic process,M1,1,0
+1,-3.1,GO:0006085,acetyl-CoA biosynthetic process,M1,1,0
+1,-5.3,GO:0009644,response to high light intensity,M1,1,0
+1,-2,GO:0006413,translational initiation,M1,1,0
+1,-16,GO:0006778,porphyrin-containing compound metabolic process,M1,1,0
+1,-5,GO:0017001,antibiotic catabolic process,M1,1,0
+1,-3.9,M00097,"beta-Carotene biosynthesis, GGAP => beta-carotene",M1,1,0
+1,-3.1,GO:0072524,pyridine-containing compound metabolic process,M1,1,0
+1,-4.5,GO:0009132,nucleoside diphosphate metabolic process,M1,1,0
+1,-2.8,GO:0006743,ubiquinone metabolic process,M1,1,0
+1,-5.8,GO:0022613,ribonucleoprotein complex biogenesis,M1,1,0
+1,-2.5,GO:1902326,positive regulation of chlorophyll biosynthetic process,M1,1,0
+1,-2.5,GO:0019359,nicotinamide nucleotide biosynthetic process,M1,1,0
+1,-5.3,GO:0080167,response to karrikin,M1,1,0
+1,-5.3,GO:0000027,ribosomal large subunit assembly,M1,1,0
+1,-3.9,GO:0098662,inorganic cation transmembrane transport,M1,1,0
+1,-9.1,GO:0009150,purine ribonucleotide metabolic process,M1,1,0
+1,-5,GO:0009126,purine nucleoside monophosphate metabolic process,M1,1,0
+1,-5.2,GO:0009161,ribonucleoside monophosphate metabolic process,M1,1,0
+1,-10,GO:0072521,purine-containing compound metabolic process,M1,1,0
+1,-2.3,ath00780,Biotin metabolism,M1,1,0
+1,-16,GO:0033013,tetrapyrrole metabolic process,M1,1,0
+1,-6.3,ath00480,Glutathione metabolism,M1,1,0
+1,-3.5,ko00710,Carbon fixation in photosynthetic organisms,M1,1,0
+1,-9.6,ath01200,Carbon metabolism,M1,1,0
+1,-6.9,ath00053,Ascorbate and aldarate metabolism,M1,1,0
+1,-9.1,GO:0006073,cellular glucan metabolic process,M1,1,0
+1,-2.2,GO:0042548,"regulation of photosynthesis, light reaction",M1,1,0
+1,-2.5,GO:0051667,establishment of plastid localization,M1,1,0
+1,-2.1,GO:0016054,organic acid catabolic process,M1,1,0
+1,-6.1,GO:0010109,regulation of photosynthesis,M1,1,0
+1,-5.3,GO:0043648,dicarboxylic acid metabolic process,M1,1,0
+1,-9.3,GO:0017144,drug metabolic process,M1,1,0
+1,-2.7,GO:0045454,cell redox homeostasis,M1,1,0
+1,-2.8,GO:0009069,serine family amino acid metabolic process,M1,1,0
+1,-3.2,GO:0104004,cellular response to environmental stimulus,M1,1,0
+1,-2.2,ko03060,Protein export,M1,1,0
+1,-2.7,GO:0072525,pyridine-containing compound biosynthetic process,M1,1,0
+1,-7.1,M00039,"Monolignol biosynthesis, phenylalanine/tyrosine  => monolignol",M1,1,0
+1,-2.5,GO:0033692,cellular polysaccharide biosynthetic process,M1,1,0
+1,-5.3,GO:0006165,nucleoside diphosphate phosphorylation,M1,1,0
+1,-22,GO:0051188,cofactor biosynthetic process,M1,1,0
+1,-2,GO:1901879,regulation of protein depolymerization,M1,1,0
+1,-2.7,ath00520,Amino sugar and nucleotide sugar metabolism,M1,1,0
+1,-5.5,GO:0016051,carbohydrate biosynthetic process,M1,1,0
+1,-60,ath03010,Ribosome,M1,1,0
+1,-2.1,ath_M00527,"Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine",M1,1,0
+1,-2.8,GO:0009225,nucleotide-sugar metabolic process,M1,1,0
+1,-3.6,GO:0006084,acetyl-CoA metabolic process,M1,1,0
+1,-6.7,GO:0042254,ribosome biogenesis,M1,1,0
+1,-2.8,GO:0043478,pigment accumulation in response to UV light,M1,1,0
+1,-2.7,GO:0019725,cellular homeostasis,M1,1,0
+1,-4.2,GO:0009127,purine nucleoside monophosphate biosynthetic process,M1,1,0
+1,-2,GO:0030243,cellulose metabolic process,M1,1,0
+1,-13,GO:0006091,generation of precursor metabolites and energy,M1,1,0
+1,-2.8,GO:0043479,pigment accumulation in tissues in response to UV light,M1,1,0
+1,-8.2,GO:0019693,ribose phosphate metabolic process,M1,1,0
+1,-5,GO:0043933,protein-containing complex subunit organization,M1,1,0
+1,-2.3,GO:0010236,plastoquinone biosynthetic process,M1,1,0
+1,-2.6,GO:0046496,nicotinamide nucleotide metabolic process,M1,1,0
+1,-8.6,GO:0072522,purine-containing compound biosynthetic process,M1,1,0
+1,-3.9,ath00020,Citrate cycle (TCA cycle),M1,1,0
+1,-7.3,GO:0009408,response to heat,M1,1,0
+1,-2.1,M00050,"Guanine ribonucleotide biosynthesis IMP => GDP,GTP",M1,1,0
+1,-3.2,GO:0071214,cellular response to abiotic stimulus,M1,1,0
+1,-3.4,GO:0034030,ribonucleoside bisphosphate biosynthetic process,M1,1,0
+1,-5.6,GO:0090407,organophosphate biosynthetic process,M1,1,0
+1,-3.1,GO:0046500,S-adenosylmethionine metabolic process,M1,1,0
+1,-2.3,GO:1905039,carboxylic acid transmembrane transport,M1,1,0
+1,-8.3,GO:0009259,ribonucleotide metabolic process,M1,1,0
+1,-20,GO:0015995,chlorophyll biosynthetic process,M1,1,0
+1,-11,GO:0015979,photosynthesis,M1,1,0
+1,-3.9,ath_M00097,"beta-Carotene biosynthesis, GGAP => beta-carotene",M1,1,0
+1,-4.6,GO:0006631,fatty acid metabolic process,M1,1,0
+1,-2.4,GO:0030837,negative regulation of actin filament polymerization,M1,1,0
+1,-2.4,GO:0019750,chloroplast localization,M1,1,0
+1,-2.7,ko03013,RNA transport,M1,1,0
+1,-2.1,GO:0006086,acetyl-CoA biosynthetic process from pyruvate,M1,1,0
+1,-8.5,GO:0016117,carotenoid biosynthetic process,M1,1,0
+1,-2.3,GO:0005996,monosaccharide metabolic process,M1,1,0
+1,-2.2,GO:0009084,glutamine family amino acid biosynthetic process,M1,1,0
+1,-2.5,GO:0009090,homoserine biosynthetic process,M1,1,0
+1,-7.2,GO:1901605,alpha-amino acid metabolic process,M1,1,0
+1,-3,GO:0033993,response to lipid,M1,1,0
+1,-6.6,GO:0070482,response to oxygen levels,M1,1,0
+1,-2,GO:0044282,small molecule catabolic process,M1,1,0
+1,-60,ko03010,Ribosome,M1,1,0
+1,-2.7,ko00520,Amino sugar and nucleotide sugar metabolism,M1,1,0
+1,-3.6,GO:0016120,carotene biosynthetic process,M1,1,0
+1,-4,GO:0019748,secondary metabolic process,M1,1,0
+1,-2.1,GO:0010315,auxin efflux,M1,1,0
+1,-2.7,GO:0046129,purine ribonucleoside biosynthetic process,M1,1,0
+1,-4.9,GO:0055114,oxidation-reduction process,M1,1,0
+1,-2.3,ko00941,Flavonoid biosynthesis,M1,1,0
+1,-4.9,GO:0043039,tRNA aminoacylation,M1,1,0
+1,-2.6,M00034,Methionine salvage pathway,M1,1,0
+1,-4.6,GO:0061077,chaperone-mediated protein folding,M1,1,0
+1,-2.2,GO:0006109,regulation of carbohydrate metabolic process,M1,1,0
+1,-2.3,ko00780,Biotin metabolism,M1,1,0
+1,-3.4,GO:0006006,glucose metabolic process,M1,1,0
+1,-6.6,GO:0009145,purine nucleoside triphosphate biosynthetic process,M1,1,0
+1,-4.2,GO:0009168,purine ribonucleoside monophosphate biosynthetic process,M1,1,0
+1,-41,GO:0010038,response to metal ion,M1,1,0
+1,-2.1,GO:0010043,response to zinc ion,M1,1,0
+1,-2.3,GO:1901465,positive regulation of tetrapyrrole biosynthetic process,M1,1,0
+1,-2.6,GO:0009179,purine ribonucleoside diphosphate metabolic process,M1,1,0
+1,-19,GO:0006779,porphyrin-containing compound biosynthetic process,M1,1,0
+1,-11,ath04145,Phagosome,M1,1,0
+1,-5.2,GO:0000028,ribosomal small subunit assembly,M1,1,0
+1,-2.7,GO:0009737,response to abscisic acid,M1,1,0
+1,-3.7,GO:0042026,protein refolding,M1,1,0
+1,-6.3,GO:0044264,cellular polysaccharide metabolic process,M1,1,0
+1,-2.6,GO:0006757,ATP generation from ADP,M1,1,0
+1,-2.3,GO:0009074,aromatic amino acid family catabolic process,M1,1,0
+1,-2.3,GO:1990066,energy quenching,M1,1,0
+1,-2.5,GO:0043473,pigmentation,M1,1,0
+1,-3.9,ath_M00350,"Capsaicin biosynthesis, L-Phenylalanine => Capsaicin",M1,1,0
+1,-3.9,GO:0009765,"photosynthesis, light harvesting",M1,1,0
+1,-2.1,GO:0045828,positive regulation of isoprenoid metabolic process,M1,1,0
+1,-3.5,ko00061,Fatty acid biosynthesis,M1,1,0
+1,-4.5,GO:0009156,ribonucleoside monophosphate biosynthetic process,M1,1,0
+1,-2.4,GO:0042128,nitrate assimilation,M1,1,0
+1,-2.9,GO:0009411,response to UV,M1,1,0
+1,-50,GO:0046686,response to cadmium ion,M1,1,0
+1,-3.5,GO:0015980,energy derivation by oxidation of organic compounds,M1,1,0
+1,-2.8,M00169,"CAM (Crassulacean acid metabolism), light",M1,1,0
+1,-4.8,GO:0098655,cation transmembrane transport,M1,1,0
+1,-3.1,GO:0035999,tetrahydrofolate interconversion,M1,1,0
+1,-3.1,GO:0006541,glutamine metabolic process,M1,1,0
+1,-3.7,GO:0006094,gluconeogenesis,M1,1,0
+1,-6.4,GO:0065003,protein-containing complex assembly,M1,1,0
+1,-3.1,GO:1901401,regulation of tetrapyrrole metabolic process,M1,1,0
+1,-2.4,ath00030,Pentose phosphate pathway,M1,1,0
+1,-7.7,GO:0009108,coenzyme biosynthetic process,M1,1,0
+1,-5.1,GO:0042168,heme metabolic process,M1,1,0
+1,-2.6,GO:0010207,photosystem II assembly,M1,1,0
+1,-8.4,GO:0006164,purine nucleotide biosynthetic process,M1,1,0
+1,-2.4,GO:0032544,plastid translation,M1,1,0
+1,-2.4,GO:0042360,vitamin E metabolic process,M1,1,0
+1,-3.1,M00049,"Adenine ribonucleotide biosynthesis, IMP => ADP,ATP",M1,1,0
+1,-4.1,GO:0042743,hydrogen peroxide metabolic process,M1,1,0
+1,-3.3,ko00500,Starch and sucrose metabolism,M1,1,0
+1,-11,GO:0006520,cellular amino acid metabolic process,M1,1,0
+1,-6.3,GO:0009165,nucleotide biosynthetic process,M1,1,0
+1,-17,GO:0044283,small molecule biosynthetic process,M1,1,0
+1,-2.5,GO:0010118,stomatal movement,M1,1,0
+1,-12,GO:0016053,organic acid biosynthetic process,M1,1,0
+1,-2.3,GO:0006811,ion transport,M1,1,0
+1,-2.9,GO:0051494,negative regulation of cytoskeleton organization,M1,1,0
+1,-4.3,GO:0015672,monovalent inorganic cation transport,M1,1,0
+1,-3.2,GO:0034404,nucleobase-containing small molecule biosynthetic process,M1,1,0
+1,-4.6,GO:0016119,carotene metabolic process,M1,1,0
+1,-2.3,GO:0030244,cellulose biosynthetic process,M1,1,0
+1,-4.1,GO:0010380,regulation of chlorophyll biosynthetic process,M1,1,0
+1,-2.7,ath_M00549,"Nucleotide sugar biosynthesis, glucose => UDP-glucose",M1,1,0
+1,-3.3,GO:0009066,aspartate family amino acid metabolic process,M1,1,0
+1,-3.2,GO:0019252,starch biosynthetic process,M1,1,0
+1,-9.8,GO:0006163,purine nucleotide metabolic process,M1,1,0
+1,-6,GO:0008652,cellular amino acid biosynthetic process,M1,1,0
+1,-2.1,GO:0042776,mitochondrial ATP synthesis coupled proton transport,M1,1,0
+1,-2.1,GO:0009639,response to red or far red light,M1,1,0
+1,-3.4,GO:0034033,purine nucleoside bisphosphate biosynthetic process,M1,1,0
+1,-3.4,GO:0033559,unsaturated fatty acid metabolic process,M1,1,0
+1,-2.6,GO:0097305,response to alcohol,M1,1,0
+1,-5.7,GO:0006090,pyruvate metabolic process,M1,1,0
+1,-6.7,GO:0036293,response to decreased oxygen levels,M1,1,0
+1,-5.4,ko01210,2-Oxocarboxylic acid metabolism,M1,1,0
+1,-2.1,ath_M00050,"Guanine ribonucleotide biosynthesis IMP => GDP,GTP",M1,1,0
+1,-3.5,ath00061,Fatty acid biosynthesis,M1,1,0
