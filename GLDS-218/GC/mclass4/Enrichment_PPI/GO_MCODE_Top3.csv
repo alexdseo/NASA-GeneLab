@@ -1,0 +1,5 @@
+Network,Annotation
+WS_c1_which_mclass____4___1_,GO:0016050|vesicle organization|-8.7;GO:2000026|regulation of multicellular organismal development|-8.2;GO:0009888|tissue development|-8.1
+WS_c1_which_mclass____4___1__MCODE_ALL,GO:0000338|protein deneddylation|-9.0;GO:0009966|regulation of signal transduction|-5.5;GO:0023051|regulation of signaling|-5.5
+WS_c1_which_mclass____4___1__SUB3_MCODE_1,GO:0009753|response to jasmonic acid|-9.1;GO:0009867|jasmonic acid mediated signaling pathway|-7.8;GO:0071395|cellular response to jasmonic acid stimulus|-7.7
+WS_c1_which_mclass____4___1__SUB1_MCODE_3,GO:0000338|protein deneddylation|-13.0;GO:0070646|protein modification by small protein removal|-9.3;GO:0009640|photomorphogenesis|-9.2

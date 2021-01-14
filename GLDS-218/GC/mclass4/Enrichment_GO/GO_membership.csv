@@ -1,0 +1,228 @@
+_MEMBER_WS_c1_which_mclass____4___1_,_LogP_WS_c1_which_mclass____4___1_,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-2.9,GO:0018209,peptidyl-serine modification,M1,1,0
+1,-2.8,GO:0009620,response to fungus,M1,1,0
+1,-2.5,GO:0060968,regulation of gene silencing,M1,1,0
+1,-3.1,GO:0009292,genetic transfer,M1,1,0
+1,-2.2,GO:0010375,stomatal complex patterning,M1,1,0
+1,-2.2,GO:0010921,regulation of phosphatase activity,M1,1,0
+1,-9.6,GO:0006886,intracellular protein transport,M1,1,0
+1,-2.3,GO:0016584,nucleosome positioning,M1,1,0
+1,-2.4,GO:0010229,inflorescence development,M1,1,0
+1,-2,GO:0052314,phytoalexin metabolic process,M1,1,0
+1,-3.6,GO:0070482,response to oxygen levels,M1,1,0
+1,-2.7,GO:0050793,regulation of developmental process,M1,1,0
+1,-8.3,GO:0015833,peptide transport,M1,1,0
+1,-2.4,GO:0072318,clathrin coat disassembly,M1,1,0
+1,-2.5,GO:1901607,alpha-amino acid biosynthetic process,M1,1,0
+1,-2.4,GO:0009119,ribonucleoside metabolic process,M1,1,0
+1,-3.1,GO:0035304,regulation of protein dephosphorylation,M1,1,0
+1,-5.6,GO:0048193,Golgi vesicle transport,M1,1,0
+1,-2.1,GO:0032968,positive regulation of transcription elongation from RNA polymerase II promoter,M1,1,0
+1,-3.1,ko03015,mRNA surveillance pathway,M1,1,0
+1,-2.7,GO:0002683,negative regulation of immune system process,M1,1,0
+1,-3.1,GO:0040029,"regulation of gene expression, epigenetic",M1,1,0
+1,-3.4,GO:0010228,vegetative to reproductive phase transition of meristem,M1,1,0
+1,-2.6,GO:0035303,regulation of dephosphorylation,M1,1,0
+1,-2.3,GO:0048366,leaf development,M1,1,0
+1,-3.2,GO:0045087,innate immune response,M1,1,0
+1,-3.2,GO:0045934,negative regulation of nucleobase-containing compound metabolic process,M1,1,0
+1,-3.5,GO:0036294,cellular response to decreased oxygen levels,M1,1,0
+1,-2.2,GO:0050826,response to freezing,M1,1,0
+1,-2,GO:0051049,regulation of transport,M1,1,0
+1,-3.8,GO:0001666,response to hypoxia,M1,1,0
+1,-2,GO:0000911,cytokinesis by cell plate formation,M1,1,0
+1,-3.8,GO:1902679,negative regulation of RNA biosynthetic process,M1,1,0
+1,-2.2,GO:0009644,response to high light intensity,M1,1,0
+1,-2,GO:0046217,indole phytoalexin metabolic process,M1,1,0
+1,-2.4,GO:0009890,negative regulation of biosynthetic process,M1,1,0
+1,-4.4,GO:0016050,vesicle organization,M1,1,0
+1,-5.5,ath03040,Spliceosome,M1,1,0
+1,-2.4,GO:0034605,cellular response to heat,M1,1,0
+1,-5.4,GO:0006913,nucleocytoplasmic transport,M1,1,0
+1,-2.4,GO:0010449,root meristem growth,M1,1,0
+1,-3.7,GO:0036293,response to decreased oxygen levels,M1,1,0
+1,-2.6,GO:0007584,response to nutrient,M1,1,0
+1,-3.4,GO:0006955,immune response,M1,1,0
+1,-2.3,M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP",M1,1,0
+1,-4.9,GO:0006606,protein import into nucleus,M1,1,0
+1,-2.3,GO:0050688,regulation of defense response to virus,M1,1,0
+1,-2.6,GO:1902751,positive regulation of cell cycle G2/M phase transition,M1,1,0
+1,-2.6,GO:0042430,indole-containing compound metabolic process,M1,1,0
+1,-2.6,GO:0050684,regulation of mRNA processing,M1,1,0
+1,-12,GO:0051649,establishment of localization in cell,M1,1,0
+1,-2.4,ko00270,Cysteine and methionine metabolism,M1,1,0
+1,-7.9,GO:0008104,protein localization,M1,1,0
+1,-2.6,GO:0009642,response to light intensity,M1,1,0
+1,-2.2,GO:0009617,response to bacterium,M1,1,0
+1,-2.4,GO:0048646,anatomical structure formation involved in morphogenesis,M1,1,0
+1,-3.5,GO:0071453,cellular response to oxygen levels,M1,1,0
+1,-2.4,ath00061,Fatty acid biosynthesis,M1,1,0
+1,-3.8,GO:0051253,negative regulation of RNA metabolic process,M1,1,0
+1,-2.1,ko03008,Ribosome biogenesis in eukaryotes,M1,1,0
+1,-3,GO:1902275,regulation of chromatin organization,M1,1,0
+1,-2.8,GO:0051239,regulation of multicellular organismal process,M1,1,0
+1,-2.7,GO:0009651,response to salt stress,M1,1,0
+1,-2.3,GO:0051301,cell division,M1,1,0
+1,-2.3,GO:0050776,regulation of immune response,M1,1,0
+1,-2,GO:0034660,ncRNA metabolic process,M1,1,0
+1,-3.7,GO:0034285,response to disaccharide,M1,1,0
+1,-4.7,GO:0002376,immune system process,M1,1,0
+1,-3.6,GO:0006906,vesicle fusion,M1,1,0
+1,-3.1,ath03015,mRNA surveillance pathway,M1,1,0
+1,-2.6,GO:0031348,negative regulation of defense response,M1,1,0
+1,-3.2,ath03018,RNA degradation,M1,1,0
+1,-2.3,GO:0051172,negative regulation of nitrogen compound metabolic process,M1,1,0
+1,-12,GO:0046907,intracellular transport,M1,1,0
+1,-4.2,GO:0000375,"RNA splicing, via transesterification reactions",M1,1,0
+1,-3,GO:0016197,endosomal transport,M1,1,0
+1,-4.6,GO:0008380,RNA splicing,M1,1,0
+1,-2.3,ath_M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP",M1,1,0
+1,-2.5,GO:0006611,protein export from nucleus,M1,1,0
+1,-2.5,GO:0048523,negative regulation of cellular process,M1,1,0
+1,-8,GO:0034613,cellular protein localization,M1,1,0
+1,-3.6,GO:0031338,regulation of vesicle fusion,M1,1,0
+1,-2.3,GO:0006553,lysine metabolic process,M1,1,0
+1,-2,GO:0072665,protein localization to vacuole,M1,1,0
+1,-5.1,GO:0006896,Golgi to vacuole transport,M1,1,0
+1,-2.4,ath03050,Proteasome,M1,1,0
+1,-2.1,GO:0052317,camalexin metabolic process,M1,1,0
+1,-2.2,GO:0009753,response to jasmonic acid,M1,1,0
+1,-4.7,ath03013,RNA transport,M1,1,0
+1,-2.6,GO:0090567,reproductive shoot system development,M1,1,0
+1,-2,GO:0051668,localization within membrane,M1,1,0
+1,-5.4,GO:0051169,nuclear transport,M1,1,0
+1,-3,GO:0031347,regulation of defense response,M1,1,0
+1,-2.5,GO:0050657,nucleic acid transport,M1,1,0
+1,-3.5,GO:0048284,organelle fusion,M1,1,0
+1,-2.8,GO:0090114,COPII-coated vesicle budding,M1,1,0
+1,-4.5,GO:0072594,establishment of protein localization to organelle,M1,1,0
+1,-2,GO:0070972,protein localization to endoplasmic reticulum,M1,1,0
+1,-2.9,GO:0043933,protein-containing complex subunit organization,M1,1,0
+1,-2.3,GO:0051640,organelle localization,M1,1,0
+1,-2.3,GO:0008219,cell death,M1,1,0
+1,-3,GO:0015813,L-glutamate transmembrane transport,M1,1,0
+1,-2.7,GO:0009066,aspartate family amino acid metabolic process,M1,1,0
+1,-2,GO:0052315,phytoalexin biosynthetic process,M1,1,0
+1,-2.6,GO:0006970,response to osmotic stress,M1,1,0
+1,-3,GO:0007033,vacuole organization,M1,1,0
+1,-2.2,GO:0006405,RNA export from nucleus,M1,1,0
+1,-2.4,GO:0048194,Golgi vesicle budding,M1,1,0
+1,-2,GO:0006401,RNA catabolic process,M1,1,0
+1,-2.6,GO:0010971,positive regulation of G2/M transition of mitotic cell cycle,M1,1,0
+1,-3.3,GO:0017038,protein import,M1,1,0
+1,-6.5,GO:0007034,vacuolar transport,M1,1,0
+1,-4.4,GO:0000380,"alternative mRNA splicing, via spliceosome",M1,1,0
+1,-2.7,GO:2000113,negative regulation of cellular macromolecule biosynthetic process,M1,1,0
+1,-2.3,GO:0031324,negative regulation of cellular metabolic process,M1,1,0
+1,-8.1,GO:0042886,amide transport,M1,1,0
+1,-2.4,ko00061,Fatty acid biosynthesis,M1,1,0
+1,-4.2,GO:0000377,"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile",M1,1,0
+1,-2.3,GO:0010928,regulation of auxin mediated signaling pathway,M1,1,0
+1,-2.4,GO:0031399,regulation of protein modification process,M1,1,0
+1,-3.9,GO:0060969,negative regulation of gene silencing,M1,1,0
+1,-3.1,GO:0000381,"regulation of alternative mRNA splicing, via spliceosome",M1,1,0
+1,-2.3,GO:0042446,hormone biosynthetic process,M1,1,0
+1,-2.9,GO:0015931,nucleobase-containing compound transport,M1,1,0
+1,-4.8,GO:0034504,protein localization to nucleus,M1,1,0
+1,-4.5,GO:0006888,ER to Golgi vesicle-mediated transport,M1,1,0
+1,-3.6,GO:0035542,regulation of SNARE complex assembly,M1,1,0
+1,-2.7,GO:0061024,membrane organization,M1,1,0
+1,-2.4,ko03050,Proteasome,M1,1,0
+1,-2.7,GO:0048024,"regulation of mRNA splicing, via spliceosome",M1,1,0
+1,-2.4,ko04144,Endocytosis,M1,1,0
+1,-2.8,GO:0009744,response to sucrose,M1,1,0
+1,-2.6,GO:0009743,response to carbohydrate,M1,1,0
+1,-2.9,GO:0098657,import into cell,M1,1,0
+1,-2.5,GO:0044265,cellular macromolecule catabolic process,M1,1,0
+1,-2.4,GO:0035196,production of miRNAs involved in gene silencing by miRNA,M1,1,0
+1,-3.7,GO:0009892,negative regulation of metabolic process,M1,1,0
+1,-3.5,GO:0016482,cytosolic transport,M1,1,0
+1,-2.4,GO:0048831,regulation of shoot system development,M1,1,0
+1,-2.4,GO:1902475,L-alpha-amino acid transmembrane transport,M1,1,0
+1,-4.1,GO:0010629,negative regulation of gene expression,M1,1,0
+1,-2.5,GO:1905393,plant organ formation,M1,1,0
+1,-8.1,GO:0016192,vesicle-mediated transport,M1,1,0
+1,-2.5,GO:0043666,regulation of phosphoprotein phosphatase activity,M1,1,0
+1,-2.6,GO:0010558,negative regulation of macromolecule biosynthetic process,M1,1,0
+1,-2,GO:0072666,establishment of protein localization to vacuole,M1,1,0
+1,-2.9,GO:0000302,response to reactive oxygen species,M1,1,0
+1,-8,GO:0070727,cellular macromolecule localization,M1,1,0
+1,-3.3,GO:0043484,regulation of RNA splicing,M1,1,0
+1,-2.1,GO:1902347,response to strigolactone,M1,1,0
+1,-3.2,GO:0009416,response to light stimulus,M1,1,0
+1,-2.9,GO:0006997,nucleus organization,M1,1,0
+1,-3.7,GO:2000037,regulation of stomatal complex patterning,M1,1,0
+1,-2.2,GO:0035266,meristem growth,M1,1,0
+1,-9,GO:0045184,establishment of protein localization,M1,1,0
+1,-2.4,GO:0035556,intracellular signal transduction,M1,1,0
+1,-2.7,GO:1905392,plant organ morphogenesis,M1,1,0
+1,-5.5,ko03040,Spliceosome,M1,1,0
+1,-2.8,GO:0010200,response to chitin,M1,1,0
+1,-3.3,GO:0009611,response to wounding,M1,1,0
+1,-2.7,GO:1901698,response to nitrogen compound,M1,1,0
+1,-2.6,GO:1902065,response to L-glutamate,M1,1,0
+1,-2.1,GO:0009606,tropism,M1,1,0
+1,-5.6,GO:0006397,mRNA processing,M1,1,0
+1,-2,GO:0016458,gene silencing,M1,1,0
+1,-2.4,GO:0051131,chaperone-mediated protein complex assembly,M1,1,0
+1,-2,GO:0010817,regulation of hormone levels,M1,1,0
+1,-4.6,GO:0042493,response to drug,M1,1,0
+1,-2.3,GO:0002697,regulation of immune effector process,M1,1,0
+1,-3.8,GO:0045892,"negative regulation of transcription, DNA-templated",M1,1,0
+1,-2,GO:1903311,regulation of mRNA metabolic process,M1,1,0
+1,-3.8,GO:0006892,post-Golgi vesicle-mediated transport,M1,1,0
+1,-3,GO:0006403,RNA localization,M1,1,0
+1,-3.6,GO:0071456,cellular response to hypoxia,M1,1,0
+1,-2,GO:0033044,regulation of chromosome organization,M1,1,0
+1,-3.2,ko03018,RNA degradation,M1,1,0
+1,-2.9,GO:0044764,multi-organism cellular process,M1,1,0
+1,-2.5,GO:0031327,negative regulation of cellular biosynthetic process,M1,1,0
+1,-2.1,GO:0002252,immune effector process,M1,1,0
+1,-2,GO:0006520,cellular amino acid metabolic process,M1,1,0
+1,-3.1,GO:0006508,proteolysis,M1,1,0
+1,-2.4,ath00270,Cysteine and methionine metabolism,M1,1,0
+1,-2,GO:0009700,indole phytoalexin biosynthetic process,M1,1,0
+1,-3.5,GO:0002682,regulation of immune system process,M1,1,0
+1,-3.7,GO:0031053,primary miRNA processing,M1,1,0
+1,-3.3,GO:0010605,negative regulation of macromolecule metabolic process,M1,1,0
+1,-2.5,GO:0050658,RNA transport,M1,1,0
+1,-3.2,GO:0061025,membrane fusion,M1,1,0
+1,-2.9,GO:0018105,peptidyl-serine phosphorylation,M1,1,0
+1,-2.8,GO:0034063,stress granule assembly,M1,1,0
+1,-2.8,GO:0009067,aspartate family amino acid biosynthetic process,M1,1,0
+1,-2.1,ath03008,Ribosome biogenesis in eukaryotes,M1,1,0
+1,-3.1,GO:0010243,response to organonitrogen compound,M1,1,0
+1,-4.1,GO:0016071,mRNA metabolic process,M1,1,0
+1,-2.4,GO:0072319,vesicle uncoating,M1,1,0
+1,-2.1,GO:0010120,camalexin biosynthetic process,M1,1,0
+1,-4.7,ko03013,RNA transport,M1,1,0
+1,-4.6,GO:0051170,import into nucleus,M1,1,0
+1,-2.4,GO:0070646,protein modification by small protein removal,M1,1,0
+1,-4.1,GO:0044210,'de novo' CTP biosynthetic process,M1,1,0
+1,-2.3,GO:0000338,protein deneddylation,M1,1,0
+1,-3.2,GO:0090174,organelle membrane fusion,M1,1,0
+1,-2.4,GO:0009908,flower development,M1,1,0
+1,-2.5,GO:0051236,establishment of RNA localization,M1,1,0
+1,-2.3,GO:0006605,protein targeting,M1,1,0
+1,-2.9,GO:0060627,regulation of vesicle-mediated transport,M1,1,0
+1,-3.8,GO:1903507,negative regulation of nucleic acid-templated transcription,M1,1,0
+1,-2.4,GO:0035493,SNARE complex assembly,M1,1,0
+1,-3,GO:0006979,response to oxidative stress,M1,1,0
+1,-2.8,GO:0045324,late endosome to vacuole transport,M1,1,0
+1,-4.7,GO:0033365,protein localization to organelle,M1,1,0
+1,-3.4,GO:2000026,regulation of multicellular organismal development,M1,1,0
+1,-3.9,GO:0000398,"mRNA splicing, via spliceosome",M1,1,0
+1,-2.4,GO:0018193,peptidyl-amino acid modification,M1,1,0
+1,-2,GO:0006325,chromatin organization,M1,1,0
+1,-3.6,GO:0080134,regulation of response to stress,M1,1,0
+1,-2.4,GO:0006623,protein targeting to vacuole,M1,1,0
+1,-2.3,GO:1901605,alpha-amino acid metabolic process,M1,1,0
+1,-2.1,GO:0016999,antibiotic metabolic process,M1,1,0
+1,-3,GO:0051168,nuclear export,M1,1,0
+1,-3.1,GO:0009294,DNA mediated transformation,M1,1,0
+1,-2.6,GO:0048280,vesicle fusion with Golgi apparatus,M1,1,0
+1,-2.4,ath04144,Endocytosis,M1,1,0
+1,-2,GO:0007389,pattern specification process,M1,1,0
+1,-9,GO:0015031,protein transport,M1,1,0
+1,-2.7,GO:0042147,"retrograde transport, endosome to Golgi",M1,1,0
+1,-3,GO:0048583,regulation of response to stimulus,M1,1,0
