@@ -1,0 +1,16 @@
+Cluster,Score,Type,Gene,Symbol,Network
+1,1.7999999999999998,Clustered,820898,PAP1,WS_c1_which_mclass____5___1__SUB1
+1,1.7999999999999998,Clustered,832658,IAA28,WS_c1_which_mclass____5___1__SUB1
+1,1.7999999999999998,Seed,828498,ARF9,WS_c1_which_mclass____5___1__SUB1
+1,1.7999999999999998,Clustered,832196,NPH4,WS_c1_which_mclass____5___1__SUB1
+1,1.7999999999999998,Clustered,829029,PAP2,WS_c1_which_mclass____5___1__SUB1
+3,1.0,Clustered,826724,BTI2,WS_c1_which_mclass____5___1__SUB1
+3,1.0,Clustered,834162,BTI3,WS_c1_which_mclass____5___1__SUB1
+3,1.0,Seed,824529,RAB8,WS_c1_which_mclass____5___1__SUB1
+2,1.5,Clustered,819969,OBE1,WS_c1_which_mclass____5___1__SUB2
+2,1.5,Clustered,838039,TTA1,WS_c1_which_mclass____5___1__SUB2
+2,1.5,Seed,825525,TTA2,WS_c1_which_mclass____5___1__SUB2
+2,1.5,Clustered,834868,OBE2,WS_c1_which_mclass____5___1__SUB2
+4,1.0,Clustered,827086,bHLH104,WS_c1_which_mclass____5___1__SUB10
+4,1.0,Clustered,835557,ILR3,WS_c1_which_mclass____5___1__SUB10
+4,1.0,Seed,821357,BTS,WS_c1_which_mclass____5___1__SUB10

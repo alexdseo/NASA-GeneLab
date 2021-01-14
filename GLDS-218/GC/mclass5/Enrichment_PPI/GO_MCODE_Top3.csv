@@ -1,0 +1,5 @@
+Network,Annotation
+WS_c1_which_mclass____5___1_,GO:0009755|hormone-mediated signaling pathway|-8.0;GO:0016192|vesicle-mediated transport|-7.4;GO:0071495|cellular response to endogenous stimulus|-7.2
+WS_c1_which_mclass____5___1__MCODE_ALL,GO:0090421|embryonic meristem initiation|-8.8;GO:0010014|meristem initiation|-7.9;GO:0009933|meristem structural organization|-6.6
+WS_c1_which_mclass____5___1__SUB1_MCODE_1,ko04075|Plant hormone signal transduction|-6.7;ath04075|Plant hormone signal transduction|-6.7;GO:0009733|response to auxin|-6.3
+WS_c1_which_mclass____5___1__SUB2_MCODE_2,GO:0090421|embryonic meristem initiation|-12.0;GO:0010014|meristem initiation|-11.0;GO:0009933|meristem structural organization|-9.7

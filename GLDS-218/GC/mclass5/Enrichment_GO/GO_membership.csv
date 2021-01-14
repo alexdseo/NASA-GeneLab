@@ -1,0 +1,155 @@
+_MEMBER_WS_c1_which_mclass____5___1_,_LogP_WS_c1_which_mclass____5___1_,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-2.4,ko03050,Proteasome,M1,1,0
+1,-2.8,ko04145,Phagosome,M1,1,0
+1,-2.3,GO:0006119,oxidative phosphorylation,M1,1,0
+1,-2.2,GO:0022900,electron transport chain,M1,1,0
+1,-2.3,GO:0008104,protein localization,M1,1,0
+1,-2.5,GO:0040008,regulation of growth,M1,1,0
+1,-2.6,GO:0048545,response to steroid hormone,M1,1,0
+1,-2.5,GO:0006848,pyruvate transport,M1,1,0
+1,-2.7,GO:0045184,establishment of protein localization,M1,1,0
+1,-3.2,GO:0000919,cell plate assembly,M1,1,0
+1,-2.1,GO:0031669,cellular response to nutrient levels,M1,1,0
+1,-3.4,GO:0046903,secretion,M1,1,0
+1,-2.6,GO:0009880,embryonic pattern specification,M1,1,0
+1,-2.3,GO:0034220,ion transmembrane transport,M1,1,0
+1,-2.6,GO:1901606,alpha-amino acid catabolic process,M1,1,0
+1,-3.1,GO:0046777,protein autophosphorylation,M1,1,0
+1,-2.3,GO:0022904,respiratory electron transport chain,M1,1,0
+1,-2.6,GO:0006897,endocytosis,M1,1,0
+1,-2.3,GO:1904481,response to tetrahydrofolate,M1,1,0
+1,-2.4,GO:0019637,organophosphate metabolic process,M1,1,0
+1,-2.6,GO:0051510,regulation of unidimensional cell growth,M1,1,0
+1,-2,GO:0000911,cytokinesis by cell plate formation,M1,1,0
+1,-2.6,GO:0071383,cellular response to steroid hormone stimulus,M1,1,0
+1,-2.3,GO:0010102,lateral root morphogenesis,M1,1,0
+1,-6.3,GO:0016192,vesicle-mediated transport,M1,1,0
+1,-2.5,GO:0140029,exocytic process,M1,1,0
+1,-2.7,GO:0016053,organic acid biosynthetic process,M1,1,0
+1,-3.4,GO:0043094,cellular metabolic compound salvage,M1,1,0
+1,-2.8,GO:0098655,cation transmembrane transport,M1,1,0
+1,-2.1,GO:0061014,positive regulation of mRNA catabolic process,M1,1,0
+1,-2.2,GO:0010101,post-embryonic root morphogenesis,M1,1,0
+1,-3.2,GO:0010256,endomembrane system organization,M1,1,0
+1,-2.1,GO:0055086,nucleobase-containing small molecule metabolic process,M1,1,0
+1,-2,GO:0042273,ribosomal large subunit biogenesis,M1,1,0
+1,-2.1,GO:0009205,purine ribonucleoside triphosphate metabolic process,M1,1,0
+1,-2.4,ath03040,Spliceosome,M1,1,0
+1,-3.2,GO:0071407,cellular response to organic cyclic compound,M1,1,0
+1,-2.7,GO:0010383,cell wall polysaccharide metabolic process,M1,1,0
+1,-2.8,GO:0015031,protein transport,M1,1,0
+1,-2.8,GO:0044264,cellular polysaccharide metabolic process,M1,1,0
+1,-2.3,GO:0098660,inorganic ion transmembrane transport,M1,1,0
+1,-2.1,GO:0006006,glucose metabolic process,M1,1,0
+1,-3.2,GO:0006887,exocytosis,M1,1,0
+1,-2.1,GO:0044265,cellular macromolecule catabolic process,M1,1,0
+1,-2.1,GO:0022604,regulation of cell morphogenesis,M1,1,0
+1,-2.1,GO:0034637,cellular carbohydrate biosynthetic process,M1,1,0
+1,-5.5,ko00190,Oxidative phosphorylation,M1,1,0
+1,-2.2,GO:0001505,regulation of neurotransmitter levels,M1,1,0
+1,-3.1,GO:0060560,developmental growth involved in morphogenesis,M1,1,0
+1,-2.5,GO:0072529,pyrimidine-containing compound catabolic process,M1,1,0
+1,-2.4,GO:0006886,intracellular protein transport,M1,1,0
+1,-2.5,GO:0071367,cellular response to brassinosteroid stimulus,M1,1,0
+1,-2.7,GO:0046394,carboxylic acid biosynthetic process,M1,1,0
+1,-2.4,ath04626,Plant-pathogen interaction,M1,1,0
+1,-2.9,M00114,"Ascorbate biosynthesis, plants, glucose-6P => ascorbate",M1,1,0
+1,-2.1,GO:0009920,cell plate formation involved in plant-type cell wall biogenesis,M1,1,0
+1,-3.1,GO:0009826,unidimensional cell growth,M1,1,0
+1,-2.3,GO:0071786,endoplasmic reticulum tubular network organization,M1,1,0
+1,-3.3,GO:0032940,secretion by cell,M1,1,0
+1,-3.2,GO:0006208,pyrimidine nucleobase catabolic process,M1,1,0
+1,-4.4,GO:0010038,response to metal ion,M1,1,0
+1,-2.3,GO:0019264,glycine biosynthetic process from serine,M1,1,0
+1,-4.6,GO:0009853,photorespiration,M1,1,0
+1,-4.3,GO:0048193,Golgi vesicle transport,M1,1,0
+1,-3.1,GO:0000902,cell morphogenesis,M1,1,0
+1,-5.5,ath00190,Oxidative phosphorylation,M1,1,0
+1,-2.1,GO:0046685,response to arsenic-containing substance,M1,1,0
+1,-3,GO:0006508,proteolysis,M1,1,0
+1,-2.7,GO:1901605,alpha-amino acid metabolic process,M1,1,0
+1,-2.4,GO:0033993,response to lipid,M1,1,0
+1,-2.1,GO:0044042,glucan metabolic process,M1,1,0
+1,-2.4,GO:0001558,regulation of cell growth,M1,1,0
+1,-2.8,ath04145,Phagosome,M1,1,0
+1,-2.6,GO:0009742,brassinosteroid mediated signaling pathway,M1,1,0
+1,-2.6,GO:0009617,response to bacterium,M1,1,0
+1,-2.6,GO:0044262,cellular carbohydrate metabolic process,M1,1,0
+1,-2.1,GO:0006811,ion transport,M1,1,0
+1,-2.2,GO:0015672,monovalent inorganic cation transport,M1,1,0
+1,-2.3,GO:0006073,cellular glucan metabolic process,M1,1,0
+1,-2.3,GO:0048199,"vesicle targeting, to, from or within Golgi",M1,1,0
+1,-2.2,GO:0009888,tissue development,M1,1,0
+1,-2.1,GO:0035999,tetrahydrofolate interconversion,M1,1,0
+1,-3.6,GO:0060321,acceptance of pollen,M1,1,0
+1,-2.4,ko04626,Plant-pathogen interaction,M1,1,0
+1,-2.2,GO:0048527,lateral root development,M1,1,0
+1,-2.9,GO:0046686,response to cadmium ion,M1,1,0
+1,-2.2,GO:0098657,import into cell,M1,1,0
+1,-2.6,GO:0032989,cellular component morphogenesis,M1,1,0
+1,-2.2,GO:1901701,cellular response to oxygen-containing compound,M1,1,0
+1,-2.8,GO:0080022,primary root development,M1,1,0
+1,-2.2,GO:0017001,antibiotic catabolic process,M1,1,0
+1,-2.2,GO:0030163,protein catabolic process,M1,1,0
+1,-2.1,GO:0046655,folic acid metabolic process,M1,1,0
+1,-2.2,GO:0097237,cellular response to toxic substance,M1,1,0
+1,-2.5,GO:0016197,endosomal transport,M1,1,0
+1,-2.2,GO:0009063,cellular amino acid catabolic process,M1,1,0
+1,-2.8,GO:0016049,cell growth,M1,1,0
+1,-3.1,GO:0040007,growth,M1,1,0
+1,-2.4,GO:0030490,maturation of SSU-rRNA,M1,1,0
+1,-2.6,GO:0043401,steroid hormone mediated signaling pathway,M1,1,0
+1,-2.4,ath03050,Proteasome,M1,1,0
+1,-2.6,GO:0018105,peptidyl-serine phosphorylation,M1,1,0
+1,-2.2,GO:0007030,Golgi organization,M1,1,0
+1,-2.3,GO:0072521,purine-containing compound metabolic process,M1,1,0
+1,-3.2,GO:0090421,embryonic meristem initiation,M1,1,0
+1,-3,GO:0044282,small molecule catabolic process,M1,1,0
+1,-2.8,GO:0098662,inorganic cation transmembrane transport,M1,1,0
+1,-3.2,ath04016,MAPK signaling pathway - plant,M1,1,0
+1,-2.4,GO:0060548,negative regulation of cell death,M1,1,0
+1,-2.3,GO:0042742,defense response to bacterium,M1,1,0
+1,-3.3,GO:0010014,meristem initiation,M1,1,0
+1,-2.1,GO:0005976,polysaccharide metabolic process,M1,1,0
+1,-2.7,GO:0051649,establishment of localization in cell,M1,1,0
+1,-2.3,GO:0006565,L-serine catabolic process,M1,1,0
+1,-2.8,GO:0042775,mitochondrial ATP synthesis coupled electron transport,M1,1,0
+1,-2.6,GO:0048589,developmental growth,M1,1,0
+1,-2.9,GO:0046907,intracellular transport,M1,1,0
+1,-2.8,GO:0070125,mitochondrial translational elongation,M1,1,0
+1,-3.1,GO:0009620,response to fungus,M1,1,0
+1,-3.1,GO:0010499,proteasomal ubiquitin-independent protein catabolic process,M1,1,0
+1,-2.8,GO:0016051,carbohydrate biosynthetic process,M1,1,0
+1,-2.8,GO:0042886,amide transport,M1,1,0
+1,-2.8,GO:0006152,purine nucleoside catabolic process,M1,1,0
+1,-2.7,GO:0006545,glycine biosynthetic process,M1,1,0
+1,-2.5,GO:0006904,vesicle docking involved in exocytosis,M1,1,0
+1,-2.1,GO:0055071,manganese ion homeostasis,M1,1,0
+1,-2.3,GO:0008652,cellular amino acid biosynthetic process,M1,1,0
+1,-2.2,GO:0009933,meristem structural organization,M1,1,0
+1,-2.5,GO:0018209,peptidyl-serine modification,M1,1,0
+1,-2.2,GO:0006644,phospholipid metabolic process,M1,1,0
+1,-3.6,GO:0017144,drug metabolic process,M1,1,0
+1,-4.5,GO:0022622,root system development,M1,1,0
+1,-2.2,GO:0043487,regulation of RNA stability,M1,1,0
+1,-2.9,ath_M00114,"Ascorbate biosynthesis, plants, glucose-6P => ascorbate",M1,1,0
+1,-2.1,GO:0019058,viral life cycle,M1,1,0
+1,-2.5,GO:1903313,positive regulation of mRNA metabolic process,M1,1,0
+1,-2.2,GO:0048532,anatomical structure arrangement,M1,1,0
+1,-2.1,ath01200,Carbon metabolism,M1,1,0
+1,-4.5,GO:0048364,root development,M1,1,0
+1,-3.1,GO:0046113,nucleobase catabolic process,M1,1,0
+1,-2.8,GO:0010015,root morphogenesis,M1,1,0
+1,-2.5,GO:0042133,neurotransmitter metabolic process,M1,1,0
+1,-2.3,GO:1902600,proton transmembrane transport,M1,1,0
+1,-2.3,GO:1904482,cellular response to tetrahydrofolate,M1,1,0
+1,-3.2,GO:0042136,neurotransmitter biosynthetic process,M1,1,0
+1,-2.6,GO:0048528,post-embryonic root development,M1,1,0
+1,-2.7,GO:0042773,ATP synthesis coupled electron transport,M1,1,0
+1,-2.1,GO:0006575,cellular modified amino acid metabolic process,M1,1,0
+1,-2.1,GO:0072593,reactive oxygen species metabolic process,M1,1,0
+1,-2.2,GO:0048508,embryonic meristem development,M1,1,0
+1,-3,GO:0015833,peptide transport,M1,1,0
+1,-2.1,ko01200,Carbon metabolism,M1,1,0
+1,-2.4,ko03040,Spliceosome,M1,1,0
+1,-2.4,GO:0019725,cellular homeostasis,M1,1,0
