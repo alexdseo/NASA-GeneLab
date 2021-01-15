@@ -1,0 +1,212 @@
+---
+title: "NASA exp2"
+author: "Alex Seo"
+date: "Jan 8, 2020"
+output: pdf_document
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyhf{}
+- \rhead{Seo}
+- \lhead{NASA}
+- \cfoot{\thepage}
+---
+
+<!-- R chunk setup -->
+```{r setup, include=FALSE}
+# global chunk options
+knitr::opts_chunk$set(echo = TRUE, comment = NA)
+
+# load and attach add-on packages here
+library(knitr)
+library(qcc)
+library(tidyverse)
+library(leaps)
+library(MVA)
+library(MASS)
+library(ggfortify)
+```
+
+<!-- Page Break -->
+\newpage
+
+##Study Description of GLDS-218: 
+
+When germinated and grown on-board the ISS (International Space Station), plant do not exhibit abnormal structures but they do have altered growth habits and this project aims to investigate the molecular mechanisms that provide the foundation for the altered growth habits observed in orbit. APEX03-2 (Advanced Plant Experiment 03-2), also known as TAGES-ISA (Transgenic Arabidopsis Gene Expression System-Intracellular Signaling Architecture) specifically addresses the growth and molecular changes that occur in Arabidopsis thaliana plants during spaceflight by using molecular and genetic tools, and by asking fundamental questions regarding root structure, growth and cell wall remodeling may be answered. This investigation advances the fundamental understanding of the molecular biological responses to extraterrestrial environments. This understanding helps to further define the impacts of spaceflight on biological systems to better enable NASA�s future space exploration goals.
+
+```{r}
+set.seed(2021)
+nasa<-read.csv("GLDS-218_rna_seq_Normalized_Counts.csv")
+##head(nasa)
+##summary(nasa)
+#Dividing dataset 
+view(nasa)
+rna_seq<-nasa[,1]
+#WS<-nasa[,c(1,8:10)]
+WS<-nasa[,c(1,11:13)]
+#Species
+
+#WS<-cbind(WS_root_flight,WS_root_GC[,-1])
+```
+
+
+
+```{r}
+#WS
+colnames(WS)<-c('LOCI','GC(1)','GC(2)','GC(3)')
+
+WS<-WS[-c(12337),]  ##This is from GC(3)
+#PCA
+WS.pca<-princomp(WS[,-1])
+summary(WS.pca)
+a1<-WS.pca$scores[,1]
+a2<-WS.pca$scores[,2]
+a<-cbind(a1,a2)
+
+pcaplot <- data.frame(PC1 = a1, PC2 = a2)
+
+ggplot(pcaplot, aes(x = PC1, y = PC2)) +
+  geom_point()
+
+eigvals<-WS.pca$sdev^2
+k<-length(eigvals)
+plot(1:k,eigvals,type="b",xlab="i",ylab=expression(lambda[i]))
+
+##PCAbiplot
+ggplot2::autoplot(WS.pca,label = F, loadings.label = T)
+
+#which(a2 < -4e+05)
+```
+
+```{r}
+##kmeans
+n<-dim(a)[1]; k<-6
+wss<- rep(0,k); xm<-apply(a,2,mean)
+for(i in 1:n){
+  wss[1]<- wss[1]+sum((a[i,]-xm)^2)
+}
+for(i in 2:k){
+  model<-kmeans(a,i)
+  wss[i]<-sum(model$withinss)
+}
+plot(1:k,wss,type="b",xlab="Number of clusters", ylab="Within cluster sum of squares",main="Screeplot")
+
+k<-4
+km4<-kmeans(a,k)
+
+df <- data.frame(PC1 = a1, PC2 = a2, cluster = factor(km4$cluster))
+
+ggplot(df, aes(x = PC1, y = PC2, color = cluster)) +
+  geom_point()
+
+
+length(WS[which(km4$cluster==1),1])
+
+length(WS[which(km4$cluster==2),1])
+
+length(WS[which(km4$cluster==3),1])
+
+length(WS[which(km4$cluster==4),1])
+```
+
+
+```{r}
+WS_c1<-WS[which(km4$cluster==4),]
+#PCA
+WS_1.pca<-princomp(WS_c1[,-1])
+summary(WS_1.pca)
+z1<-WS_1.pca$scores[,1]
+z2<-WS_1.pca$scores[,2]
+z<-cbind(z1,z2)
+
+pcaplot <- data.frame(PC1 = z1, PC2 = z2)
+
+ggplot(pcaplot, aes(x = PC1, y = PC2)) +
+  geom_point()
+
+eigvals<-WS_1.pca$sdev^2
+k<-length(eigvals)
+plot(1:k,eigvals,type="b",xlab="i",ylab=expression(lambda[i]))
+
+##PCAbiplot
+ggplot2::autoplot(WS_1.pca,label = F, loadings.label = T)
+```
+
+```{r}
+##EM clustering
+library(mclust)
+mclus_default<-Mclust(z)
+
+mclass<-mclus_default$classification
+k<-mclus_default$G
+(mclus_default$modelName)
+
+df <- data.frame(PC1 = z1, PC2 = z2, cluster = factor(mclass))
+
+ggplot(df, aes(x = PC1, y = PC2, color = cluster)) +
+  geom_point()
+```
+
+```{r}
+length(WS_c1[which(mclass==1),1])
+WS_mclass1<-data.frame(WS_c1[which(mclass==1),1])
+#write.csv(WS_mclass1, file = "WS_mclass1.csv")
+
+length(WS_c1[which(mclass==2),1])
+WS_mclass2<-data.frame(WS_c1[which(mclass==2),1])
+#write.csv(WS_mclass2, file = "WS_mclass2.csv")
+
+length(WS_c1[which(mclass==3),1])
+WS_mclass3<-data.frame(WS_c1[which(mclass==3),1])
+#write.csv(WS_mclass3, file = "WS_mclass3.csv")
+
+length(WS_c1[which(mclass==4),1])
+WS_mclass4<-data.frame(WS_c1[which(mclass==4),1])
+#write.csv(WS_mclass4, file = "WS_mclass4.csv")
+
+length(WS_c1[which(mclass==5),1])
+WS_mclass5<-data.frame(WS_c1[which(mclass==5),1])
+#write.csv(WS_mclass5, file = "WS_mclass5.csv")
+
+length(WS_c1[which(mclass==6),1])
+WS_mclass6<-data.frame(WS_c1[which(mclass==6),1])
+#write.csv(WS_mclass6, file = "WS_mclass6.csv")
+
+length(WS_c1[which(mclass==7),1])
+WS_mclass7<-data.frame(WS_c1[which(mclass==7),1])
+#write.csv(WS_mclass7, file = "WS_mclass7.csv")
+
+length(WS_c1[which(mclass==8),1])
+WS_mclass8<-data.frame(WS_c1[which(mclass==8),1])
+#write.csv(WS_mclass8, file = "WS_mclass8.csv")
+
+length(WS_c1[which(mclass==9),1])
+WS_mclass9<-data.frame(WS_c1[which(mclass==9),1])
+#write.csv(WS_mclass9, file = "WS_mclass9.csv")
+```
+
+```{r}
+#dbscan
+library(dbscan)
+
+kNNdistplot(z, k =  5)
+abline(h = 50, lty = 2)
+
+db<-dbscan(z,eps = 50 ,minPts = 25)
+db
+
+
+df <- data.frame(PC1 = z1, PC2 = z2, cluster = factor(db$cluster))
+
+
+ggplot(df, aes(x = PC1, y = PC2, color = cluster)) +
+  geom_point()
+
+length(WS_c1[which(db$cluster==1),1])
+WS_dbscan1<-data.frame(WS_c1[which(db$cluster==1),1])
+
+#write.csv(WS_dbscan1, file = "WS_dbscan1.csv")
+```
+
+
+
