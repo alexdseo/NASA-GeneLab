@@ -1,0 +1,375 @@
+---
+title: "NASA exp1+++"
+author: "Alex Seo"
+date: "Jan 15, 2020"
+output: pdf_document
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyhf{}
+- \rhead{Seo}
+- \lhead{NASA}
+- \cfoot{\thepage}
+---
+
+<!-- R chunk setup -->
+```{r setup, include=FALSE}
+# global chunk options
+knitr::opts_chunk$set(echo = TRUE, comment = NA)
+
+# load and attach add-on packages here
+library(knitr)
+library(qcc)
+library(tidyverse)
+library(leaps)
+library(MVA)
+library(MASS)
+library(ggfortify)
+```
+
+<!-- Page Break -->
+\newpage
+
+##Study Description of GLDS-120: 
+
+Experimentation on the International Space Station has reached the stage where repeated and nuanced transcriptome studies are beginning to illuminate the **structural and metabolic differences between plants grown in space compared to plants on the Earth.** 
+
+Genes that are important in setting up the spaceflight responses are being identified; their role in spaceflight physiological adaptation are increasingly understood, and the fact that different genotypes adapt differently is recognized. However, the basic question of whether these spaceflight responses are required for survival has yet to be posed, and the fundamental notion that spaceflight responses may be non-adaptive has yet to be explored.
+Therefore the experiments presented here were designed to ask **if portions of the plant spaceflight response can be genetically removed without causing loss of spaceflight survival and without causing increased stress responses.**
+
+The CARA experiment compared the spaceflight transcriptome responses of two Arabidopsis ecotypes, Col-0 and WS, as well as that of a PhyD mutant of Col-0. When grown with the ambient light of the ISS, phyD displayed a significantly reduced spaceflight transcriptome response compared to Col-0, **suggesting that altering the activity of a single gene can actually improve spaceflight adaptation by reducing the transcriptome cost of physiological adaptation.** The WS genotype showed an even simpler spaceflight transcriptome response in the ambient light of the ISS, more **broadly indicating that the plant genotype can be manipulated to reduce the transcriptome cost of plant physiological adaptation to spaceflight and suggesting that genetic manipulation might further reduce, or perhaps eliminate the metabolic cost of spaceflight adaptation.** 
+
+When plants were germinated and then left in the dark on the ISS, the WS genotype actually mounted a larger transcriptome response than Col-0, suggesting that the in-space light environment affects physiological adaptation, which further **implies that manipulating the local habitat can also substantially impact the metabolic cost of spaceflight adaptation**.
+
+
+```{r}
+set.seed(2021)
+nasa<-read.csv("GLDS-120_rna_seq_Normalized_Counts.csv")
+##head(nasa)
+##summary(nasa)
+#Dividing dataset 
+#view(nasa)
+rna_seq<-nasa[,1]
+phyD_FLT<-nasa[,c(1:7)]
+phyD_GC<-nasa[,c(1,8:13)]
+col_FLT<-nasa[,c(1,14:19)]
+col_GC<-nasa[,c(1,20:25)]
+WS_FLT<-nasa[,c(1,26:31)]
+WS_GC<-nasa[,c(1,32:37)]
+#Species
+phyD<-cbind(phyD_FLT,phyD_GC[,-1])
+col<-cbind(col_FLT,col_GC[,-1])
+WS<-cbind(WS_FLT,WS_GC[,-1])
+
+```
+
+
+
+```{r}
+#phyD
+colnames(phyD_FLT)<-c('LOCI','FLT_L(1)','FLT_L(2)','FLT_L(3)','FLT_D(1)','FLT_D(2)','FLT_D(3)')
+phyD_FLT<-phyD_FLT[-c(861, 12958, 23875),]
+
+#PCA
+phyD_FLT.pca<-princomp(phyD_FLT[,-1])
+summary(phyD_FLT.pca)
+a1<-phyD_FLT.pca$scores[,1]
+a2<-phyD_FLT.pca$scores[,2]
+a<-cbind(a1,a2)
+
+pcaplot <- data.frame(PC1 = a1, PC2 = a2)
+
+ggplot(pcaplot, aes(x = PC1, y = PC2)) +
+  geom_point()
+
+eigvals<-phyD_FLT.pca$sdev^2
+k<-length(eigvals)
+plot(1:k,eigvals,type="b",xlab="i",ylab=expression(lambda[i]))
+
+##PCAbiplot
+ggplot2::autoplot(phyD_FLT.pca,label = F, loadings.label = T)
+#which(a1 > 1e+05)
+
+```
+
+```{r}
+##kmeans
+n<-dim(a)[1]; k<-6
+wss<- rep(0,k); xm<-apply(a,2,mean)
+for(i in 1:n){
+  wss[1]<- wss[1]+sum((a[i,]-xm)^2)
+}
+for(i in 2:k){
+  model<-kmeans(a,i)
+  wss[i]<-sum(model$withinss)
+}
+plot(1:k,wss,type="b",xlab="Number of clusters", ylab="Within cluster sum of squares",main="Screeplot")
+
+k<-4
+km4<-kmeans(a,k)
+
+df <- data.frame(PC1 = a1, PC2 = a2, cluster = factor(km4$cluster))
+
+ggplot(df, aes(x = PC1, y = PC2, color = cluster)) +
+  geom_point()
+
+
+length(phyD_FLT[which(km4$cluster==1),1])
+
+length(phyD_FLT[which(km4$cluster==2),1])
+
+length(phyD_FLT[which(km4$cluster==3),1])
+
+length(phyD_FLT[which(km4$cluster==4),1])
+```
+
+
+```{r}
+phyD_FLT_c1<-phyD_FLT[which(km4$cluster==3),]
+#PCA
+phyD_FLT_1.pca<-princomp(phyD_FLT_c1[,-1])
+summary(phyD_FLT_1.pca)
+z1<-phyD_FLT_1.pca$scores[,1]
+z2<-phyD_FLT_1.pca$scores[,2]
+z<-cbind(z1,z2)
+
+pcaplot <- data.frame(PC1 = z1, PC2 = z2)
+
+ggplot(pcaplot, aes(x = PC1, y = PC2)) +
+  geom_point()
+
+eigvals<-phyD_FLT_1.pca$sdev^2
+k<-length(eigvals)
+plot(1:k,eigvals,type="b",xlab="i",ylab=expression(lambda[i]))
+
+##PCAbiplot
+ggplot2::autoplot(phyD_FLT_1.pca,label = F, loadings.label = T)
+```
+
+```{r}
+##EM clustering
+library(mclust)
+mclus_default<-Mclust(z)
+
+mclass<-mclus_default$classification
+k<-mclus_default$G
+(mclus_default$modelName)
+
+df <- data.frame(PC1 = z1, PC2 = z2, cluster = factor(mclass))
+
+ggplot(df, aes(x = PC1, y = PC2, color = cluster)) +
+  geom_point()
+```
+
+```{r}
+length(phyD_FLT_c1[which(mclass==1),1])
+phyD_FLT_mclass1<-data.frame(phyD_FLT_c1[which(mclass==1),1])
+#write.csv(phyD_FLT_mclass1, file = "phyD_FLT_mclass1.csv")
+
+length(phyD_FLT_c1[which(mclass==2),1])
+phyD_FLT_mclass2<-data.frame(phyD_FLT_c1[which(mclass==2),1])
+#write.csv(phyD_FLT_mclass2, file = "phyD_FLT_mclass2.csv")
+
+length(phyD_FLT_c1[which(mclass==3),1])
+phyD_FLT_mclass3<-data.frame(phyD_FLT_c1[which(mclass==3),1])
+#write.csv(phyD_FLT_mclass3, file = "phyD_FLT_mclass3.csv")
+
+length(phyD_FLT_c1[which(mclass==4),1])
+phyD_FLT_mclass4<-data.frame(phyD_FLT_c1[which(mclass==4),1])
+#write.csv(phyD_FLT_mclass4, file = "phyD_FLT_mclass4.csv")
+
+length(phyD_FLT_c1[which(mclass==5),1])
+phyD_FLT_mclass5<-data.frame(phyD_FLT_c1[which(mclass==5),1])
+#write.csv(phyD_FLT_mclass5, file = "phyD_FLT_mclass5.csv")
+
+length(phyD_FLT_c1[which(mclass==6),1])
+phyD_FLT_mclass6<-data.frame(phyD_FLT_c1[which(mclass==6),1])
+#write.csv(phyD_FLT_mclass6, file = "phyD_FLT_mclass6.csv")
+
+length(phyD_FLT_c1[which(mclass==7),1])
+phyD_FLT_mclass7<-data.frame(phyD_FLT_c1[which(mclass==7),1])
+#write.csv(phyD_FLT_mclass7, file = "phyD_FLT_mclass7.csv")
+
+length(phyD_FLT_c1[which(mclass==8),1])
+phyD_FLT_mclass8<-data.frame(phyD_FLT_c1[which(mclass==8),1])
+#write.csv(phyD_FLT_mclass8, file = "phyD_FLT_mclass8.csv")
+
+length(phyD_FLT_c1[which(mclass==9),1])
+phyD_FLT_mclass9<-data.frame(phyD_FLT_c1[which(mclass==9),1])
+#write.csv(phyD_FLT_mclass9, file = "phyD_FLT_mclass9.csv")
+```
+
+```{r}
+#dbscan
+library(dbscan)
+
+kNNdistplot(z, k =  5)
+abline(h = 70, lty = 2)
+
+db<-dbscan(z,eps = 70,minPts = 20)
+db
+
+
+df <- data.frame(PC1 = z1, PC2 = z2, cluster = factor(db$cluster))
+
+
+ggplot(df, aes(x = PC1, y = PC2, color = cluster)) +
+  geom_point()
+
+length(phyD_FLT_c1[which(db$cluster==1),1])
+phyD_FLT_dbscan1<-data.frame(phyD_FLT_c1[which(db$cluster==1),1])
+
+#write.csv(phyD_FLT_dbscan1, file = "phyD_FLT_dbscan1.csv")
+```
+
+##GC
+
+```{r}
+#phyD
+colnames(phyD_GC)<-c('LOCI','GC_L(1)','GC_L(2)','GC_L(3)','GC_D(1)','GC_D(2)','GC_D(3)')
+phyD_GC<-phyD_GC[-c(861, 12958, 23875),]
+
+#PCA
+phyD_GC.pca<-princomp(phyD_GC[,-1])
+summary(phyD_GC.pca)
+a1<-phyD_GC.pca$scores[,1]
+a2<-phyD_GC.pca$scores[,2]
+a<-cbind(a1,a2)
+
+pcaplot <- data.frame(PC1 = a1, PC2 = a2)
+
+ggplot(pcaplot, aes(x = PC1, y = PC2)) +
+  geom_point()
+
+eigvals<-phyD_GC.pca$sdev^2
+k<-length(eigvals)
+plot(1:k,eigvals,type="b",xlab="i",ylab=expression(lambda[i]))
+
+##PCAbiplot
+ggplot2::autoplot(phyD_GC.pca,label = F, loadings.label = T)#
+#which(a1 > 1e+05)
+
+```
+
+```{r}
+##kmeans
+n<-dim(a)[1]; k<-6
+wss<- rep(0,k); xm<-apply(a,2,mean)
+for(i in 1:n){
+  wss[1]<- wss[1]+sum((a[i,]-xm)^2)
+}
+for(i in 2:k){
+  model<-kmeans(a,i)
+  wss[i]<-sum(model$withinss)
+}
+plot(1:k,wss,type="b",xlab="Number of clusters", ylab="Within cluster sum of squares",main="Screeplot")
+
+k<-4
+km4<-kmeans(a,k)
+
+df <- data.frame(PC1 = a1, PC2 = a2, cluster = factor(km4$cluster))
+
+ggplot(df, aes(x = PC1, y = PC2, color = cluster)) +
+  geom_point()
+
+
+length(phyD_GC[which(km4$cluster==1),1])
+
+length(phyD_GC[which(km4$cluster==2),1])
+
+length(phyD_GC[which(km4$cluster==3),1])
+
+length(phyD_GC[which(km4$cluster==4),1])
+```
+
+```{r}
+phyD_GC_c1<-phyD_GC[which(km4$cluster==1),]
+#PCA
+phyD_GC_1.pca<-princomp(phyD_GC_c1[,-1])
+summary(phyD_GC_1.pca)
+z1<-phyD_GC_1.pca$scores[,1]
+z2<-phyD_GC_1.pca$scores[,2]
+z<-cbind(z1,z2)
+
+pcaplot <- data.frame(PC1 = z1, PC2 = z2)
+
+ggplot(pcaplot, aes(x = PC1, y = PC2)) +
+  geom_point()
+
+eigvals<-phyD_GC_1.pca$sdev^2
+k<-length(eigvals)
+plot(1:k,eigvals,type="b",xlab="i",ylab=expression(lambda[i]))
+
+##PCAbiplot
+ggplot2::autoplot(phyD_GC_1.pca,label = F, loadings.label = T)
+```
+
+```{r}
+##EM clustering
+library(mclust)
+mclus_default<-Mclust(z)
+
+mclass<-mclus_default$classification
+k<-mclus_default$G
+(mclus_default$modelName)
+
+df <- data.frame(PC1 = z1, PC2 = z2, cluster = factor(mclass))
+
+ggplot(df, aes(x = PC1, y = PC2, color = cluster)) +
+  geom_point()
+```
+
+```{r}
+length(phyD_GC_c1[which(mclass==1),1])
+phyD_GC_mclass1<-data.frame(phyD_GC_c1[which(mclass==1),1])
+write.csv(phyD_GC_mclass1, file = "phyD_GC_mclass1.csv")
+
+length(phyD_GC_c1[which(mclass==2),1])
+phyD_GC_mclass2<-data.frame(phyD_GC_c1[which(mclass==2),1])
+write.csv(phyD_GC_mclass2, file = "phyD_GC_mclass2.csv")
+
+length(phyD_GC_c1[which(mclass==3),1])
+phyD_GC_mclass3<-data.frame(phyD_GC_c1[which(mclass==3),1])
+write.csv(phyD_GC_mclass3, file = "phyD_GC_mclass3.csv")
+
+length(phyD_GC_c1[which(mclass==4),1])
+phyD_GC_mclass4<-data.frame(phyD_GC_c1[which(mclass==4),1])
+write.csv(phyD_GC_mclass4, file = "phyD_GC_mclass4.csv")
+
+length(phyD_GC_c1[which(mclass==5),1])
+phyD_GC_mclass5<-data.frame(phyD_GC_c1[which(mclass==5),1])
+write.csv(phyD_GC_mclass5, file = "phyD_GC_mclass5.csv")
+
+length(phyD_GC_c1[which(mclass==6),1])
+phyD_GC_mclass6<-data.frame(phyD_GC_c1[which(mclass==6),1])
+write.csv(phyD_GC_mclass6, file = "phyD_GC_mclass6.csv")
+
+length(phyD_GC_c1[which(mclass==7),1])
+phyD_GC_mclass7<-data.frame(phyD_GC_c1[which(mclass==7),1])
+write.csv(phyD_GC_mclass7, file = "phyD_GC_mclass7.csv")
+
+```
+
+```{r}
+#dbscan
+library(dbscan)
+
+kNNdistplot(z, k =  5)
+abline(h = 50, lty = 2)
+
+db<-dbscan(z,eps = 50,minPts = 15)
+db
+
+
+df <- data.frame(PC1 = z1, PC2 = z2, cluster = factor(db$cluster))
+
+
+ggplot(df, aes(x = PC1, y = PC2, color = cluster)) +
+  geom_point()
+
+length(phyD_GC_c1[which(db$cluster==1),1])
+phyD_GC_dbscan1<-data.frame(phyD_GC_c1[which(db$cluster==1),1])
+
+#write.csv(phyD_GC_dbscan1, file = "phyD_GC_dbscan1.csv")
+```
+
