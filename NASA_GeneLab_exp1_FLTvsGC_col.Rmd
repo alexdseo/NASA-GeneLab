@@ -45,6 +45,7 @@ When plants were germinated and then left in the dark on the ISS, the WS genotyp
 ```{r}
 set.seed(2021)
 nasa<-read.csv("GLDS-120_rna_seq_Normalized_Counts.csv")
+#CARA_FC<-read.csv("logfc_GLDS120.csv")
 ##head(nasa)
 ##summary(nasa)
 #Dividing dataset 
@@ -114,13 +115,13 @@ ggplot(df, aes(x = PC1, y = PC2, color = cluster)) +
   geom_point()
 
 
-length(col_FLT[which(km4$cluster==1),1])
+length(col_FLT[which(km4$cluster==1),1]) #43
 
-length(col_FLT[which(km4$cluster==2),1])
+length(col_FLT[which(km4$cluster==2),1]) #227
 
-length(col_FLT[which(km4$cluster==3),1])
+length(col_FLT[which(km4$cluster==3),1]) #22398
 
-length(col_FLT[which(km4$cluster==4),1])
+length(col_FLT[which(km4$cluster==4),1]) #1315
 ```
 
 
@@ -162,37 +163,37 @@ ggplot(df, aes(x = PC1, y = PC2, color = cluster)) +
 ```
 
 ```{r}
-length(col_FLT_c1[which(mclass==1),1])
+length(col_FLT_c1[which(mclass==1),1]) #2362
 col_FLT_mclass1<-data.frame(col_FLT_c1[which(mclass==1),1])
-write.csv(col_FLT_mclass1, file = "col_FLT_mclass1.csv")
+#write.csv(col_FLT_mclass1, file = "col_FLT_mclass1.csv")
 
-length(col_FLT_c1[which(mclass==2),1])
+length(col_FLT_c1[which(mclass==2),1]) #1521
 col_FLT_mclass2<-data.frame(col_FLT_c1[which(mclass==2),1])
-write.csv(col_FLT_mclass2, file = "col_FLT_mclass2.csv")
+#write.csv(col_FLT_mclass2, file = "col_FLT_mclass2.csv")
 
-length(col_FLT_c1[which(mclass==3),1])
+length(col_FLT_c1[which(mclass==3),1]) #2373
 col_FLT_mclass3<-data.frame(col_FLT_c1[which(mclass==3),1])
-write.csv(col_FLT_mclass3, file = "col_FLT_mclass3.csv")
+#write.csv(col_FLT_mclass3, file = "col_FLT_mclass3.csv")
 
-length(col_FLT_c1[which(mclass==4),1])
+length(col_FLT_c1[which(mclass==4),1]) #207
 col_FLT_mclass4<-data.frame(col_FLT_c1[which(mclass==4),1])
-write.csv(col_FLT_mclass4, file = "col_FLT_mclass4.csv")
+#write.csv(col_FLT_mclass4, file = "col_FLT_mclass4.csv")
 
-length(col_FLT_c1[which(mclass==5),1])
+length(col_FLT_c1[which(mclass==5),1]) #3685
 col_FLT_mclass5<-data.frame(col_FLT_c1[which(mclass==5),1])
-write.csv(col_FLT_mclass5, file = "col_FLT_mclass5.csv")
+#write.csv(col_FLT_mclass5, file = "col_FLT_mclass5.csv")
 
-length(col_FLT_c1[which(mclass==6),1])
+length(col_FLT_c1[which(mclass==6),1]) #4317
 col_FLT_mclass6<-data.frame(col_FLT_c1[which(mclass==6),1])
-write.csv(col_FLT_mclass6, file = "col_FLT_mclass6.csv")
+#write.csv(col_FLT_mclass6, file = "col_FLT_mclass6.csv")
 
-length(col_FLT_c1[which(mclass==7),1])
+length(col_FLT_c1[which(mclass==7),1]) #2562
 col_FLT_mclass7<-data.frame(col_FLT_c1[which(mclass==7),1])
-write.csv(col_FLT_mclass7, file = "col_FLT_mclass7.csv")
+#write.csv(col_FLT_mclass7, file = "col_FLT_mclass7.csv")
 
-length(col_FLT_c1[which(mclass==8),1])
+length(col_FLT_c1[which(mclass==8),1]) #5371
 col_FLT_mclass8<-data.frame(col_FLT_c1[which(mclass==8),1])
-write.csv(col_FLT_mclass8, file = "col_FLT_mclass8.csv")
+#write.csv(col_FLT_mclass8, file = "col_FLT_mclass8.csv")
 
 ```
 
@@ -317,35 +318,35 @@ ggplot(df, aes(x = PC1, y = PC2, color = cluster)) +
 ```
 
 ```{r}
-length(col_GC_c1[which(mclass==1),1])
+length(col_GC_c1[which(mclass==1),1]) #3811
 col_GC_mclass1<-data.frame(col_GC_c1[which(mclass==1),1])
 write.csv(col_GC_mclass1, file = "col_GC_mclass1.csv")
 
-length(col_GC_c1[which(mclass==2),1])
+length(col_GC_c1[which(mclass==2),1]) #4828
 col_GC_mclass2<-data.frame(col_GC_c1[which(mclass==2),1])
 write.csv(col_GC_mclass2, file = "col_GC_mclass2.csv")
 
-length(col_GC_c1[which(mclass==3),1])
+length(col_GC_c1[which(mclass==3),1]) #2721
 col_GC_mclass3<-data.frame(col_GC_c1[which(mclass==3),1])
 write.csv(col_GC_mclass3, file = "col_GC_mclass3.csv")
 
-length(col_GC_c1[which(mclass==4),1])
+length(col_GC_c1[which(mclass==4),1]) #1228
 col_GC_mclass4<-data.frame(col_GC_c1[which(mclass==4),1])
 write.csv(col_GC_mclass4, file = "col_GC_mclass4.csv")
 
-length(col_GC_c1[which(mclass==5),1])
+length(col_GC_c1[which(mclass==5),1]) #2229
 col_GC_mclass5<-data.frame(col_GC_c1[which(mclass==5),1])
 write.csv(col_GC_mclass5, file = "col_GC_mclass5.csv")
 
-length(col_GC_c1[which(mclass==6),1])
+length(col_GC_c1[which(mclass==6),1]) #3624
 col_GC_mclass6<-data.frame(col_GC_c1[which(mclass==6),1])
 write.csv(col_GC_mclass6, file = "col_GC_mclass6.csv")
 
-length(col_GC_c1[which(mclass==7),1])
+length(col_GC_c1[which(mclass==7),1]) #2199
 col_GC_mclass7<-data.frame(col_GC_c1[which(mclass==7),1])
 write.csv(col_GC_mclass7, file = "col_GC_mclass7.csv")
 
-length(col_GC_c1[which(mclass==8),1])
+length(col_GC_c1[which(mclass==8),1]) #2270
 col_GC_mclass8<-data.frame(col_GC_c1[which(mclass==8),1])
 write.csv(col_GC_mclass8, file = "col_GC_mclass8.csv")
 ```
