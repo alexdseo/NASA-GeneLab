@@ -21,3 +21,15 @@ write.csv(temp5,"temp5.csv")
 temp6<-logfc_Transport_WS_GC
 temp6<-subset(temp6, !is.na(SYMBOL))
 write.csv(temp6,"temp6.csv")
+
+temp7<-logfc_Transport_218FLT
+temp7<-subset(temp7, !is.na(SYMBOL))
+write.csv(temp7,"temp7.csv")
+
+temp8<-logfc_Transport1_218GC
+temp8<-subset(temp8, !is.na(SYMBOL))
+write.csv(temp8,"temp8.csv")
+
+temp9<-logfc_Transport2_218GC
+temp9<-subset(temp9, !is.na(SYMBOL))
+write.csv(temp9,"temp9.csv")
