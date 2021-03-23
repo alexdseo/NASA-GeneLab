@@ -23,5 +23,12 @@ write.csv(temp3,"logfc_Flower_WS_FLT_f.csv")
 
 temp6<-logfc_Flower_WS_GC
 temp6<-subset(temp6, !is.na(SYMBOL))
-write.csv(temp6,"logfc_Flower_WS_GC.csv")
+write.csv(temp6,"logfc_Flower_WS_GC_f.csv")
 
+temp7<-logfc_Flower_218_FLT
+temp7<-subset(temp7, !is.na(SYMBOL))
+write.csv(temp7,"logfc_Flower_218_FLT_f.csv")
+
+temp8<-logfc_Flower_218_GC
+temp8<-subset(temp8, !is.na(SYMBOL))
+write.csv(temp8,"logfc_Flower_218_GC_f.csv")
